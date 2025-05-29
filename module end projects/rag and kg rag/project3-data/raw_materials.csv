@@ -1,0 +1,76 @@
+material_id,name,supplier_id,supplier_name,origin_country,unit_cost_usd,minimum_order_quantity,shelf_life_days,hazmat_classification,quality_grade,regulatory_approval
+MAT_2C61E357,Medical Grade Silicone,SUP_552AE51E,Sims-Hill Inc,Canada,313.18,7099,,,Medical Grade,"['PMDA', 'Health Canada']"
+MAT_C31580E4,Medical Grade Silicone,SUP_EF597D52,Perry-Soto Inc,Malaysia,159.71,6921,,,Industrial Grade,"['CE', 'Health Canada']"
+MAT_62BE7AFD,Medical Grade Silicone,SUP_7A4A8970,"Snyder, Campos and Callahan Inc",Malaysia,237.02,3792,,,Pharmaceutical Grade,['PMDA']
+MAT_B5D80630,Medical Grade Silicone,SUP_8DE837AD,Harrison LLC Pte Ltd,Netherlands,457.41,9314,,,Industrial Grade,"['CE', 'PMDA', 'FDA']"
+MAT_D056E567,Medical Grade Silicone,SUP_DBEBC821,Anderson-Bailey Pte Ltd,Netherlands,127.87,5511,,,Industrial Grade,"['FDA', 'Health Canada']"
+MAT_23F6976C,Titanium Alloy,SUP_3119B27A,Wilkerson-Day Ltd,Italy,337.0,9978,,,Medical Grade,"['CE', 'PMDA', 'FDA']"
+MAT_F5549973,Titanium Alloy,SUP_3A4E8BAF,"Jackson, Miller and Robertson Corp",Taiwan,434.8,5555,,,Medical Grade,['CE']
+MAT_54A83A41,Titanium Alloy,SUP_08F4A196,"Hernandez, Thompson and Boyd Pte Ltd",South Korea,481.06,2022,,,Industrial Grade,['CE']
+MAT_41318529,Stainless Steel 316L,SUP_05530423,Chandler-Edwards GmbH,Canada,233.39,5986,,,Industrial Grade,"['PMDA', 'CE', 'FDA']"
+MAT_36D913E1,Stainless Steel 316L,SUP_01C8C903,Fox Group Inc,Japan,401.51,7792,,,Industrial Grade,['Health Canada']
+MAT_F36270DD,Stainless Steel 316L,SUP_E6790CF0,"Hurst, Freeman and Nelson Ltd",China,156.8,849,,,Medical Grade,"['CE', 'FDA', 'PMDA']"
+MAT_D21EFEFD,Stainless Steel 316L,SUP_57286614,Robinson-Brock Inc,Philippines,276.88,9668,,,Industrial Grade,"['CE', 'FDA']"
+MAT_D54AD182,Stainless Steel 316L,SUP_8235D37B,Marshall-Petersen Inc,Italy,165.27,6323,,,Medical Grade,"['Health Canada', 'CE']"
+MAT_D5F932C4,Polycarbonate Resin,SUP_EA827812,Santiago-Hodge Pte Ltd,France,360.3,8100,,,Pharmaceutical Grade,['FDA']
+MAT_646E78D0,Polycarbonate Resin,SUP_FD5D5060,Mcdaniel LLC GmbH,Israel,472.62,894,,,Industrial Grade,['CE']
+MAT_DC1112C9,Polycarbonate Resin,SUP_975EACA8,Ellis PLC Pte Ltd,Israel,34.45,2574,,Class 3,Industrial Grade,['PMDA']
+MAT_6749A1F4,Polycarbonate Resin,SUP_04DA4261,Jackson-Lawson Inc,India,329.81,357,,Class 3,Medical Grade,['Health Canada']
+MAT_4491B839,Polycarbonate Resin,SUP_06962C80,Hancock Inc Ltd,Canada,268.1,4797,,Class 3,Medical Grade,['FDA']
+MAT_6D8E6733,PEEK Polymer,SUP_05530423,Chandler-Edwards GmbH,Canada,126.58,5907,,Class 3,Medical Grade,"['PMDA', 'CE']"
+MAT_D5BB58A9,PEEK Polymer,SUP_D87ACCFF,Smith and Sons GmbH,France,282.72,3800,,,Pharmaceutical Grade,"['FDA', 'PMDA', 'CE']"
+MAT_833C7150,PEEK Polymer,SUP_EB070827,"Suarez, Shields and Hill Corp",Netherlands,189.94,9155,,,Pharmaceutical Grade,['CE']
+MAT_FEC73796,Latex,SUP_FAEA0C49,Wilson-Barton Inc,Switzerland,322.63,5527,,,Medical Grade,"['FDA', 'PMDA', 'Health Canada']"
+MAT_C6F670D7,Latex,SUP_012FFAF7,Vasquez-Ray Pte Ltd,Netherlands,450.69,9386,,,Medical Grade,['Health Canada']
+MAT_967816F8,Nitrile Rubber,SUP_8BEDA12C,Bass-Warner Pte Ltd,United States,8.32,3494,,,Pharmaceutical Grade,"['FDA', 'CE']"
+MAT_7E5E72B6,Nitrile Rubber,SUP_D0B269AB,"Smith, Gilmore and Johnston Pte Ltd",Indonesia,81.64,4039,,,Industrial Grade,"['Health Canada', 'CE', 'FDA']"
+MAT_0967BDE5,Polyethylene,SUP_BD78F717,Brown-Stone Pte Ltd,Italy,27.32,7261,,,Industrial Grade,"['PMDA', 'CE', 'FDA']"
+MAT_1AD425E5,Polyethylene,SUP_1915FCEB,"Williams, Johnson and Wright GmbH",United States,317.24,7481,,,Industrial Grade,"['PMDA', 'CE', 'FDA']"
+MAT_28160D04,Polypropylene,SUP_E0D62C3E,Hickman LLC Pte Ltd,Philippines,77.53,2627,,,Industrial Grade,"['FDA', 'PMDA']"
+MAT_C86BAEED,Polypropylene,SUP_FFFDE76A,Green-Wright Inc,South Korea,3.1,5150,,,Industrial Grade,['CE']
+MAT_AB16F8C0,Polypropylene,SUP_D4F9CFD2,"Mccall, Hanson and Alvarado Inc",Indonesia,44.1,7161,,,Pharmaceutical Grade,"['PMDA', 'FDA', 'Health Canada']"
+MAT_AD1F96C4,Polypropylene,SUP_8A15959C,Carter and Sons Inc,United Kingdom,45.26,9180,,Class 2,Industrial Grade,['Health Canada']
+MAT_B0A0CE52,Polypropylene,SUP_3A4E8BAF,"Jackson, Miller and Robertson Corp",Taiwan,207.2,1487,,,Pharmaceutical Grade,['CE']
+MAT_DAE69A6F,PVC Medical Grade,SUP_975EACA8,Ellis PLC Pte Ltd,Israel,73.39,2839,,,Industrial Grade,"['PMDA', 'FDA']"
+MAT_8E1AD9C4,PVC Medical Grade,SUP_06962C80,Hancock Inc Ltd,Canada,180.88,4140,,,Industrial Grade,"['CE', 'PMDA', 'FDA']"
+MAT_64D1E275,PVC Medical Grade,SUP_3A4E8BAF,"Jackson, Miller and Robertson Corp",Taiwan,68.18,210,,,Industrial Grade,"['PMDA', 'CE', 'Health Canada']"
+MAT_0EDCA270,PVC Medical Grade,SUP_D2F72347,Flores-Fernandez Inc,South Korea,167.7,9838,,Class 2,Pharmaceutical Grade,"['CE', 'PMDA', 'Health Canada']"
+MAT_E2F668BE,PVC Medical Grade,SUP_E7CAF991,Bates-Morales Inc,Canada,89.23,6624,,,Industrial Grade,"['PMDA', 'Health Canada', 'FDA']"
+MAT_0E51C31A,Glass Vials,SUP_08F4A196,"Hernandez, Thompson and Boyd Pte Ltd",South Korea,57.39,9338,,Class 1,Pharmaceutical Grade,"['FDA', 'Health Canada', 'CE']"
+MAT_9AEEC909,Glass Vials,SUP_174D7135,Ross-Hernandez GmbH,Singapore,471.52,3534,,,Industrial Grade,"['FDA', 'CE', 'Health Canada']"
+MAT_F6AD1147,Glass Vials,SUP_9DE4A676,Salinas-Peterson Corp,Malaysia,70.02,5061,,Class 1,Pharmaceutical Grade,"['PMDA', 'FDA']"
+MAT_76753E2A,Glass Vials,SUP_E2C8ED57,Jefferson-Burke GmbH,Japan,224.81,9896,,,Industrial Grade,"['PMDA', 'Health Canada', 'FDA']"
+MAT_105587D0,Pharmaceutical Excipients,SUP_93903759,Gibson-Morris GmbH,Ireland,328.97,5916,370.0,,Medical Grade,"['PMDA', 'CE', 'Health Canada']"
+MAT_EA7BCA9A,Pharmaceutical Excipients,SUP_E0D62C3E,Hickman LLC Pte Ltd,Philippines,53.42,1715,559.0,Class 1,Industrial Grade,"['PMDA', 'CE']"
+MAT_37362FCD,Pharmaceutical Excipients,SUP_9A10949D,"Brown, Jones and Johnson Pte Ltd",Philippines,386.28,9743,1054.0,,Industrial Grade,['Health Canada']
+MAT_E8F825DA,Pharmaceutical Excipients,SUP_D4F9CFD2,"Mccall, Hanson and Alvarado Inc",Indonesia,208.28,1506,267.0,,Pharmaceutical Grade,['Health Canada']
+MAT_84E14B61,Active Pharmaceutical Ingredients,SUP_38F174DE,Smith-Ryan Pte Ltd,Japan,241.72,7901,229.0,,Pharmaceutical Grade,"['Health Canada', 'FDA']"
+MAT_E0B3B8DE,Active Pharmaceutical Ingredients,SUP_4248702D,"Wheeler, Carter and Hall Inc",India,150.48,1985,76.0,,Pharmaceutical Grade,['CE']
+MAT_E7C72285,Active Pharmaceutical Ingredients,SUP_30E30792,Nolan and Sons Inc,China,465.0,4096,1086.0,Class 1,Industrial Grade,"['PMDA', 'CE', 'FDA']"
+MAT_34DE9A63,Active Pharmaceutical Ingredients,SUP_1318D421,Sanchez-Arnold Corp,Canada,398.98,3122,411.0,,Industrial Grade,"['FDA', 'Health Canada']"
+MAT_667DDDE5,Electronic Components,SUP_861C13BB,Allen PLC GmbH,Taiwan,2.72,3619,,,Pharmaceutical Grade,['CE']
+MAT_6445FF99,Electronic Components,SUP_9D3F37F5,"Oneill, Henry and Salas Inc",Germany,183.21,3328,,,Industrial Grade,"['PMDA', 'Health Canada', 'CE']"
+MAT_5D8DB786,Electronic Components,SUP_E5109F15,"Barnett, Rogers and Snyder Ltd",Netherlands,298.69,6531,,,Industrial Grade,"['PMDA', 'Health Canada']"
+MAT_321F2C87,Copper Wire,SUP_552AE51E,Sims-Hill Inc,Canada,156.94,4008,,,Medical Grade,"['CE', 'Health Canada']"
+MAT_15A3DDA5,Copper Wire,SUP_E0D62C3E,Hickman LLC Pte Ltd,Philippines,194.54,9871,,Class 3,Industrial Grade,['PMDA']
+MAT_1E5F3E41,Copper Wire,SUP_0A7A6A7B,Novak and Sons GmbH,Thailand,317.93,2938,,,Industrial Grade,"['CE', 'FDA']"
+MAT_D06A8F61,Aluminum,SUP_861C13BB,Allen PLC GmbH,Taiwan,242.56,3296,,,Pharmaceutical Grade,"['PMDA', 'CE', 'Health Canada']"
+MAT_A14A6D0A,Aluminum,SUP_3119B27A,Wilkerson-Day Ltd,Italy,208.11,7372,,,Medical Grade,"['FDA', 'PMDA', 'CE']"
+MAT_53C6B315,Aluminum,SUP_11DBDBB1,Lane LLC Inc,United Kingdom,16.83,3783,,,Medical Grade,"['PMDA', 'Health Canada']"
+MAT_8C9FF9C9,Aluminum,SUP_069B11C8,"Johnson, Gonzalez and Santos GmbH",Thailand,255.65,9483,,Class 2,Pharmaceutical Grade,['PMDA']
+MAT_333A71D8,Rare Earth Magnets,SUP_981C5952,Mccann PLC Ltd,Vietnam,149.21,628,,,Industrial Grade,['PMDA']
+MAT_A72708C8,Rare Earth Magnets,SUP_8B899F45,Chapman and Sons Inc,France,432.71,2023,,,Medical Grade,['Health Canada']
+MAT_28A807D3,Rare Earth Magnets,SUP_D4F9CFD2,"Mccall, Hanson and Alvarado Inc",Indonesia,430.59,7115,,Class 1,Medical Grade,['FDA']
+MAT_AA60F6FB,Lithium Batteries,SUP_45D4024A,"Burns, Hernandez and Ryan GmbH",France,162.16,4894,,Class 2,Pharmaceutical Grade,"['FDA', 'PMDA', 'CE']"
+MAT_9FC44B01,Lithium Batteries,SUP_174D7135,Ross-Hernandez GmbH,Singapore,459.42,4643,,,Medical Grade,"['CE', 'FDA', 'Health Canada']"
+MAT_7610EEC8,Lithium Batteries,SUP_93903759,Gibson-Morris GmbH,Ireland,355.84,4155,,,Pharmaceutical Grade,"['PMDA', 'FDA']"
+MAT_FD206E98,Lithium Batteries,SUP_975EACA8,Ellis PLC Pte Ltd,Israel,288.92,4502,,,Industrial Grade,"['FDA', 'Health Canada']"
+MAT_DB34572B,Circuit Boards,SUP_9F52B26A,"Sanchez, Beck and Wood Corp",Taiwan,375.03,6146,,,Industrial Grade,"['FDA', 'Health Canada']"
+MAT_716E9167,Circuit Boards,SUP_0A860C16,"Smith, Russell and Walker Ltd",Israel,47.02,7611,,,Pharmaceutical Grade,"['FDA', 'Health Canada']"
+MAT_1FC07F8B,Optical Fibers,SUP_531D5A17,Pham-Shields Corp,Philippines,161.77,4746,,,Pharmaceutical Grade,['PMDA']
+MAT_B0142991,Optical Fibers,SUP_9D3F37F5,"Oneill, Henry and Salas Inc",Germany,394.26,893,,Class 3,Medical Grade,['CE']
+MAT_A4B08C11,Optical Fibers,SUP_C2BE0B9A,Keith Inc Pte Ltd,United Kingdom,220.92,111,,,Industrial Grade,['CE']
+MAT_92813F53,Optical Fibers,SUP_E7CAF991,Bates-Morales Inc,Canada,441.13,5045,,Class 2,Medical Grade,"['Health Canada', 'CE', 'FDA']"
+MAT_8F18F31B,Optical Fibers,SUP_3A4E8BAF,"Jackson, Miller and Robertson Corp",Taiwan,186.24,2811,,Class 2,Pharmaceutical Grade,"['CE', 'PMDA', 'FDA']"
+MAT_D23F6D6C,Ceramic Components,SUP_E4E4BACA,"Rodriguez, Figueroa and Sanchez Ltd",Indonesia,238.66,2274,,,Pharmaceutical Grade,"['PMDA', 'FDA', 'Health Canada']"
+MAT_6B3BA556,Ceramic Components,SUP_C2BE0B9A,Keith Inc Pte Ltd,United Kingdom,347.95,2075,,,Industrial Grade,"['CE', 'PMDA', 'FDA']"

@@ -1,0 +1,1204 @@
+[
+  {
+    "material_id": "MAT_2C61E357",
+    "name": "Medical Grade Silicone",
+    "supplier_id": "SUP_552AE51E",
+    "supplier_name": "Sims-Hill Inc",
+    "origin_country": "Canada",
+    "unit_cost_usd": 313.18,
+    "minimum_order_quantity": 7099,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_C31580E4",
+    "name": "Medical Grade Silicone",
+    "supplier_id": "SUP_EF597D52",
+    "supplier_name": "Perry-Soto Inc",
+    "origin_country": "Malaysia",
+    "unit_cost_usd": 159.71,
+    "minimum_order_quantity": 6921,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_62BE7AFD",
+    "name": "Medical Grade Silicone",
+    "supplier_id": "SUP_7A4A8970",
+    "supplier_name": "Snyder, Campos and Callahan Inc",
+    "origin_country": "Malaysia",
+    "unit_cost_usd": 237.02,
+    "minimum_order_quantity": 3792,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_B5D80630",
+    "name": "Medical Grade Silicone",
+    "supplier_id": "SUP_8DE837AD",
+    "supplier_name": "Harrison LLC Pte Ltd",
+    "origin_country": "Netherlands",
+    "unit_cost_usd": 457.41,
+    "minimum_order_quantity": 9314,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_D056E567",
+    "name": "Medical Grade Silicone",
+    "supplier_id": "SUP_DBEBC821",
+    "supplier_name": "Anderson-Bailey Pte Ltd",
+    "origin_country": "Netherlands",
+    "unit_cost_usd": 127.87,
+    "minimum_order_quantity": 5511,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_23F6976C",
+    "name": "Titanium Alloy",
+    "supplier_id": "SUP_3119B27A",
+    "supplier_name": "Wilkerson-Day Ltd",
+    "origin_country": "Italy",
+    "unit_cost_usd": 337.0,
+    "minimum_order_quantity": 9978,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_F5549973",
+    "name": "Titanium Alloy",
+    "supplier_id": "SUP_3A4E8BAF",
+    "supplier_name": "Jackson, Miller and Robertson Corp",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 434.8,
+    "minimum_order_quantity": 5555,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_54A83A41",
+    "name": "Titanium Alloy",
+    "supplier_id": "SUP_08F4A196",
+    "supplier_name": "Hernandez, Thompson and Boyd Pte Ltd",
+    "origin_country": "South Korea",
+    "unit_cost_usd": 481.06,
+    "minimum_order_quantity": 2022,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_41318529",
+    "name": "Stainless Steel 316L",
+    "supplier_id": "SUP_05530423",
+    "supplier_name": "Chandler-Edwards GmbH",
+    "origin_country": "Canada",
+    "unit_cost_usd": 233.39,
+    "minimum_order_quantity": 5986,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_36D913E1",
+    "name": "Stainless Steel 316L",
+    "supplier_id": "SUP_01C8C903",
+    "supplier_name": "Fox Group Inc",
+    "origin_country": "Japan",
+    "unit_cost_usd": 401.51,
+    "minimum_order_quantity": 7792,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_F36270DD",
+    "name": "Stainless Steel 316L",
+    "supplier_id": "SUP_E6790CF0",
+    "supplier_name": "Hurst, Freeman and Nelson Ltd",
+    "origin_country": "China",
+    "unit_cost_usd": 156.8,
+    "minimum_order_quantity": 849,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE",
+      "FDA",
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_D21EFEFD",
+    "name": "Stainless Steel 316L",
+    "supplier_id": "SUP_57286614",
+    "supplier_name": "Robinson-Brock Inc",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 276.88,
+    "minimum_order_quantity": 9668,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_D54AD182",
+    "name": "Stainless Steel 316L",
+    "supplier_id": "SUP_8235D37B",
+    "supplier_name": "Marshall-Petersen Inc",
+    "origin_country": "Italy",
+    "unit_cost_usd": 165.27,
+    "minimum_order_quantity": 6323,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "Health Canada",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_D5F932C4",
+    "name": "Polycarbonate Resin",
+    "supplier_id": "SUP_EA827812",
+    "supplier_name": "Santiago-Hodge Pte Ltd",
+    "origin_country": "France",
+    "unit_cost_usd": 360.3,
+    "minimum_order_quantity": 8100,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_646E78D0",
+    "name": "Polycarbonate Resin",
+    "supplier_id": "SUP_FD5D5060",
+    "supplier_name": "Mcdaniel LLC GmbH",
+    "origin_country": "Israel",
+    "unit_cost_usd": 472.62,
+    "minimum_order_quantity": 894,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_DC1112C9",
+    "name": "Polycarbonate Resin",
+    "supplier_id": "SUP_975EACA8",
+    "supplier_name": "Ellis PLC Pte Ltd",
+    "origin_country": "Israel",
+    "unit_cost_usd": 34.45,
+    "minimum_order_quantity": 2574,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_6749A1F4",
+    "name": "Polycarbonate Resin",
+    "supplier_id": "SUP_04DA4261",
+    "supplier_name": "Jackson-Lawson Inc",
+    "origin_country": "India",
+    "unit_cost_usd": 329.81,
+    "minimum_order_quantity": 357,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_4491B839",
+    "name": "Polycarbonate Resin",
+    "supplier_id": "SUP_06962C80",
+    "supplier_name": "Hancock Inc Ltd",
+    "origin_country": "Canada",
+    "unit_cost_usd": 268.1,
+    "minimum_order_quantity": 4797,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_6D8E6733",
+    "name": "PEEK Polymer",
+    "supplier_id": "SUP_05530423",
+    "supplier_name": "Chandler-Edwards GmbH",
+    "origin_country": "Canada",
+    "unit_cost_usd": 126.58,
+    "minimum_order_quantity": 5907,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_D5BB58A9",
+    "name": "PEEK Polymer",
+    "supplier_id": "SUP_D87ACCFF",
+    "supplier_name": "Smith and Sons GmbH",
+    "origin_country": "France",
+    "unit_cost_usd": 282.72,
+    "minimum_order_quantity": 3800,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "PMDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_833C7150",
+    "name": "PEEK Polymer",
+    "supplier_id": "SUP_EB070827",
+    "supplier_name": "Suarez, Shields and Hill Corp",
+    "origin_country": "Netherlands",
+    "unit_cost_usd": 189.94,
+    "minimum_order_quantity": 9155,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_FEC73796",
+    "name": "Latex",
+    "supplier_id": "SUP_FAEA0C49",
+    "supplier_name": "Wilson-Barton Inc",
+    "origin_country": "Switzerland",
+    "unit_cost_usd": 322.63,
+    "minimum_order_quantity": 5527,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "PMDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_C6F670D7",
+    "name": "Latex",
+    "supplier_id": "SUP_012FFAF7",
+    "supplier_name": "Vasquez-Ray Pte Ltd",
+    "origin_country": "Netherlands",
+    "unit_cost_usd": 450.69,
+    "minimum_order_quantity": 9386,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_967816F8",
+    "name": "Nitrile Rubber",
+    "supplier_id": "SUP_8BEDA12C",
+    "supplier_name": "Bass-Warner Pte Ltd",
+    "origin_country": "United States",
+    "unit_cost_usd": 8.32,
+    "minimum_order_quantity": 3494,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_7E5E72B6",
+    "name": "Nitrile Rubber",
+    "supplier_id": "SUP_D0B269AB",
+    "supplier_name": "Smith, Gilmore and Johnston Pte Ltd",
+    "origin_country": "Indonesia",
+    "unit_cost_usd": 81.64,
+    "minimum_order_quantity": 4039,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "Health Canada",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_0967BDE5",
+    "name": "Polyethylene",
+    "supplier_id": "SUP_BD78F717",
+    "supplier_name": "Brown-Stone Pte Ltd",
+    "origin_country": "Italy",
+    "unit_cost_usd": 27.32,
+    "minimum_order_quantity": 7261,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_1AD425E5",
+    "name": "Polyethylene",
+    "supplier_id": "SUP_1915FCEB",
+    "supplier_name": "Williams, Johnson and Wright GmbH",
+    "origin_country": "United States",
+    "unit_cost_usd": 317.24,
+    "minimum_order_quantity": 7481,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_28160D04",
+    "name": "Polypropylene",
+    "supplier_id": "SUP_E0D62C3E",
+    "supplier_name": "Hickman LLC Pte Ltd",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 77.53,
+    "minimum_order_quantity": 2627,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_C86BAEED",
+    "name": "Polypropylene",
+    "supplier_id": "SUP_FFFDE76A",
+    "supplier_name": "Green-Wright Inc",
+    "origin_country": "South Korea",
+    "unit_cost_usd": 3.1,
+    "minimum_order_quantity": 5150,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_AB16F8C0",
+    "name": "Polypropylene",
+    "supplier_id": "SUP_D4F9CFD2",
+    "supplier_name": "Mccall, Hanson and Alvarado Inc",
+    "origin_country": "Indonesia",
+    "unit_cost_usd": 44.1,
+    "minimum_order_quantity": 7161,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_AD1F96C4",
+    "name": "Polypropylene",
+    "supplier_id": "SUP_8A15959C",
+    "supplier_name": "Carter and Sons Inc",
+    "origin_country": "United Kingdom",
+    "unit_cost_usd": 45.26,
+    "minimum_order_quantity": 9180,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_B0A0CE52",
+    "name": "Polypropylene",
+    "supplier_id": "SUP_3A4E8BAF",
+    "supplier_name": "Jackson, Miller and Robertson Corp",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 207.2,
+    "minimum_order_quantity": 1487,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_DAE69A6F",
+    "name": "PVC Medical Grade",
+    "supplier_id": "SUP_975EACA8",
+    "supplier_name": "Ellis PLC Pte Ltd",
+    "origin_country": "Israel",
+    "unit_cost_usd": 73.39,
+    "minimum_order_quantity": 2839,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_8E1AD9C4",
+    "name": "PVC Medical Grade",
+    "supplier_id": "SUP_06962C80",
+    "supplier_name": "Hancock Inc Ltd",
+    "origin_country": "Canada",
+    "unit_cost_usd": 180.88,
+    "minimum_order_quantity": 4140,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_64D1E275",
+    "name": "PVC Medical Grade",
+    "supplier_id": "SUP_3A4E8BAF",
+    "supplier_name": "Jackson, Miller and Robertson Corp",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 68.18,
+    "minimum_order_quantity": 210,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_0EDCA270",
+    "name": "PVC Medical Grade",
+    "supplier_id": "SUP_D2F72347",
+    "supplier_name": "Flores-Fernandez Inc",
+    "origin_country": "South Korea",
+    "unit_cost_usd": 167.7,
+    "minimum_order_quantity": 9838,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_E2F668BE",
+    "name": "PVC Medical Grade",
+    "supplier_id": "SUP_E7CAF991",
+    "supplier_name": "Bates-Morales Inc",
+    "origin_country": "Canada",
+    "unit_cost_usd": 89.23,
+    "minimum_order_quantity": 6624,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_0E51C31A",
+    "name": "Glass Vials",
+    "supplier_id": "SUP_08F4A196",
+    "supplier_name": "Hernandez, Thompson and Boyd Pte Ltd",
+    "origin_country": "South Korea",
+    "unit_cost_usd": 57.39,
+    "minimum_order_quantity": 9338,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 1",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_9AEEC909",
+    "name": "Glass Vials",
+    "supplier_id": "SUP_174D7135",
+    "supplier_name": "Ross-Hernandez GmbH",
+    "origin_country": "Singapore",
+    "unit_cost_usd": 471.52,
+    "minimum_order_quantity": 3534,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_F6AD1147",
+    "name": "Glass Vials",
+    "supplier_id": "SUP_9DE4A676",
+    "supplier_name": "Salinas-Peterson Corp",
+    "origin_country": "Malaysia",
+    "unit_cost_usd": 70.02,
+    "minimum_order_quantity": 5061,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 1",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_76753E2A",
+    "name": "Glass Vials",
+    "supplier_id": "SUP_E2C8ED57",
+    "supplier_name": "Jefferson-Burke GmbH",
+    "origin_country": "Japan",
+    "unit_cost_usd": 224.81,
+    "minimum_order_quantity": 9896,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_105587D0",
+    "name": "Pharmaceutical Excipients",
+    "supplier_id": "SUP_93903759",
+    "supplier_name": "Gibson-Morris GmbH",
+    "origin_country": "Ireland",
+    "unit_cost_usd": 328.97,
+    "minimum_order_quantity": 5916,
+    "shelf_life_days": 370,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_EA7BCA9A",
+    "name": "Pharmaceutical Excipients",
+    "supplier_id": "SUP_E0D62C3E",
+    "supplier_name": "Hickman LLC Pte Ltd",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 53.42,
+    "minimum_order_quantity": 1715,
+    "shelf_life_days": 559,
+    "hazmat_classification": "Class 1",
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_37362FCD",
+    "name": "Pharmaceutical Excipients",
+    "supplier_id": "SUP_9A10949D",
+    "supplier_name": "Brown, Jones and Johnson Pte Ltd",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 386.28,
+    "minimum_order_quantity": 9743,
+    "shelf_life_days": 1054,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_E8F825DA",
+    "name": "Pharmaceutical Excipients",
+    "supplier_id": "SUP_D4F9CFD2",
+    "supplier_name": "Mccall, Hanson and Alvarado Inc",
+    "origin_country": "Indonesia",
+    "unit_cost_usd": 208.28,
+    "minimum_order_quantity": 1506,
+    "shelf_life_days": 267,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_84E14B61",
+    "name": "Active Pharmaceutical Ingredients",
+    "supplier_id": "SUP_38F174DE",
+    "supplier_name": "Smith-Ryan Pte Ltd",
+    "origin_country": "Japan",
+    "unit_cost_usd": 241.72,
+    "minimum_order_quantity": 7901,
+    "shelf_life_days": 229,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "Health Canada",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_E0B3B8DE",
+    "name": "Active Pharmaceutical Ingredients",
+    "supplier_id": "SUP_4248702D",
+    "supplier_name": "Wheeler, Carter and Hall Inc",
+    "origin_country": "India",
+    "unit_cost_usd": 150.48,
+    "minimum_order_quantity": 1985,
+    "shelf_life_days": 76,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_E7C72285",
+    "name": "Active Pharmaceutical Ingredients",
+    "supplier_id": "SUP_30E30792",
+    "supplier_name": "Nolan and Sons Inc",
+    "origin_country": "China",
+    "unit_cost_usd": 465.0,
+    "minimum_order_quantity": 4096,
+    "shelf_life_days": 1086,
+    "hazmat_classification": "Class 1",
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_34DE9A63",
+    "name": "Active Pharmaceutical Ingredients",
+    "supplier_id": "SUP_1318D421",
+    "supplier_name": "Sanchez-Arnold Corp",
+    "origin_country": "Canada",
+    "unit_cost_usd": 398.98,
+    "minimum_order_quantity": 3122,
+    "shelf_life_days": 411,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_667DDDE5",
+    "name": "Electronic Components",
+    "supplier_id": "SUP_861C13BB",
+    "supplier_name": "Allen PLC GmbH",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 2.72,
+    "minimum_order_quantity": 3619,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_6445FF99",
+    "name": "Electronic Components",
+    "supplier_id": "SUP_9D3F37F5",
+    "supplier_name": "Oneill, Henry and Salas Inc",
+    "origin_country": "Germany",
+    "unit_cost_usd": 183.21,
+    "minimum_order_quantity": 3328,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_5D8DB786",
+    "name": "Electronic Components",
+    "supplier_id": "SUP_E5109F15",
+    "supplier_name": "Barnett, Rogers and Snyder Ltd",
+    "origin_country": "Netherlands",
+    "unit_cost_usd": 298.69,
+    "minimum_order_quantity": 6531,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_321F2C87",
+    "name": "Copper Wire",
+    "supplier_id": "SUP_552AE51E",
+    "supplier_name": "Sims-Hill Inc",
+    "origin_country": "Canada",
+    "unit_cost_usd": 156.94,
+    "minimum_order_quantity": 4008,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_15A3DDA5",
+    "name": "Copper Wire",
+    "supplier_id": "SUP_E0D62C3E",
+    "supplier_name": "Hickman LLC Pte Ltd",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 194.54,
+    "minimum_order_quantity": 9871,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_1E5F3E41",
+    "name": "Copper Wire",
+    "supplier_id": "SUP_0A7A6A7B",
+    "supplier_name": "Novak and Sons GmbH",
+    "origin_country": "Thailand",
+    "unit_cost_usd": 317.93,
+    "minimum_order_quantity": 2938,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_D06A8F61",
+    "name": "Aluminum",
+    "supplier_id": "SUP_861C13BB",
+    "supplier_name": "Allen PLC GmbH",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 242.56,
+    "minimum_order_quantity": 3296,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "CE",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_A14A6D0A",
+    "name": "Aluminum",
+    "supplier_id": "SUP_3119B27A",
+    "supplier_name": "Wilkerson-Day Ltd",
+    "origin_country": "Italy",
+    "unit_cost_usd": 208.11,
+    "minimum_order_quantity": 7372,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "PMDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_53C6B315",
+    "name": "Aluminum",
+    "supplier_id": "SUP_11DBDBB1",
+    "supplier_name": "Lane LLC Inc",
+    "origin_country": "United Kingdom",
+    "unit_cost_usd": 16.83,
+    "minimum_order_quantity": 3783,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_8C9FF9C9",
+    "name": "Aluminum",
+    "supplier_id": "SUP_069B11C8",
+    "supplier_name": "Johnson, Gonzalez and Santos GmbH",
+    "origin_country": "Thailand",
+    "unit_cost_usd": 255.65,
+    "minimum_order_quantity": 9483,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_333A71D8",
+    "name": "Rare Earth Magnets",
+    "supplier_id": "SUP_981C5952",
+    "supplier_name": "Mccann PLC Ltd",
+    "origin_country": "Vietnam",
+    "unit_cost_usd": 149.21,
+    "minimum_order_quantity": 628,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_A72708C8",
+    "name": "Rare Earth Magnets",
+    "supplier_id": "SUP_8B899F45",
+    "supplier_name": "Chapman and Sons Inc",
+    "origin_country": "France",
+    "unit_cost_usd": 432.71,
+    "minimum_order_quantity": 2023,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_28A807D3",
+    "name": "Rare Earth Magnets",
+    "supplier_id": "SUP_D4F9CFD2",
+    "supplier_name": "Mccall, Hanson and Alvarado Inc",
+    "origin_country": "Indonesia",
+    "unit_cost_usd": 430.59,
+    "minimum_order_quantity": 7115,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 1",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_AA60F6FB",
+    "name": "Lithium Batteries",
+    "supplier_id": "SUP_45D4024A",
+    "supplier_name": "Burns, Hernandez and Ryan GmbH",
+    "origin_country": "France",
+    "unit_cost_usd": 162.16,
+    "minimum_order_quantity": 4894,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "PMDA",
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_9FC44B01",
+    "name": "Lithium Batteries",
+    "supplier_id": "SUP_174D7135",
+    "supplier_name": "Ross-Hernandez GmbH",
+    "origin_country": "Singapore",
+    "unit_cost_usd": 459.42,
+    "minimum_order_quantity": 4643,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE",
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_7610EEC8",
+    "name": "Lithium Batteries",
+    "supplier_id": "SUP_93903759",
+    "supplier_name": "Gibson-Morris GmbH",
+    "origin_country": "Ireland",
+    "unit_cost_usd": 355.84,
+    "minimum_order_quantity": 4155,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_FD206E98",
+    "name": "Lithium Batteries",
+    "supplier_id": "SUP_975EACA8",
+    "supplier_name": "Ellis PLC Pte Ltd",
+    "origin_country": "Israel",
+    "unit_cost_usd": 288.92,
+    "minimum_order_quantity": 4502,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_DB34572B",
+    "name": "Circuit Boards",
+    "supplier_id": "SUP_9F52B26A",
+    "supplier_name": "Sanchez, Beck and Wood Corp",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 375.03,
+    "minimum_order_quantity": 6146,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_716E9167",
+    "name": "Circuit Boards",
+    "supplier_id": "SUP_0A860C16",
+    "supplier_name": "Smith, Russell and Walker Ltd",
+    "origin_country": "Israel",
+    "unit_cost_usd": 47.02,
+    "minimum_order_quantity": 7611,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_1FC07F8B",
+    "name": "Optical Fibers",
+    "supplier_id": "SUP_531D5A17",
+    "supplier_name": "Pham-Shields Corp",
+    "origin_country": "Philippines",
+    "unit_cost_usd": 161.77,
+    "minimum_order_quantity": 4746,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA"
+    ]
+  },
+  {
+    "material_id": "MAT_B0142991",
+    "name": "Optical Fibers",
+    "supplier_id": "SUP_9D3F37F5",
+    "supplier_name": "Oneill, Henry and Salas Inc",
+    "origin_country": "Germany",
+    "unit_cost_usd": 394.26,
+    "minimum_order_quantity": 893,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 3",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_A4B08C11",
+    "name": "Optical Fibers",
+    "supplier_id": "SUP_C2BE0B9A",
+    "supplier_name": "Keith Inc Pte Ltd",
+    "origin_country": "United Kingdom",
+    "unit_cost_usd": 220.92,
+    "minimum_order_quantity": 111,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE"
+    ]
+  },
+  {
+    "material_id": "MAT_92813F53",
+    "name": "Optical Fibers",
+    "supplier_id": "SUP_E7CAF991",
+    "supplier_name": "Bates-Morales Inc",
+    "origin_country": "Canada",
+    "unit_cost_usd": 441.13,
+    "minimum_order_quantity": 5045,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Medical Grade",
+    "regulatory_approval": [
+      "Health Canada",
+      "CE",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_8F18F31B",
+    "name": "Optical Fibers",
+    "supplier_id": "SUP_3A4E8BAF",
+    "supplier_name": "Jackson, Miller and Robertson Corp",
+    "origin_country": "Taiwan",
+    "unit_cost_usd": 186.24,
+    "minimum_order_quantity": 2811,
+    "shelf_life_days": null,
+    "hazmat_classification": "Class 2",
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "FDA"
+    ]
+  },
+  {
+    "material_id": "MAT_D23F6D6C",
+    "name": "Ceramic Components",
+    "supplier_id": "SUP_E4E4BACA",
+    "supplier_name": "Rodriguez, Figueroa and Sanchez Ltd",
+    "origin_country": "Indonesia",
+    "unit_cost_usd": 238.66,
+    "minimum_order_quantity": 2274,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Pharmaceutical Grade",
+    "regulatory_approval": [
+      "PMDA",
+      "FDA",
+      "Health Canada"
+    ]
+  },
+  {
+    "material_id": "MAT_6B3BA556",
+    "name": "Ceramic Components",
+    "supplier_id": "SUP_C2BE0B9A",
+    "supplier_name": "Keith Inc Pte Ltd",
+    "origin_country": "United Kingdom",
+    "unit_cost_usd": 347.95,
+    "minimum_order_quantity": 2075,
+    "shelf_life_days": null,
+    "hazmat_classification": null,
+    "quality_grade": "Industrial Grade",
+    "regulatory_approval": [
+      "CE",
+      "PMDA",
+      "FDA"
+    ]
+  }
+]

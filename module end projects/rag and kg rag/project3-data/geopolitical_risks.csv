@@ -1,0 +1,25 @@
+country,overall_risk_score,political_stability,economic_stability,natural_disaster_risk,infrastructure_quality,regulatory_complexity,corruption_index,trade_freedom,common_risks,last_updated
+United States,5.81,8.51,5.04,9.96,1.33,1.5,8.09,1.39,"['Pandemic', 'Currency Fluctuation']",2024-08-12
+Germany,6.88,5.71,9.46,8.83,5.83,7.67,3.1,1.65,"['Power Outage', 'Quality Issues', 'Natural Disaster']",2025-01-29
+China,5.24,9.26,1.41,7.31,2.17,2.55,1.45,3.77,"['Power Outage', 'Supplier Bankruptcy']",2024-12-27
+India,2.54,6.32,8.36,1.96,5.47,8.19,2.99,8.24,"['Trade War', 'Currency Fluctuation', 'Regulatory Changes', 'Quality Issues', 'Economic Recession']",2024-09-11
+Vietnam,3.92,9.78,6.18,2.24,8.53,8.14,7.88,6.34,"['Political Instability', 'Port Closure', 'Cyber Attack', 'Labor Strike']",2024-07-15
+Thailand,7.82,2.51,4.33,2.49,3.19,6.24,2.2,8.12,"['Currency Fluctuation', 'Labor Strike', 'Natural Disaster', 'Power Outage', 'Political Instability']",2025-01-25
+Malaysia,1.06,2.61,1.8,6.87,8.98,4.75,8.27,7.95,"['Pandemic', 'Labor Strike', 'Quality Issues']",2024-09-22
+Singapore,3.44,5.05,3.15,2.57,7.23,6.37,7.45,6.51,"['Quality Issues', 'Currency Fluctuation']",2025-01-21
+South Korea,3.71,4.77,6.02,2.73,9.88,9.79,6.57,8.76,"['Power Outage', 'Currency Fluctuation', 'Quality Issues']",2024-12-21
+Japan,6.93,3.49,2.74,8.17,7.17,9.72,5.27,2.59,"['Natural Disaster', 'Quality Issues']",2024-07-03
+Italy,4.28,2.89,3.26,6.55,9.01,5.08,1.94,1.47,"['Labor Strike', 'Currency Fluctuation', 'Natural Disaster']",2024-12-09
+Switzerland,5.37,2.04,9.06,7.49,6.33,3.93,2.79,7.09,"['Pandemic', 'Currency Fluctuation', 'Political Instability', 'Trade War']",2025-01-31
+Ireland,3.05,3.13,4.71,2.8,9.02,1.66,6.27,1.49,"['Labor Strike', 'Pandemic', 'Supplier Bankruptcy', 'Power Outage', 'Port Closure']",2024-08-01
+Belgium,4.49,2.23,7.48,6.69,9.78,2.82,2.14,7.23,"['Cyber Attack', 'Labor Strike']",2025-01-12
+Netherlands,2.0,5.19,4.76,7.84,2.98,3.66,2.41,8.15,"['Supplier Bankruptcy', 'Transportation Disruption', 'Pandemic']",2025-05-28
+France,1.78,8.71,5.4,9.96,6.32,8.53,3.51,7.57,"['Pandemic', 'Trade War', 'Economic Recession']",2025-01-08
+United Kingdom,6.22,9.03,6.33,2.34,6.16,1.05,9.82,1.36,"['Regulatory Changes', 'Currency Fluctuation', 'Transportation Disruption', 'Natural Disaster', 'Economic Recession']",2024-07-26
+Canada,5.78,5.31,8.18,8.39,5.07,3.16,6.03,1.11,"['Pandemic', 'Labor Strike', 'Trade War', 'Cyber Attack', 'Port Closure']",2024-08-02
+Mexico,6.83,1.82,5.32,3.74,7.33,8.72,7.73,1.22,"['Power Outage', 'Currency Fluctuation', 'Labor Strike', 'Economic Recession', 'Regulatory Changes']",2025-02-07
+Brazil,8.11,4.33,5.18,6.7,8.74,1.64,9.04,4.0,"['Cyber Attack', 'Economic Recession']",2025-01-25
+Indonesia,7.78,7.28,6.51,6.18,2.86,7.16,6.58,4.02,"['Transportation Disruption', 'Quality Issues']",2025-03-03
+Philippines,4.28,1.46,4.45,5.19,1.37,4.3,6.83,7.34,"['Labor Strike', 'Trade War', 'Pandemic']",2025-05-13
+Taiwan,5.86,6.84,7.64,7.77,8.84,7.33,7.78,7.85,"['Trade War', 'Cyber Attack', 'Transportation Disruption', 'Quality Issues']",2025-01-18
+Israel,4.81,1.49,4.36,5.07,5.51,8.47,5.23,5.79,"['Power Outage', 'Supplier Bankruptcy', 'Trade War', 'Quality Issues']",2024-10-06

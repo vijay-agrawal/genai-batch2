@@ -1,0 +1,1789 @@
+[
+  {
+    "plant_id": "PLT_2AE6587A",
+    "name": "Jones LLC Manufacturing Plant",
+    "country": "Singapore",
+    "city": "Daniellechester",
+    "coordinates": {
+      "latitude": -14.031609,
+      "longitude": 83.074817
+    },
+    "production_capacity_units_per_month": 14425,
+    "established_year": 1991,
+    "certifications": [
+      "GMP",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 883,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Flood Zone",
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_92234598",
+    "name": "Wright, Bruce and Gonzalez Manufacturing Plant",
+    "country": "Indonesia",
+    "city": "Castanedaville",
+    "coordinates": {
+      "latitude": -40.306014,
+      "longitude": -53.572421
+    },
+    "production_capacity_units_per_month": 28925,
+    "established_year": 1994,
+    "certifications": [
+      "ISO 14001",
+      "ISO 13485",
+      "GMP"
+    ],
+    "employee_count": 1936,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_C0B8F34A",
+    "name": "James LLC Manufacturing Plant",
+    "country": "Israel",
+    "city": "Victoriaport",
+    "coordinates": {
+      "latitude": -13.916171,
+      "longitude": 166.769536
+    },
+    "production_capacity_units_per_month": 42222,
+    "established_year": 1993,
+    "certifications": [
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 272,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_47FE4B68",
+    "name": "Spence Ltd Manufacturing Plant",
+    "country": "Japan",
+    "city": "Hillshire",
+    "coordinates": {
+      "latitude": -35.346514,
+      "longitude": 38.493673
+    },
+    "production_capacity_units_per_month": 25726,
+    "established_year": 2010,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 890,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_1F4B3104",
+    "name": "Osborne, Beltran and Lozano Manufacturing Plant",
+    "country": "Brazil",
+    "city": "Wallport",
+    "coordinates": {
+      "latitude": -51.47856,
+      "longitude": 139.94083
+    },
+    "production_capacity_units_per_month": 2581,
+    "established_year": 2008,
+    "certifications": [
+      "FDA Registration",
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 848,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Flood Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_4CEDA239",
+    "name": "Lawson LLC Manufacturing Plant",
+    "country": "Mexico",
+    "city": "Lake James",
+    "coordinates": {
+      "latitude": -51.896092,
+      "longitude": -85.6133
+    },
+    "production_capacity_units_per_month": 6220,
+    "established_year": 1988,
+    "certifications": [
+      "GMP",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 967,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_74383392",
+    "name": "Byrd-Le Manufacturing Plant",
+    "country": "China",
+    "city": "Lake Colton",
+    "coordinates": {
+      "latitude": -22.811174,
+      "longitude": 4.069691
+    },
+    "production_capacity_units_per_month": 27633,
+    "established_year": 1994,
+    "certifications": [
+      "GMP",
+      "FDA Registration",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1530,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Flood Zone",
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_4D33CFEA",
+    "name": "Lucas, Parker and Alexander Manufacturing Plant",
+    "country": "Belgium",
+    "city": "Jessicaland",
+    "coordinates": {
+      "latitude": -46.08161,
+      "longitude": 40.426846
+    },
+    "production_capacity_units_per_month": 8212,
+    "established_year": 2004,
+    "certifications": [
+      "FDA Registration",
+      "ISO 13485",
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 1536,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_BFE084EE",
+    "name": "Murphy-Perry Manufacturing Plant",
+    "country": "United Kingdom",
+    "city": "East Kristin",
+    "coordinates": {
+      "latitude": 2.066741,
+      "longitude": 116.102474
+    },
+    "production_capacity_units_per_month": 34980,
+    "established_year": 1995,
+    "certifications": [
+      "FDA Registration",
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 1601,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_491EB945",
+    "name": "Schmidt-Mcintyre Manufacturing Plant",
+    "country": "South Korea",
+    "city": "West Robin",
+    "coordinates": {
+      "latitude": 2.862505,
+      "longitude": -85.338126
+    },
+    "production_capacity_units_per_month": 76582,
+    "established_year": 1989,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "FDA Registration"
+    ],
+    "employee_count": 213,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Flood Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_ED75CC70",
+    "name": "Coffey-Phillips Manufacturing Plant",
+    "country": "India",
+    "city": "Lindamouth",
+    "coordinates": {
+      "latitude": 47.31221,
+      "longitude": 62.683355
+    },
+    "production_capacity_units_per_month": 16117,
+    "established_year": 1999,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "GMP",
+      "FDA Registration"
+    ],
+    "employee_count": 194,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_272FC76A",
+    "name": "Taylor and Sons Manufacturing Plant",
+    "country": "Germany",
+    "city": "Coffeyside",
+    "coordinates": {
+      "latitude": 6.343775,
+      "longitude": 149.021161
+    },
+    "production_capacity_units_per_month": 98080,
+    "established_year": 2011,
+    "certifications": [
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 952,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_19E15F8D",
+    "name": "Davis-Foster Manufacturing Plant",
+    "country": "Switzerland",
+    "city": "Amandamouth",
+    "coordinates": {
+      "latitude": -45.671888,
+      "longitude": 62.397258
+    },
+    "production_capacity_units_per_month": 7903,
+    "established_year": 1996,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 241,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_0051CB9D",
+    "name": "Chambers-Chambers Manufacturing Plant",
+    "country": "Canada",
+    "city": "Carsonstad",
+    "coordinates": {
+      "latitude": -5.190459,
+      "longitude": -47.189031
+    },
+    "production_capacity_units_per_month": 39219,
+    "established_year": 2021,
+    "certifications": [
+      "FDA Registration",
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 1311,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_DC08734F",
+    "name": "Leonard Group Manufacturing Plant",
+    "country": "United States",
+    "city": "New Nicoleside",
+    "coordinates": {
+      "latitude": 51.887704,
+      "longitude": -171.392308
+    },
+    "production_capacity_units_per_month": 71981,
+    "established_year": 2007,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 1838,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_977AF6D5",
+    "name": "Herman-Walker Manufacturing Plant",
+    "country": "Singapore",
+    "city": "Lake Madisonport",
+    "coordinates": {
+      "latitude": -9.622099,
+      "longitude": 166.026622
+    },
+    "production_capacity_units_per_month": 19661,
+    "established_year": 2002,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1937,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_7D5BB7CF",
+    "name": "Ortiz, Taylor and Shah Manufacturing Plant",
+    "country": "China",
+    "city": "Wendyville",
+    "coordinates": {
+      "latitude": 9.692475,
+      "longitude": 1.953995
+    },
+    "production_capacity_units_per_month": 84521,
+    "established_year": 2010,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 1456,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_6CD1F00F",
+    "name": "Young PLC Manufacturing Plant",
+    "country": "Italy",
+    "city": "South Shawn",
+    "coordinates": {
+      "latitude": 51.125034,
+      "longitude": -38.537038
+    },
+    "production_capacity_units_per_month": 97384,
+    "established_year": 2005,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 252,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_DDE54B67",
+    "name": "Avery, Horton and Fernandez Manufacturing Plant",
+    "country": "India",
+    "city": "South Diana",
+    "coordinates": {
+      "latitude": -40.275002,
+      "longitude": -12.22016
+    },
+    "production_capacity_units_per_month": 54282,
+    "established_year": 1992,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1048,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_E1775586",
+    "name": "Gilbert-Crosby Manufacturing Plant",
+    "country": "Philippines",
+    "city": "Antoniostad",
+    "coordinates": {
+      "latitude": -23.494202,
+      "longitude": 73.693729
+    },
+    "production_capacity_units_per_month": 80076,
+    "established_year": 1987,
+    "certifications": [
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 286,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_B0DAE716",
+    "name": "Ramos and Sons Manufacturing Plant",
+    "country": "United Kingdom",
+    "city": "Corystad",
+    "coordinates": {
+      "latitude": -54.125926,
+      "longitude": -72.417344
+    },
+    "production_capacity_units_per_month": 23789,
+    "established_year": 1986,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 293,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_678434EF",
+    "name": "Winters, Newman and Brown Manufacturing Plant",
+    "country": "United States",
+    "city": "Jamesville",
+    "coordinates": {
+      "latitude": -52.599698,
+      "longitude": 101.145598
+    },
+    "production_capacity_units_per_month": 30135,
+    "established_year": 1993,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 1505,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_C7B12F79",
+    "name": "Davis-Lewis Manufacturing Plant",
+    "country": "United States",
+    "city": "North Kristinbury",
+    "coordinates": {
+      "latitude": 59.659371,
+      "longitude": -108.809879
+    },
+    "production_capacity_units_per_month": 85670,
+    "established_year": 2013,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 350,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_D42A8ED3",
+    "name": "Buchanan and Sons Manufacturing Plant",
+    "country": "Belgium",
+    "city": "Port Kathyborough",
+    "coordinates": {
+      "latitude": 38.602248,
+      "longitude": -37.800472
+    },
+    "production_capacity_units_per_month": 4864,
+    "established_year": 2009,
+    "certifications": [
+      "ISO 14001",
+      "ISO 13485",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 1960,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_4504A4F6",
+    "name": "Robinson, Kane and Murphy Manufacturing Plant",
+    "country": "Germany",
+    "city": "Port Rachel",
+    "coordinates": {
+      "latitude": 13.692789,
+      "longitude": 42.111779
+    },
+    "production_capacity_units_per_month": 85840,
+    "established_year": 2003,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "FDA Registration"
+    ],
+    "employee_count": 224,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_F1077350",
+    "name": "Ramirez and Sons Manufacturing Plant",
+    "country": "Malaysia",
+    "city": "New John",
+    "coordinates": {
+      "latitude": 17.118303,
+      "longitude": 106.991259
+    },
+    "production_capacity_units_per_month": 33656,
+    "established_year": 2019,
+    "certifications": [
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 835,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability",
+      "Flood Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_FDCACAD3",
+    "name": "Rodriguez Inc Manufacturing Plant",
+    "country": "South Korea",
+    "city": "North Michael",
+    "coordinates": {
+      "latitude": -38.422095,
+      "longitude": -65.204076
+    },
+    "production_capacity_units_per_month": 29707,
+    "established_year": 1986,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 1670,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_A338FFF2",
+    "name": "Chapman Inc Manufacturing Plant",
+    "country": "Singapore",
+    "city": "West Brian",
+    "coordinates": {
+      "latitude": 18.823731,
+      "longitude": -84.05028
+    },
+    "production_capacity_units_per_month": 97607,
+    "established_year": 1988,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 1818,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_09332053",
+    "name": "Fisher, Wilson and Brown Manufacturing Plant",
+    "country": "Italy",
+    "city": "Stricklandhaven",
+    "coordinates": {
+      "latitude": 36.745227,
+      "longitude": 71.145563
+    },
+    "production_capacity_units_per_month": 78537,
+    "established_year": 1986,
+    "certifications": [
+      "GMP",
+      "ISO 14001",
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 1813,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Earthquake Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_FD050D71",
+    "name": "Rodriguez, Gordon and Dougherty Manufacturing Plant",
+    "country": "China",
+    "city": "Lake Kristahaven",
+    "coordinates": {
+      "latitude": -53.259843,
+      "longitude": 36.598603
+    },
+    "production_capacity_units_per_month": 3612,
+    "established_year": 2018,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1751,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Flood Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_A96864E1",
+    "name": "Ellis-Maynard Manufacturing Plant",
+    "country": "United States",
+    "city": "South Melaniechester",
+    "coordinates": {
+      "latitude": -42.274558,
+      "longitude": 73.690683
+    },
+    "production_capacity_units_per_month": 19566,
+    "established_year": 1992,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1300,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_6A54DFAB",
+    "name": "Rodriguez, Joseph and Wallace Manufacturing Plant",
+    "country": "Thailand",
+    "city": "West Charleneland",
+    "coordinates": {
+      "latitude": 27.882243,
+      "longitude": -22.727382
+    },
+    "production_capacity_units_per_month": 84789,
+    "established_year": 2016,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1463,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_91CBB693",
+    "name": "Hill Ltd Manufacturing Plant",
+    "country": "Israel",
+    "city": "Oscarhaven",
+    "coordinates": {
+      "latitude": 22.619813,
+      "longitude": -134.154589
+    },
+    "production_capacity_units_per_month": 96529,
+    "established_year": 1985,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 1333,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Flood Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_42603128",
+    "name": "Chavez-Jacobs Manufacturing Plant",
+    "country": "Vietnam",
+    "city": "Port Jacquelineside",
+    "coordinates": {
+      "latitude": -20.259789,
+      "longitude": -151.98961
+    },
+    "production_capacity_units_per_month": 46457,
+    "established_year": 2005,
+    "certifications": [
+      "ISO 13485",
+      "GMP"
+    ],
+    "employee_count": 1472,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Flood Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_7DEF9B26",
+    "name": "Glenn, Jordan and Beasley Manufacturing Plant",
+    "country": "Malaysia",
+    "city": "Morganmouth",
+    "coordinates": {
+      "latitude": -30.055096,
+      "longitude": -155.593879
+    },
+    "production_capacity_units_per_month": 34640,
+    "established_year": 1991,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 1600,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_9CB82785",
+    "name": "Perry-Davis Manufacturing Plant",
+    "country": "Ireland",
+    "city": "Edwardsview",
+    "coordinates": {
+      "latitude": -17.85226,
+      "longitude": -44.874875
+    },
+    "production_capacity_units_per_month": 63847,
+    "established_year": 2021,
+    "certifications": [
+      "FDA Registration",
+      "ISO 13485",
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 1736,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_9A40440D",
+    "name": "Mckay-Mcdaniel Manufacturing Plant",
+    "country": "India",
+    "city": "Jonesland",
+    "coordinates": {
+      "latitude": -51.095952,
+      "longitude": -118.762127
+    },
+    "production_capacity_units_per_month": 50212,
+    "established_year": 1995,
+    "certifications": [
+      "ISO 13485",
+      "GMP",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 1316,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Earthquake Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_8FE5E30C",
+    "name": "Reynolds Ltd Manufacturing Plant",
+    "country": "Thailand",
+    "city": "Lisaside",
+    "coordinates": {
+      "latitude": 12.878115,
+      "longitude": -23.687861
+    },
+    "production_capacity_units_per_month": 8019,
+    "established_year": 1991,
+    "certifications": [
+      "FDA Registration",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1527,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_50C9CD06",
+    "name": "Willis PLC Manufacturing Plant",
+    "country": "Singapore",
+    "city": "Elizabethchester",
+    "coordinates": {
+      "latitude": -48.490089,
+      "longitude": -38.555203
+    },
+    "production_capacity_units_per_month": 73045,
+    "established_year": 2016,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 107,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_62D12D4E",
+    "name": "Russo-Pugh Manufacturing Plant",
+    "country": "Indonesia",
+    "city": "Parrishton",
+    "coordinates": {
+      "latitude": 12.025863,
+      "longitude": -108.117072
+    },
+    "production_capacity_units_per_month": 4373,
+    "established_year": 1998,
+    "certifications": [
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 1069,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_D9E1EBC4",
+    "name": "Burke-Bell Manufacturing Plant",
+    "country": "Philippines",
+    "city": "East Diane",
+    "coordinates": {
+      "latitude": -28.199472,
+      "longitude": 51.071898
+    },
+    "production_capacity_units_per_month": 51793,
+    "established_year": 1996,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 1012,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_545DB33B",
+    "name": "Boone LLC Manufacturing Plant",
+    "country": "Singapore",
+    "city": "Dannyview",
+    "coordinates": {
+      "latitude": 40.44945,
+      "longitude": 23.128772
+    },
+    "production_capacity_units_per_month": 20808,
+    "established_year": 1991,
+    "certifications": [
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 947,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_2575287C",
+    "name": "Perez, Patterson and Hoffman Manufacturing Plant",
+    "country": "United Kingdom",
+    "city": "New Sarahview",
+    "coordinates": {
+      "latitude": -9.764151,
+      "longitude": 12.785188
+    },
+    "production_capacity_units_per_month": 63236,
+    "established_year": 2021,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 261,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_7640690C",
+    "name": "White Ltd Manufacturing Plant",
+    "country": "Netherlands",
+    "city": "Sandrastad",
+    "coordinates": {
+      "latitude": -39.254523,
+      "longitude": 174.372476
+    },
+    "production_capacity_units_per_month": 28772,
+    "established_year": 1997,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 260,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Flood Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_B160ACFB",
+    "name": "White and Sons Manufacturing Plant",
+    "country": "South Korea",
+    "city": "Jonestown",
+    "coordinates": {
+      "latitude": -21.630061,
+      "longitude": 81.757083
+    },
+    "production_capacity_units_per_month": 9783,
+    "established_year": 1990,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "FDA Registration"
+    ],
+    "employee_count": 1854,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability",
+      "Earthquake Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_6D059879",
+    "name": "Reese and Sons Manufacturing Plant",
+    "country": "Belgium",
+    "city": "Barnesmouth",
+    "coordinates": {
+      "latitude": -42.042922,
+      "longitude": 23.973814
+    },
+    "production_capacity_units_per_month": 77372,
+    "established_year": 1991,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 1876,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_830CD89E",
+    "name": "Wood Ltd Manufacturing Plant",
+    "country": "Indonesia",
+    "city": "Kimberlyshire",
+    "coordinates": {
+      "latitude": -1.729825,
+      "longitude": 39.226375
+    },
+    "production_capacity_units_per_month": 5910,
+    "established_year": 1996,
+    "certifications": [
+      "ISO 14001",
+      "ISO 13485",
+      "FDA Registration"
+    ],
+    "employee_count": 179,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Flood Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_8AE2E447",
+    "name": "Miller, Williams and Moore Manufacturing Plant",
+    "country": "France",
+    "city": "Lake Christophermouth",
+    "coordinates": {
+      "latitude": 50.500198,
+      "longitude": 142.93129
+    },
+    "production_capacity_units_per_month": 3651,
+    "established_year": 2006,
+    "certifications": [
+      "GMP",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1857,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_9DAC5552",
+    "name": "Coleman, Lawson and Perry Manufacturing Plant",
+    "country": "Israel",
+    "city": "Port William",
+    "coordinates": {
+      "latitude": -6.826726,
+      "longitude": 117.296399
+    },
+    "production_capacity_units_per_month": 36313,
+    "established_year": 2011,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 1970,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability",
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_44EC9B59",
+    "name": "Jordan-Campbell Manufacturing Plant",
+    "country": "United Kingdom",
+    "city": "Roseport",
+    "coordinates": {
+      "latitude": 34.978847,
+      "longitude": -156.377892
+    },
+    "production_capacity_units_per_month": 94004,
+    "established_year": 2017,
+    "certifications": [
+      "FDA Registration",
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 455,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_6457C5CC",
+    "name": "Walker PLC Manufacturing Plant",
+    "country": "Germany",
+    "city": "North Jamesborough",
+    "coordinates": {
+      "latitude": -5.22616,
+      "longitude": 150.491185
+    },
+    "production_capacity_units_per_month": 93357,
+    "established_year": 1997,
+    "certifications": [
+      "GMP",
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 1401,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_F61EB03E",
+    "name": "Duran LLC Manufacturing Plant",
+    "country": "Brazil",
+    "city": "Davidfort",
+    "coordinates": {
+      "latitude": -6.467588,
+      "longitude": 165.787336
+    },
+    "production_capacity_units_per_month": 63204,
+    "established_year": 2022,
+    "certifications": [
+      "GMP",
+      "FDA Registration",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1633,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_A7E2B395",
+    "name": "Jordan, Anderson and Patel Manufacturing Plant",
+    "country": "Ireland",
+    "city": "New Angelica",
+    "coordinates": {
+      "latitude": -54.041875,
+      "longitude": 127.375678
+    },
+    "production_capacity_units_per_month": 29091,
+    "established_year": 1999,
+    "certifications": [
+      "FDA Registration",
+      "GMP",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1434,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_90C67375",
+    "name": "Drake, Jones and Hensley Manufacturing Plant",
+    "country": "Vietnam",
+    "city": "South Andrewland",
+    "coordinates": {
+      "latitude": 17.684587,
+      "longitude": 36.411102
+    },
+    "production_capacity_units_per_month": 2109,
+    "established_year": 1999,
+    "certifications": [
+      "GMP",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 967,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_F459CBE4",
+    "name": "Johnston-Berry Manufacturing Plant",
+    "country": "Netherlands",
+    "city": "Robertsfurt",
+    "coordinates": {
+      "latitude": -23.742589,
+      "longitude": 7.429643
+    },
+    "production_capacity_units_per_month": 82737,
+    "established_year": 2010,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 711,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_9070E4FF",
+    "name": "Burch and Sons Manufacturing Plant",
+    "country": "Italy",
+    "city": "Collierstad",
+    "coordinates": {
+      "latitude": 58.603316,
+      "longitude": 50.614108
+    },
+    "production_capacity_units_per_month": 37291,
+    "established_year": 2001,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 1942,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Political Instability",
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_8FF6EA6E",
+    "name": "Kim Inc Manufacturing Plant",
+    "country": "Vietnam",
+    "city": "South Brianna",
+    "coordinates": {
+      "latitude": 26.553984,
+      "longitude": 55.944205
+    },
+    "production_capacity_units_per_month": 39745,
+    "established_year": 2001,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 1294,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Flood Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_BA459274",
+    "name": "Miller, Harrell and Reese Manufacturing Plant",
+    "country": "Canada",
+    "city": "West Kimberly",
+    "coordinates": {
+      "latitude": 16.597631,
+      "longitude": -8.735327
+    },
+    "production_capacity_units_per_month": 89063,
+    "established_year": 2007,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 299,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_01933692",
+    "name": "Dixon Inc Manufacturing Plant",
+    "country": "Canada",
+    "city": "Port Michael",
+    "coordinates": {
+      "latitude": 31.550186,
+      "longitude": -114.095391
+    },
+    "production_capacity_units_per_month": 90091,
+    "established_year": 2006,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration",
+      "GMP"
+    ],
+    "employee_count": 1624,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_7622B8DA",
+    "name": "Mullen, Brewer and Hernandez Manufacturing Plant",
+    "country": "Mexico",
+    "city": "East Jonathanburgh",
+    "coordinates": {
+      "latitude": -24.713865,
+      "longitude": 126.437
+    },
+    "production_capacity_units_per_month": 62674,
+    "established_year": 1988,
+    "certifications": [
+      "ISO 13485",
+      "FDA Registration",
+      "ISO 14001",
+      "GMP"
+    ],
+    "employee_count": 1876,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_BA346B94",
+    "name": "Hernandez, Malone and Jones Manufacturing Plant",
+    "country": "Vietnam",
+    "city": "Marshallshire",
+    "coordinates": {
+      "latitude": -43.516169,
+      "longitude": -107.893227
+    },
+    "production_capacity_units_per_month": 54633,
+    "established_year": 2021,
+    "certifications": [
+      "FDA Registration",
+      "ISO 14001",
+      "ISO 13485"
+    ],
+    "employee_count": 1695,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_D1E2EC39",
+    "name": "Cole, Glass and Cunningham Manufacturing Plant",
+    "country": "Indonesia",
+    "city": "Michellemouth",
+    "coordinates": {
+      "latitude": -53.038369,
+      "longitude": -17.260838
+    },
+    "production_capacity_units_per_month": 28444,
+    "established_year": 1995,
+    "certifications": [
+      "FDA Registration",
+      "ISO 14001",
+      "ISO 13485",
+      "GMP"
+    ],
+    "employee_count": 1358,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Political Instability",
+      "Flood Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_DE5D80D2",
+    "name": "Gonzales Group Manufacturing Plant",
+    "country": "Ireland",
+    "city": "Welchview",
+    "coordinates": {
+      "latitude": -59.439703,
+      "longitude": 12.161737
+    },
+    "production_capacity_units_per_month": 96768,
+    "established_year": 2008,
+    "certifications": [
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 490,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_CB62139A",
+    "name": "Brown, Romero and Collins Manufacturing Plant",
+    "country": "Taiwan",
+    "city": "Johnsonstad",
+    "coordinates": {
+      "latitude": 45.238216,
+      "longitude": -67.646786
+    },
+    "production_capacity_units_per_month": 14462,
+    "established_year": 2009,
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "ISO 14001",
+      "FDA Registration"
+    ],
+    "employee_count": 710,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_3C075656",
+    "name": "Jones-Lin Manufacturing Plant",
+    "country": "Vietnam",
+    "city": "New Brookefurt",
+    "coordinates": {
+      "latitude": -18.872059,
+      "longitude": 144.498159
+    },
+    "production_capacity_units_per_month": 48087,
+    "established_year": 1997,
+    "certifications": [
+      "ISO 14001",
+      "ISO 13485"
+    ],
+    "employee_count": 567,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Flood Zone",
+      "Earthquake Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_C510999B",
+    "name": "Carpenter-Best Manufacturing Plant",
+    "country": "United Kingdom",
+    "city": "South Reginashire",
+    "coordinates": {
+      "latitude": -39.721831,
+      "longitude": -48.027077
+    },
+    "production_capacity_units_per_month": 86267,
+    "established_year": 1987,
+    "certifications": [
+      "GMP",
+      "ISO 14001",
+      "ISO 13485"
+    ],
+    "employee_count": 1316,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Hurricane Zone"
+    ],
+    "backup_power": true,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_6FBCF681",
+    "name": "Lopez, Jacobs and Mason Manufacturing Plant",
+    "country": "Taiwan",
+    "city": "South Dalemouth",
+    "coordinates": {
+      "latitude": -46.105221,
+      "longitude": -20.046856
+    },
+    "production_capacity_units_per_month": 17199,
+    "established_year": 2020,
+    "certifications": [
+      "ISO 14001",
+      "GMP",
+      "ISO 13485"
+    ],
+    "employee_count": 520,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Flood Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_290FE377",
+    "name": "Miller, Lucas and Williams Manufacturing Plant",
+    "country": "India",
+    "city": "Ritterhaven",
+    "coordinates": {
+      "latitude": 19.497956,
+      "longitude": -82.808226
+    },
+    "production_capacity_units_per_month": 80381,
+    "established_year": 1993,
+    "certifications": [
+      "ISO 13485",
+      "GMP",
+      "ISO 14001"
+    ],
+    "employee_count": 678,
+    "operational_status": "Active",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Low"
+  },
+  {
+    "plant_id": "PLT_674C96AC",
+    "name": "Bishop, Cox and Hardin Manufacturing Plant",
+    "country": "Brazil",
+    "city": "Ortizmouth",
+    "coordinates": {
+      "latitude": -36.030074,
+      "longitude": -85.32219
+    },
+    "production_capacity_units_per_month": 69569,
+    "established_year": 1997,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 180,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Flood Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_8263BE09",
+    "name": "Harper, Mccormick and Holland Manufacturing Plant",
+    "country": "Singapore",
+    "city": "West Codyfurt",
+    "coordinates": {
+      "latitude": -59.67144,
+      "longitude": 61.787928
+    },
+    "production_capacity_units_per_month": 15474,
+    "established_year": 2021,
+    "certifications": [
+      "ISO 14001",
+      "ISO 13485",
+      "GMP",
+      "FDA Registration"
+    ],
+    "employee_count": 1581,
+    "operational_status": "Expansion",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "High"
+  },
+  {
+    "plant_id": "PLT_D5AD262A",
+    "name": "King-York Manufacturing Plant",
+    "country": "Singapore",
+    "city": "West Christopher",
+    "coordinates": {
+      "latitude": -5.189852,
+      "longitude": 171.824743
+    },
+    "production_capacity_units_per_month": 35619,
+    "established_year": 2014,
+    "certifications": [
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "employee_count": 1890,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Hurricane Zone"
+    ],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_B39BCF18",
+    "name": "Thomas, Bailey and Ponce Manufacturing Plant",
+    "country": "Israel",
+    "city": "Andersonland",
+    "coordinates": {
+      "latitude": -46.091874,
+      "longitude": 126.448524
+    },
+    "production_capacity_units_per_month": 7014,
+    "established_year": 1985,
+    "certifications": [
+      "FDA Registration",
+      "ISO 14001"
+    ],
+    "employee_count": 832,
+    "operational_status": "Maintenance",
+    "risk_factors": [
+      "Hurricane Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_606BA8A6",
+    "name": "Hansen-Schneider Manufacturing Plant",
+    "country": "Italy",
+    "city": "Lisahaven",
+    "coordinates": {
+      "latitude": -38.05567,
+      "longitude": -35.720095
+    },
+    "production_capacity_units_per_month": 60839,
+    "established_year": 2002,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485"
+    ],
+    "employee_count": 331,
+    "operational_status": "Active",
+    "risk_factors": [
+      "Earthquake Zone",
+      "Political Instability"
+    ],
+    "backup_power": true,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_329FAF7C",
+    "name": "Lucas Group Manufacturing Plant",
+    "country": "Mexico",
+    "city": "Andrewport",
+    "coordinates": {
+      "latitude": -2.079018,
+      "longitude": 24.819635
+    },
+    "production_capacity_units_per_month": 58430,
+    "established_year": 1996,
+    "certifications": [
+      "ISO 14001",
+      "FDA Registration",
+      "ISO 13485",
+      "GMP"
+    ],
+    "employee_count": 1089,
+    "operational_status": "Maintenance",
+    "risk_factors": [],
+    "backup_power": false,
+    "automation_level": "Medium"
+  },
+  {
+    "plant_id": "PLT_CC7CDC5D",
+    "name": "Bean LLC Manufacturing Plant",
+    "country": "Germany",
+    "city": "Leeberg",
+    "coordinates": {
+      "latitude": -52.399674,
+      "longitude": 55.790485
+    },
+    "production_capacity_units_per_month": 2620,
+    "established_year": 2018,
+    "certifications": [
+      "FDA Registration",
+      "GMP",
+      "ISO 14001",
+      "ISO 13485"
+    ],
+    "employee_count": 986,
+    "operational_status": "Expansion",
+    "risk_factors": [
+      "Flood Zone",
+      "Political Instability"
+    ],
+    "backup_power": false,
+    "automation_level": "High"
+  }
+]

@@ -1,0 +1,44 @@
+CLINICAL TRIAL PROTOCOL
+Trial ID: NCT94478768
+Title: A Phase III Study of Poor in Parkinson's Disease
+Phase: Phase I
+Sponsor: Merck
+
+1. STUDY OBJECTIVES
+Primary Objective: To evaluate the efficacy and safety of the investigational treatment in patients with parkinson's disease.
+
+Secondary Objectives:
+- Assess progression-free survival
+- Evaluate quality of life measures
+- Determine optimal dosing regimen
+
+2. INCLUSION CRITERIA
+- Age 65-85 years
+- Confirmed diagnosis of Parkinson's Disease
+- Adequate organ function
+- Able to provide informed consent
+
+3. EXCLUSION CRITERIA
+- Severe renal impairment (creatinine >2.5 mg/dL)
+- Significant cardiovascular disease
+- Pregnant or nursing women
+- History of drug or alcohol abuse within past year
+
+4. STUDY DESIGN
+This is a Phase I double-blind study designed to enroll 441 patients over 30 months.
+
+5. INVESTIGATIONAL PRODUCT
+BIO-2024 is a novel small molecule inhibitor targeting specific pathways involved in parkinson's disease.
+
+6. SAFETY CONSIDERATIONS
+Patients will be monitored closely for adverse events. Specific attention will be paid to:
+- Hematologic toxicities
+- Hepatic function abnormalities  
+- Cardiovascular events
+- Gastrointestinal toxicity
+
+7. STATISTICAL ANALYSIS PLAN
+Primary endpoint will be analyzed using Kaplan-Meier methodology.
+
+8. ADVERSE EVENT REPORTING
+All serious adverse events must be reported within 24 hours to the sponsor and regulatory authorities.

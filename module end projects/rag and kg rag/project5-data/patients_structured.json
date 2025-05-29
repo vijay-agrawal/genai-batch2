@@ -1,0 +1,2028 @@
+[
+  {
+    "patient_id": "PAT_0001",
+    "age": 32,
+    "gender": "Male",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2023-04-17",
+    "current_medications": [
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "Creatinine": 1.0,
+      "Hemoglobin": 14.8
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-05-12"
+  },
+  {
+    "patient_id": "PAT_0002",
+    "age": 57,
+    "gender": "Female",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2023-08-08",
+    "current_medications": [
+      "Furosemide"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 8.2
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2024-06-24"
+  },
+  {
+    "patient_id": "PAT_0003",
+    "age": 40,
+    "gender": "Female",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2021-11-24",
+    "current_medications": [
+      "Amlodipine",
+      "Albuterol"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 11.2
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-06-01"
+  },
+  {
+    "patient_id": "PAT_0004",
+    "age": 74,
+    "gender": "Female",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2020-07-19",
+    "current_medications": [
+      "Lisinopril",
+      "Omeprazole",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 15.1
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2024-12-09"
+  },
+  {
+    "patient_id": "PAT_0005",
+    "age": 69,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2024-04-06",
+    "current_medications": [
+      "Gabapentin",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 1.9,
+      "Hemoglobin": 11.8
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2024-02-11"
+  },
+  {
+    "patient_id": "PAT_0006",
+    "age": 19,
+    "gender": "Male",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2024-03-08",
+    "current_medications": [
+      "Gabapentin",
+      "Warfarin",
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.1,
+      "Hemoglobin": 12.1
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2023-12-12"
+  },
+  {
+    "patient_id": "PAT_0007",
+    "age": 19,
+    "gender": "Male",
+    "primary_diagnosis": "Depression",
+    "icd_code": "F32.9",
+    "diagnosis_date": "2022-06-10",
+    "current_medications": [
+      "Atorvastatin",
+      "Levothyroxine",
+      "Furosemide",
+      "Metformin",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 15.2
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-05-13"
+  },
+  {
+    "patient_id": "PAT_0008",
+    "age": 19,
+    "gender": "Male",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2023-08-22",
+    "current_medications": [
+      "Insulin",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 0.9,
+      "Hemoglobin": 14.4
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2024-06-03"
+  },
+  {
+    "patient_id": "PAT_0009",
+    "age": 77,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2024-11-23",
+    "current_medications": [
+      "Gabapentin",
+      "Levothyroxine",
+      "Amlodipine",
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 14.7
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-01-13"
+  },
+  {
+    "patient_id": "PAT_0010",
+    "age": 25,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2020-11-23",
+    "current_medications": [
+      "Atorvastatin",
+      "Levothyroxine",
+      "Gabapentin",
+      "Sertraline"
+    ],
+    "lab_results": {
+      "HbA1c": 11.7,
+      "Glucose": 83,
+      "Creatinine": 1.4,
+      "Hemoglobin": 9.3
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-04-26"
+  },
+  {
+    "patient_id": "PAT_0011",
+    "age": 60,
+    "gender": "Male",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2020-06-17",
+    "current_medications": [
+      "Tramadol",
+      "Omeprazole",
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 14.3
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2023-09-15"
+  },
+  {
+    "patient_id": "PAT_0012",
+    "age": 50,
+    "gender": "Female",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2023-10-03",
+    "current_medications": [
+      "Lisinopril",
+      "Furosemide",
+      "Albuterol",
+      "Warfarin",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 0.8,
+      "Hemoglobin": 8.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-10-23"
+  },
+  {
+    "patient_id": "PAT_0013",
+    "age": 79,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2022-01-05",
+    "current_medications": [
+      "Levothyroxine",
+      "Prednisone",
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 2.0,
+      "Hemoglobin": 11.0
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Current",
+    "created_date": "2024-03-12"
+  },
+  {
+    "patient_id": "PAT_0014",
+    "age": 23,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2023-12-07",
+    "current_medications": [
+      "Furosemide",
+      "Gabapentin",
+      "Atorvastatin",
+      "Tramadol",
+      "Albuterol"
+    ],
+    "lab_results": {
+      "Creatinine": 2.0,
+      "Hemoglobin": 12.5
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Current",
+    "created_date": "2024-10-09"
+  },
+  {
+    "patient_id": "PAT_0015",
+    "age": 76,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2024-11-21",
+    "current_medications": [
+      "Lisinopril",
+      "Tramadol",
+      "Albuterol",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 15.8
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2023-11-28"
+  },
+  {
+    "patient_id": "PAT_0016",
+    "age": 67,
+    "gender": "Female",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2020-07-28",
+    "current_medications": [
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.6,
+      "Hemoglobin": 15.8
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2025-04-26"
+  },
+  {
+    "patient_id": "PAT_0017",
+    "age": 55,
+    "gender": "Male",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2023-10-10",
+    "current_medications": [
+      "Sertraline",
+      "Lisinopril",
+      "Atorvastatin",
+      "Furosemide"
+    ],
+    "lab_results": {
+      "Creatinine": 2.0,
+      "Hemoglobin": 11.7
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2023-09-30"
+  },
+  {
+    "patient_id": "PAT_0018",
+    "age": 77,
+    "gender": "Female",
+    "primary_diagnosis": "Chronic Kidney Disease",
+    "icd_code": "N18.9",
+    "diagnosis_date": "2021-01-14",
+    "current_medications": [
+      "Lisinopril",
+      "Albuterol",
+      "Hydroxychloroquine",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 2.0,
+      "Hemoglobin": 10.2
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2023-09-16"
+  },
+  {
+    "patient_id": "PAT_0019",
+    "age": 69,
+    "gender": "Male",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2023-07-16",
+    "current_medications": [
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "HbA1c": 7.6,
+      "Glucose": 246,
+      "Creatinine": 1.6,
+      "Hemoglobin": 11.3
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Current",
+    "created_date": "2023-07-22"
+  },
+  {
+    "patient_id": "PAT_0020",
+    "age": 55,
+    "gender": "Female",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2021-04-05",
+    "current_medications": [
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 11.8
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2023-11-12"
+  },
+  {
+    "patient_id": "PAT_0021",
+    "age": 79,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2021-10-20",
+    "current_medications": [
+      "Omeprazole",
+      "Prednisone",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.6,
+      "Hemoglobin": 9.1
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2023-11-21"
+  },
+  {
+    "patient_id": "PAT_0022",
+    "age": 19,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-02-09",
+    "current_medications": [
+      "Gabapentin",
+      "Tramadol",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.3,
+      "Hemoglobin": 9.9
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2023-10-21"
+  },
+  {
+    "patient_id": "PAT_0023",
+    "age": 51,
+    "gender": "Female",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2021-01-20",
+    "current_medications": [
+      "Prednisone",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 11.8
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-05-17"
+  },
+  {
+    "patient_id": "PAT_0024",
+    "age": 37,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2022-03-15",
+    "current_medications": [
+      "Hydroxychloroquine",
+      "Gabapentin",
+      "Levothyroxine",
+      "Tramadol"
+    ],
+    "lab_results": {
+      "Creatinine": 1.4,
+      "Hemoglobin": 14.7
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-07-02"
+  },
+  {
+    "patient_id": "PAT_0025",
+    "age": 85,
+    "gender": "Male",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2022-12-09",
+    "current_medications": [
+      "Sertraline",
+      "Tramadol",
+      "Omeprazole",
+      "Metformin",
+      "Warfarin"
+    ],
+    "lab_results": {
+      "HbA1c": 9.4,
+      "Glucose": 262,
+      "Creatinine": 1.5,
+      "Hemoglobin": 14.0
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-01-04"
+  },
+  {
+    "patient_id": "PAT_0026",
+    "age": 21,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2024-09-18",
+    "current_medications": [
+      "Furosemide",
+      "Insulin",
+      "Amlodipine",
+      "Warfarin",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 14.4
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2023-11-10"
+  },
+  {
+    "patient_id": "PAT_0027",
+    "age": 59,
+    "gender": "Female",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2023-06-28",
+    "current_medications": [
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 1.9,
+      "Hemoglobin": 10.9
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2025-02-27"
+  },
+  {
+    "patient_id": "PAT_0028",
+    "age": 39,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-12-05",
+    "current_medications": [
+      "Furosemide",
+      "Gabapentin",
+      "Lisinopril",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.7,
+      "Hemoglobin": 11.0
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2023-09-06"
+  },
+  {
+    "patient_id": "PAT_0029",
+    "age": 67,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2024-09-27",
+    "current_medications": [
+      "Warfarin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 8.9
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-11-09"
+  },
+  {
+    "patient_id": "PAT_0030",
+    "age": 35,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2020-07-08",
+    "current_medications": [
+      "Tramadol",
+      "Insulin",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 13.7
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2025-01-01"
+  },
+  {
+    "patient_id": "PAT_0031",
+    "age": 25,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2023-12-11",
+    "current_medications": [
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 9.0
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2024-11-27"
+  },
+  {
+    "patient_id": "PAT_0032",
+    "age": 24,
+    "gender": "Female",
+    "primary_diagnosis": "Chronic Kidney Disease",
+    "icd_code": "N18.9",
+    "diagnosis_date": "2022-03-19",
+    "current_medications": [
+      "Levothyroxine",
+      "Amlodipine",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 0.9,
+      "Hemoglobin": 9.0
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2025-03-11"
+  },
+  {
+    "patient_id": "PAT_0033",
+    "age": 61,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2025-02-17",
+    "current_medications": [
+      "Furosemide",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 11.4
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2025-02-06"
+  },
+  {
+    "patient_id": "PAT_0034",
+    "age": 58,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-03-16",
+    "current_medications": [
+      "Omeprazole",
+      "Tramadol"
+    ],
+    "lab_results": {
+      "Creatinine": 1.6,
+      "Hemoglobin": 11.1
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Current",
+    "created_date": "2023-06-05"
+  },
+  {
+    "patient_id": "PAT_0035",
+    "age": 62,
+    "gender": "Male",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2024-02-22",
+    "current_medications": [
+      "Metformin",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 13.6
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2025-03-11"
+  },
+  {
+    "patient_id": "PAT_0036",
+    "age": 72,
+    "gender": "Female",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2022-09-30",
+    "current_medications": [
+      "Furosemide",
+      "Prednisone",
+      "Atorvastatin",
+      "Albuterol",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 8.6
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2025-02-16"
+  },
+  {
+    "patient_id": "PAT_0037",
+    "age": 23,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2021-07-14",
+    "current_medications": [
+      "Albuterol",
+      "Omeprazole",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 8.2
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2024-08-03"
+  },
+  {
+    "patient_id": "PAT_0038",
+    "age": 70,
+    "gender": "Male",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2022-09-14",
+    "current_medications": [
+      "Lisinopril",
+      "Albuterol",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 2.5,
+      "Hemoglobin": 12.2
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2025-02-26"
+  },
+  {
+    "patient_id": "PAT_0039",
+    "age": 79,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2023-05-25",
+    "current_medications": [
+      "Amlodipine",
+      "Hydroxychloroquine",
+      "Albuterol",
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "HbA1c": 6.1,
+      "Glucose": 240,
+      "Creatinine": 1.3,
+      "Hemoglobin": 9.6
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-06-25"
+  },
+  {
+    "patient_id": "PAT_0040",
+    "age": 21,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2021-04-13",
+    "current_medications": [
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 0.9,
+      "Hemoglobin": 15.3
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2023-06-26"
+  },
+  {
+    "patient_id": "PAT_0041",
+    "age": 78,
+    "gender": "Female",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2022-03-08",
+    "current_medications": [
+      "Metformin",
+      "Furosemide",
+      "Warfarin",
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "Creatinine": 2.1,
+      "Hemoglobin": 10.2
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2023-09-14"
+  },
+  {
+    "patient_id": "PAT_0042",
+    "age": 59,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2022-05-28",
+    "current_medications": [
+      "Metformin",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 11.2
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-03-11"
+  },
+  {
+    "patient_id": "PAT_0043",
+    "age": 21,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2023-06-14",
+    "current_medications": [
+      "Gabapentin",
+      "Albuterol",
+      "Amlodipine",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 0.6,
+      "Hemoglobin": 15.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2023-08-23"
+  },
+  {
+    "patient_id": "PAT_0044",
+    "age": 33,
+    "gender": "Female",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2024-12-06",
+    "current_medications": [
+      "Atorvastatin",
+      "Sertraline",
+      "Furosemide",
+      "Insulin",
+      "Albuterol"
+    ],
+    "lab_results": {
+      "Creatinine": 0.9,
+      "Hemoglobin": 12.9
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2024-11-10"
+  },
+  {
+    "patient_id": "PAT_0045",
+    "age": 65,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2024-06-28",
+    "current_medications": [
+      "Prednisone",
+      "Insulin",
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 8.1
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-09-19"
+  },
+  {
+    "patient_id": "PAT_0046",
+    "age": 60,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2025-01-26",
+    "current_medications": [
+      "Furosemide",
+      "Insulin",
+      "Levothyroxine",
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 15.4
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0047",
+    "age": 60,
+    "gender": "Male",
+    "primary_diagnosis": "Depression",
+    "icd_code": "F32.9",
+    "diagnosis_date": "2021-02-09",
+    "current_medications": [
+      "Albuterol",
+      "Sertraline"
+    ],
+    "lab_results": {
+      "Creatinine": 0.6,
+      "Hemoglobin": 9.0
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2025-01-10"
+  },
+  {
+    "patient_id": "PAT_0048",
+    "age": 69,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2024-06-07",
+    "current_medications": [
+      "Amlodipine",
+      "Gabapentin",
+      "Lisinopril",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 14.2
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-10-01"
+  },
+  {
+    "patient_id": "PAT_0049",
+    "age": 69,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2023-02-28",
+    "current_medications": [
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 0.7,
+      "Hemoglobin": 15.0
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2023-06-18"
+  },
+  {
+    "patient_id": "PAT_0050",
+    "age": 37,
+    "gender": "Female",
+    "primary_diagnosis": "Depression",
+    "icd_code": "F32.9",
+    "diagnosis_date": "2021-07-14",
+    "current_medications": [
+      "Omeprazole",
+      "Gabapentin",
+      "Warfarin",
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 8.1
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2023-06-07"
+  },
+  {
+    "patient_id": "PAT_0051",
+    "age": 23,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2021-09-19",
+    "current_medications": [
+      "Metformin",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.4,
+      "Hemoglobin": 9.9
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2023-10-18"
+  },
+  {
+    "patient_id": "PAT_0052",
+    "age": 46,
+    "gender": "Female",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2021-10-08",
+    "current_medications": [
+      "Amlodipine",
+      "Omeprazole",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 0.6,
+      "Hemoglobin": 14.9
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Current",
+    "created_date": "2023-08-15"
+  },
+  {
+    "patient_id": "PAT_0053",
+    "age": 62,
+    "gender": "Female",
+    "primary_diagnosis": "Depression",
+    "icd_code": "F32.9",
+    "diagnosis_date": "2024-09-29",
+    "current_medications": [
+      "Furosemide",
+      "Atorvastatin",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.8,
+      "Hemoglobin": 11.5
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2024-02-29"
+  },
+  {
+    "patient_id": "PAT_0054",
+    "age": 80,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2025-03-19",
+    "current_medications": [
+      "Furosemide",
+      "Warfarin",
+      "Metformin"
+    ],
+    "lab_results": {
+      "HbA1c": 9.7,
+      "Glucose": 266,
+      "Creatinine": 2.4,
+      "Hemoglobin": 14.9
+    },
+    "family_history": "None",
+    "smoking_status": "Former",
+    "created_date": "2025-04-29"
+  },
+  {
+    "patient_id": "PAT_0055",
+    "age": 79,
+    "gender": "Female",
+    "primary_diagnosis": "Chronic Kidney Disease",
+    "icd_code": "N18.9",
+    "diagnosis_date": "2025-03-22",
+    "current_medications": [
+      "Gabapentin",
+      "Furosemide",
+      "Metformin",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 9.3
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2025-01-10"
+  },
+  {
+    "patient_id": "PAT_0056",
+    "age": 85,
+    "gender": "Male",
+    "primary_diagnosis": "Chronic Kidney Disease",
+    "icd_code": "N18.9",
+    "diagnosis_date": "2024-10-02",
+    "current_medications": [
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 14.1
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-12-22"
+  },
+  {
+    "patient_id": "PAT_0057",
+    "age": 24,
+    "gender": "Female",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2024-11-16",
+    "current_medications": [
+      "Levothyroxine",
+      "Tramadol",
+      "Furosemide",
+      "Warfarin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.9,
+      "Hemoglobin": 11.8
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-03-30"
+  },
+  {
+    "patient_id": "PAT_0058",
+    "age": 70,
+    "gender": "Female",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2022-05-21",
+    "current_medications": [
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 11.7
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2024-06-11"
+  },
+  {
+    "patient_id": "PAT_0059",
+    "age": 77,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-02-01",
+    "current_medications": [
+      "Gabapentin",
+      "Furosemide",
+      "Lisinopril"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 15.9
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2025-05-08"
+  },
+  {
+    "patient_id": "PAT_0060",
+    "age": 66,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2022-08-03",
+    "current_medications": [
+      "Furosemide",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "HbA1c": 8.9,
+      "Glucose": 149,
+      "Creatinine": 2.1,
+      "Hemoglobin": 14.3
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2023-12-30"
+  },
+  {
+    "patient_id": "PAT_0061",
+    "age": 65,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2024-04-13",
+    "current_medications": [
+      "Levothyroxine",
+      "Hydroxychloroquine",
+      "Lisinopril",
+      "Insulin",
+      "Prednisone"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 13.7
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-02-03"
+  },
+  {
+    "patient_id": "PAT_0062",
+    "age": 80,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2023-01-30",
+    "current_medications": [
+      "Amlodipine",
+      "Lisinopril",
+      "Albuterol",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.6,
+      "Hemoglobin": 11.6
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-10-22"
+  },
+  {
+    "patient_id": "PAT_0063",
+    "age": 19,
+    "gender": "Male",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2024-10-03",
+    "current_medications": [
+      "Omeprazole",
+      "Furosemide",
+      "Insulin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.0,
+      "Hemoglobin": 11.4
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2023-10-19"
+  },
+  {
+    "patient_id": "PAT_0064",
+    "age": 20,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2022-07-06",
+    "current_medications": [
+      "Insulin",
+      "Omeprazole",
+      "Albuterol",
+      "Tramadol",
+      "Metformin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 13.1
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2024-09-12"
+  },
+  {
+    "patient_id": "PAT_0065",
+    "age": 53,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2025-02-11",
+    "current_medications": [
+      "Sertraline",
+      "Prednisone",
+      "Levothyroxine",
+      "Furosemide"
+    ],
+    "lab_results": {
+      "HbA1c": 6.1,
+      "Glucose": 243,
+      "Creatinine": 0.7,
+      "Hemoglobin": 15.8
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2024-02-24"
+  },
+  {
+    "patient_id": "PAT_0066",
+    "age": 30,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2021-08-17",
+    "current_medications": [
+      "Metformin",
+      "Furosemide",
+      "Omeprazole",
+      "Atorvastatin",
+      "Albuterol"
+    ],
+    "lab_results": {
+      "HbA1c": 9.1,
+      "Glucose": 192,
+      "Creatinine": 2.0,
+      "Hemoglobin": 15.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2023-05-29"
+  },
+  {
+    "patient_id": "PAT_0067",
+    "age": 41,
+    "gender": "Male",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2024-01-09",
+    "current_medications": [
+      "Sertraline",
+      "Prednisone",
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 13.1
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2023-11-09"
+  },
+  {
+    "patient_id": "PAT_0068",
+    "age": 84,
+    "gender": "Male",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2022-06-24",
+    "current_medications": [
+      "Tramadol",
+      "Sertraline",
+      "Warfarin",
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.3,
+      "Hemoglobin": 8.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2025-03-30"
+  },
+  {
+    "patient_id": "PAT_0069",
+    "age": 69,
+    "gender": "Female",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2021-11-23",
+    "current_medications": [
+      "Omeprazole",
+      "Lisinopril",
+      "Levothyroxine",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.0,
+      "Hemoglobin": 13.1
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2024-02-05"
+  },
+  {
+    "patient_id": "PAT_0070",
+    "age": 32,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-10-20",
+    "current_medications": [
+      "Atorvastatin",
+      "Lisinopril",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 0.6,
+      "Hemoglobin": 12.2
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-06-19"
+  },
+  {
+    "patient_id": "PAT_0071",
+    "age": 50,
+    "gender": "Female",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2022-11-25",
+    "current_medications": [
+      "Hydroxychloroquine",
+      "Albuterol",
+      "Amlodipine",
+      "Tramadol",
+      "Metformin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.6,
+      "Hemoglobin": 11.7
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-02-06"
+  },
+  {
+    "patient_id": "PAT_0072",
+    "age": 30,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2024-02-11",
+    "current_medications": [
+      "Omeprazole",
+      "Gabapentin",
+      "Tramadol",
+      "Lisinopril",
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 8.8
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2024-03-05"
+  },
+  {
+    "patient_id": "PAT_0073",
+    "age": 36,
+    "gender": "Female",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2024-02-26",
+    "current_medications": [
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 13.8
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2023-09-16"
+  },
+  {
+    "patient_id": "PAT_0074",
+    "age": 84,
+    "gender": "Male",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2022-01-30",
+    "current_medications": [
+      "Albuterol",
+      "Metformin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 15.9
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-04-07"
+  },
+  {
+    "patient_id": "PAT_0075",
+    "age": 51,
+    "gender": "Male",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2025-05-17",
+    "current_medications": [
+      "Albuterol"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 8.8
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2024-11-05"
+  },
+  {
+    "patient_id": "PAT_0076",
+    "age": 48,
+    "gender": "Male",
+    "primary_diagnosis": "Chronic Kidney Disease",
+    "icd_code": "N18.9",
+    "diagnosis_date": "2024-03-31",
+    "current_medications": [
+      "Omeprazole",
+      "Warfarin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.3,
+      "Hemoglobin": 12.0
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2025-03-30"
+  },
+  {
+    "patient_id": "PAT_0077",
+    "age": 32,
+    "gender": "Female",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2022-10-18",
+    "current_medications": [
+      "Furosemide",
+      "Sertraline",
+      "Albuterol"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 9.2
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-07-04"
+  },
+  {
+    "patient_id": "PAT_0078",
+    "age": 28,
+    "gender": "Female",
+    "primary_diagnosis": "Parkinson's Disease",
+    "icd_code": "G20",
+    "diagnosis_date": "2024-01-17",
+    "current_medications": [
+      "Hydroxychloroquine",
+      "Tramadol",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 10.9
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-10-01"
+  },
+  {
+    "patient_id": "PAT_0079",
+    "age": 44,
+    "gender": "Male",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2021-04-11",
+    "current_medications": [
+      "Hydroxychloroquine",
+      "Levothyroxine",
+      "Sertraline",
+      "Tramadol",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "HbA1c": 11.0,
+      "Glucose": 189,
+      "Creatinine": 2.2,
+      "Hemoglobin": 8.7
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2024-07-05"
+  },
+  {
+    "patient_id": "PAT_0080",
+    "age": 23,
+    "gender": "Female",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2024-01-15",
+    "current_medications": [
+      "Metformin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.2,
+      "Hemoglobin": 8.8
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Never",
+    "created_date": "2025-04-19"
+  },
+  {
+    "patient_id": "PAT_0081",
+    "age": 67,
+    "gender": "Male",
+    "primary_diagnosis": "Alzheimer's Disease",
+    "icd_code": "G30.9",
+    "diagnosis_date": "2022-09-25",
+    "current_medications": [
+      "Lisinopril",
+      "Furosemide",
+      "Tramadol",
+      "Sertraline"
+    ],
+    "lab_results": {
+      "Creatinine": 0.9,
+      "Hemoglobin": 14.2
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Former",
+    "created_date": "2024-11-01"
+  },
+  {
+    "patient_id": "PAT_0082",
+    "age": 54,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2023-04-01",
+    "current_medications": [
+      "Sertraline",
+      "Hydroxychloroquine",
+      "Metformin",
+      "Insulin",
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 12.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2023-11-06"
+  },
+  {
+    "patient_id": "PAT_0083",
+    "age": 69,
+    "gender": "Male",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2022-09-10",
+    "current_medications": [
+      "Lisinopril",
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 11.2
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2024-04-05"
+  },
+  {
+    "patient_id": "PAT_0084",
+    "age": 50,
+    "gender": "Male",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "diagnosis_date": "2021-11-11",
+    "current_medications": [
+      "Sertraline"
+    ],
+    "lab_results": {
+      "Creatinine": 2.3,
+      "Hemoglobin": 8.1
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-01-09"
+  },
+  {
+    "patient_id": "PAT_0085",
+    "age": 40,
+    "gender": "Female",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2021-04-14",
+    "current_medications": [
+      "Tramadol",
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 0.6,
+      "Hemoglobin": 12.0
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-06-23"
+  },
+  {
+    "patient_id": "PAT_0086",
+    "age": 68,
+    "gender": "Male",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2022-12-05",
+    "current_medications": [
+      "Warfarin",
+      "Amlodipine",
+      "Albuterol",
+      "Levothyroxine",
+      "Sertraline"
+    ],
+    "lab_results": {
+      "Creatinine": 1.7,
+      "Hemoglobin": 12.5
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-10-20"
+  },
+  {
+    "patient_id": "PAT_0087",
+    "age": 73,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2022-11-05",
+    "current_medications": [
+      "Sertraline"
+    ],
+    "lab_results": {
+      "Creatinine": 1.9,
+      "Hemoglobin": 16.0
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2025-04-22"
+  },
+  {
+    "patient_id": "PAT_0088",
+    "age": 61,
+    "gender": "Male",
+    "primary_diagnosis": "Heart Failure",
+    "icd_code": "I50.9",
+    "diagnosis_date": "2020-05-28",
+    "current_medications": [
+      "Tramadol"
+    ],
+    "lab_results": {
+      "Creatinine": 1.0,
+      "Hemoglobin": 8.5
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-09-17"
+  },
+  {
+    "patient_id": "PAT_0089",
+    "age": 80,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2025-01-03",
+    "current_medications": [
+      "Sertraline",
+      "Amlodipine",
+      "Atorvastatin",
+      "Gabapentin",
+      "Hydroxychloroquine"
+    ],
+    "lab_results": {
+      "Creatinine": 0.7,
+      "Hemoglobin": 13.2
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-01-29"
+  },
+  {
+    "patient_id": "PAT_0090",
+    "age": 61,
+    "gender": "Male",
+    "primary_diagnosis": "Depression",
+    "icd_code": "F32.9",
+    "diagnosis_date": "2025-05-23",
+    "current_medications": [
+      "Gabapentin",
+      "Albuterol",
+      "Hydroxychloroquine",
+      "Omeprazole"
+    ],
+    "lab_results": {
+      "Creatinine": 1.8,
+      "Hemoglobin": 13.6
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2024-04-26"
+  },
+  {
+    "patient_id": "PAT_0091",
+    "age": 30,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2022-07-15",
+    "current_medications": [
+      "Insulin",
+      "Tramadol",
+      "Albuterol",
+      "Warfarin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 15.4
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2024-08-21"
+  },
+  {
+    "patient_id": "PAT_0092",
+    "age": 21,
+    "gender": "Female",
+    "primary_diagnosis": "Breast Cancer",
+    "icd_code": "C50.9",
+    "diagnosis_date": "2021-02-03",
+    "current_medications": [
+      "Metformin",
+      "Omeprazole",
+      "Amlodipine",
+      "Hydroxychloroquine",
+      "Furosemide"
+    ],
+    "lab_results": {
+      "Creatinine": 0.8,
+      "Hemoglobin": 11.9
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-09-01"
+  },
+  {
+    "patient_id": "PAT_0093",
+    "age": 52,
+    "gender": "Female",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2021-07-04",
+    "current_medications": [
+      "Lisinopril",
+      "Atorvastatin",
+      "Levothyroxine",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.4,
+      "Hemoglobin": 11.9
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Never",
+    "created_date": "2023-11-19"
+  },
+  {
+    "patient_id": "PAT_0094",
+    "age": 52,
+    "gender": "Female",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2024-09-29",
+    "current_medications": [
+      "Insulin",
+      "Levothyroxine",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.1,
+      "Hemoglobin": 9.5
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Never",
+    "created_date": "2023-10-15"
+  },
+  {
+    "patient_id": "PAT_0095",
+    "age": 85,
+    "gender": "Female",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2024-04-15",
+    "current_medications": [
+      "Atorvastatin"
+    ],
+    "lab_results": {
+      "Creatinine": 1.5,
+      "Hemoglobin": 8.4
+    },
+    "family_history": "Heart Disease",
+    "smoking_status": "Former",
+    "created_date": "2024-12-25"
+  },
+  {
+    "patient_id": "PAT_0096",
+    "age": 64,
+    "gender": "Male",
+    "primary_diagnosis": "Lung Cancer",
+    "icd_code": "C78.00",
+    "diagnosis_date": "2021-06-23",
+    "current_medications": [
+      "Lisinopril",
+      "Insulin",
+      "Hydroxychloroquine",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "Creatinine": 1.1,
+      "Hemoglobin": 14.4
+    },
+    "family_history": "Cancer",
+    "smoking_status": "Current",
+    "created_date": "2024-05-03"
+  },
+  {
+    "patient_id": "PAT_0097",
+    "age": 56,
+    "gender": "Male",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "icd_code": "M06.9",
+    "diagnosis_date": "2021-11-08",
+    "current_medications": [
+      "Albuterol",
+      "Hydroxychloroquine",
+      "Gabapentin",
+      "Amlodipine"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 9.7
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Current",
+    "created_date": "2023-09-14"
+  },
+  {
+    "patient_id": "PAT_0098",
+    "age": 22,
+    "gender": "Female",
+    "primary_diagnosis": "Multiple Sclerosis",
+    "icd_code": "G35",
+    "diagnosis_date": "2022-02-12",
+    "current_medications": [
+      "Furosemide",
+      "Atorvastatin",
+      "Gabapentin"
+    ],
+    "lab_results": {
+      "Creatinine": 0.7,
+      "Hemoglobin": 13.9
+    },
+    "family_history": "None",
+    "smoking_status": "Current",
+    "created_date": "2024-01-22"
+  },
+  {
+    "patient_id": "PAT_0099",
+    "age": 82,
+    "gender": "Male",
+    "primary_diagnosis": "Prostate Cancer",
+    "icd_code": "C61",
+    "diagnosis_date": "2021-07-17",
+    "current_medications": [
+      "Atorvastatin",
+      "Metformin"
+    ],
+    "lab_results": {
+      "Creatinine": 2.2,
+      "Hemoglobin": 11.9
+    },
+    "family_history": "None",
+    "smoking_status": "Never",
+    "created_date": "2023-06-30"
+  },
+  {
+    "patient_id": "PAT_0100",
+    "age": 45,
+    "gender": "Male",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "diagnosis_date": "2025-01-02",
+    "current_medications": [
+      "Lisinopril",
+      "Gabapentin",
+      "Furosemide",
+      "Levothyroxine"
+    ],
+    "lab_results": {
+      "HbA1c": 7.6,
+      "Glucose": 202,
+      "Creatinine": 2.5,
+      "Hemoglobin": 8.9
+    },
+    "family_history": "Diabetes",
+    "smoking_status": "Former",
+    "created_date": "2025-04-10"
+  }
+]

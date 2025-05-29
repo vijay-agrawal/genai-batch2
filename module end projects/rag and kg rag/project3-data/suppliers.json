@@ -1,0 +1,3474 @@
+[
+  {
+    "supplier_id": "SUP_E4E4BACA",
+    "name": "Rodriguez, Figueroa and Sanchez Ltd",
+    "country": "Indonesia",
+    "city": "Lake Curtis",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "FDA 510k",
+      "ISO 13485"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 20,
+    "quality_score": 9.03,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Circuit Boards"
+    ],
+    "established_year": 2007,
+    "employee_count": 310,
+    "annual_revenue_usd": 16997261
+  },
+  {
+    "supplier_id": "SUP_A2072CAB",
+    "name": "Mcclain, Miller and Henderson Inc",
+    "country": "China",
+    "city": "North Jefferyhaven",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 90,
+    "quality_score": 9.1,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Circuit Boards"
+    ],
+    "established_year": 1997,
+    "employee_count": 103,
+    "annual_revenue_usd": 408381601
+  },
+  {
+    "supplier_id": "SUP_069B11C8",
+    "name": "Johnson, Gonzalez and Santos GmbH",
+    "country": "Thailand",
+    "city": "Robinsonshire",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 20,
+    "quality_score": 7.28,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "Optical Fibers",
+      "Polypropylene"
+    ],
+    "established_year": 1982,
+    "employee_count": 3813,
+    "annual_revenue_usd": 288885264
+  },
+  {
+    "supplier_id": "SUP_9F1258E1",
+    "name": "Pacheco-Smith GmbH",
+    "country": "India",
+    "city": "Lake Roberto",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 15,
+    "quality_score": 7.14,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "Polyethylene",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2004,
+    "employee_count": 2327,
+    "annual_revenue_usd": 244422802
+  },
+  {
+    "supplier_id": "SUP_0FB475E2",
+    "name": "Moore-Bernard Corp",
+    "country": "Indonesia",
+    "city": "Curtisfurt",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "FDA 510k"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 89,
+    "quality_score": 7.21,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Polyethylene"
+    ],
+    "established_year": 1990,
+    "employee_count": 3836,
+    "annual_revenue_usd": 204718590
+  },
+  {
+    "supplier_id": "SUP_201D269B",
+    "name": "Howard LLC Pte Ltd",
+    "country": "South Korea",
+    "city": "Lindsaymouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 47,
+    "quality_score": 8.2,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Glass Vials"
+    ],
+    "established_year": 1993,
+    "employee_count": 4139,
+    "annual_revenue_usd": 213403258
+  },
+  {
+    "supplier_id": "SUP_16A00B3F",
+    "name": "Martinez, Nielsen and Miller GmbH",
+    "country": "Indonesia",
+    "city": "Mariastad",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 75,
+    "quality_score": 7.79,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Active Pharmaceutical Ingredients",
+      "Pharmaceutical Excipients",
+      "Polyethylene"
+    ],
+    "established_year": 1988,
+    "employee_count": 4224,
+    "annual_revenue_usd": 265954299
+  },
+  {
+    "supplier_id": "SUP_A9750AD4",
+    "name": "Lee, Jones and Stanley Ltd",
+    "country": "China",
+    "city": "Traciebury",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 83,
+    "quality_score": 7.19,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Rare Earth Magnets",
+      "Polypropylene",
+      "Lithium Batteries",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1987,
+    "employee_count": 4448,
+    "annual_revenue_usd": 404124450
+  },
+  {
+    "supplier_id": "SUP_A4111104",
+    "name": "James Group Corp",
+    "country": "South Korea",
+    "city": "Franciscostad",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 7,
+    "quality_score": 9.86,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets",
+      "Latex",
+      "Ceramic Components"
+    ],
+    "established_year": 1986,
+    "employee_count": 2494,
+    "annual_revenue_usd": 452867790
+  },
+  {
+    "supplier_id": "SUP_C70FC12B",
+    "name": "Santiago Ltd Pte Ltd",
+    "country": "Indonesia",
+    "city": "New Cynthiaside",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 27,
+    "quality_score": 8.62,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Optical Fibers"
+    ],
+    "established_year": 2000,
+    "employee_count": 4052,
+    "annual_revenue_usd": 11456496
+  },
+  {
+    "supplier_id": "SUP_F52DC88C",
+    "name": "Sanchez, Ford and Nelson Corp",
+    "country": "India",
+    "city": "Lake Mark",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 79,
+    "quality_score": 9.84,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "Lithium Batteries",
+      "PEEK Polymer",
+      "Circuit Boards"
+    ],
+    "established_year": 2010,
+    "employee_count": 4553,
+    "annual_revenue_usd": 89651861
+  },
+  {
+    "supplier_id": "SUP_CE661A23",
+    "name": "Perez Inc Pte Ltd",
+    "country": "South Korea",
+    "city": "Richardland",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 58,
+    "quality_score": 9.99,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Rare Earth Magnets",
+      "Ceramic Components"
+    ],
+    "established_year": 1987,
+    "employee_count": 2080,
+    "annual_revenue_usd": 121633465
+  },
+  {
+    "supplier_id": "SUP_3BC6A237",
+    "name": "Gentry PLC Corp",
+    "country": "China",
+    "city": "Jasonfort",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "FDA 510k",
+      "CE Mark"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 7,
+    "quality_score": 7.21,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polyethylene"
+    ],
+    "established_year": 1984,
+    "employee_count": 307,
+    "annual_revenue_usd": 462513240
+  },
+  {
+    "supplier_id": "SUP_3119B27A",
+    "name": "Wilkerson-Day Ltd",
+    "country": "Italy",
+    "city": "West Donald",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 34,
+    "quality_score": 8.62,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Aluminum",
+      "Polyethylene",
+      "Optical Fibers",
+      "Electronic Components"
+    ],
+    "established_year": 1992,
+    "employee_count": 822,
+    "annual_revenue_usd": 53039333
+  },
+  {
+    "supplier_id": "SUP_B2155349",
+    "name": "Hoffman, Baker and Richards GmbH",
+    "country": "Philippines",
+    "city": "Coxberg",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 90,
+    "quality_score": 9.95,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2001,
+    "employee_count": 945,
+    "annual_revenue_usd": 134496352
+  },
+  {
+    "supplier_id": "SUP_7A4A8970",
+    "name": "Snyder, Campos and Callahan Inc",
+    "country": "Malaysia",
+    "city": "Lake Ernest",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 42,
+    "quality_score": 8.39,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Polycarbonate Resin",
+      "Titanium Alloy",
+      "Ceramic Components"
+    ],
+    "established_year": 1980,
+    "employee_count": 814,
+    "annual_revenue_usd": 498339485
+  },
+  {
+    "supplier_id": "SUP_2C96BB29",
+    "name": "Henderson, Brown and James Inc",
+    "country": "Singapore",
+    "city": "Riceside",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 14,
+    "quality_score": 7.49,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polypropylene",
+      "Copper Wire",
+      "PVC Medical Grade",
+      "Electronic Components"
+    ],
+    "established_year": 2015,
+    "employee_count": 4036,
+    "annual_revenue_usd": 84105914
+  },
+  {
+    "supplier_id": "SUP_2C8AE7C7",
+    "name": "Frazier Inc Corp",
+    "country": "Malaysia",
+    "city": "Kaylamouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 14,
+    "quality_score": 9.24,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Circuit Boards"
+    ],
+    "established_year": 2010,
+    "employee_count": 4169,
+    "annual_revenue_usd": 494592204
+  },
+  {
+    "supplier_id": "SUP_8A15959C",
+    "name": "Carter and Sons Inc",
+    "country": "United Kingdom",
+    "city": "Smithview",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 15,
+    "quality_score": 9.03,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Circuit Boards",
+      "Polyethylene",
+      "Titanium Alloy"
+    ],
+    "established_year": 2019,
+    "employee_count": 721,
+    "annual_revenue_usd": 226069660
+  },
+  {
+    "supplier_id": "SUP_567BCF95",
+    "name": "Gill, Romero and Rodriguez Pte Ltd",
+    "country": "Philippines",
+    "city": "Meaganhaven",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "GMP",
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 37,
+    "quality_score": 7.8,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Copper Wire",
+      "Glass Vials",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 1980,
+    "employee_count": 3804,
+    "annual_revenue_usd": 334482333
+  },
+  {
+    "supplier_id": "SUP_074485BD",
+    "name": "Gonzalez, Brooks and Martin Ltd",
+    "country": "Mexico",
+    "city": "New Mariotown",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k",
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 15,
+    "quality_score": 9.64,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Latex",
+      "Copper Wire",
+      "Lithium Batteries"
+    ],
+    "established_year": 1999,
+    "employee_count": 4383,
+    "annual_revenue_usd": 5199998
+  },
+  {
+    "supplier_id": "SUP_E0D62C3E",
+    "name": "Hickman LLC Pte Ltd",
+    "country": "Philippines",
+    "city": "North John",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 20,
+    "quality_score": 9.23,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Optical Fibers",
+      "Nitrile Rubber"
+    ],
+    "established_year": 2001,
+    "employee_count": 1717,
+    "annual_revenue_usd": 370097210
+  },
+  {
+    "supplier_id": "SUP_12A0455F",
+    "name": "Arroyo, Miller and Tucker Corp",
+    "country": "Indonesia",
+    "city": "Port Amandaberg",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 88,
+    "quality_score": 8.27,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Medical Grade Silicone"
+    ],
+    "established_year": 2001,
+    "employee_count": 1121,
+    "annual_revenue_usd": 343047638
+  },
+  {
+    "supplier_id": "SUP_BBED433B",
+    "name": "Keller PLC Inc",
+    "country": "South Korea",
+    "city": "West Allison",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 8,
+    "quality_score": 7.34,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Titanium Alloy"
+    ],
+    "established_year": 2003,
+    "employee_count": 4821,
+    "annual_revenue_usd": 297634652
+  },
+  {
+    "supplier_id": "SUP_A094E9E5",
+    "name": "Henderson, Lewis and Ryan GmbH",
+    "country": "Vietnam",
+    "city": "Lake Larry",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 12,
+    "quality_score": 9.7,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Pharmaceutical Excipients"
+    ],
+    "established_year": 2015,
+    "employee_count": 3379,
+    "annual_revenue_usd": 334215109
+  },
+  {
+    "supplier_id": "SUP_A9FB1ABD",
+    "name": "Santos, Kim and Holmes Inc",
+    "country": "Israel",
+    "city": "East Jeffreymouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 10,
+    "quality_score": 7.54,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polyethylene",
+      "Polypropylene",
+      "Latex",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2004,
+    "employee_count": 367,
+    "annual_revenue_usd": 461953742
+  },
+  {
+    "supplier_id": "SUP_8B899F45",
+    "name": "Chapman and Sons Inc",
+    "country": "France",
+    "city": "North Chad",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "GMP"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 35,
+    "quality_score": 7.07,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Glass Vials",
+      "Polypropylene",
+      "Stainless Steel 316L",
+      "Optical Fibers"
+    ],
+    "established_year": 2002,
+    "employee_count": 4223,
+    "annual_revenue_usd": 215575699
+  },
+  {
+    "supplier_id": "SUP_9A10949D",
+    "name": "Brown, Jones and Johnson Pte Ltd",
+    "country": "Philippines",
+    "city": "Chadbury",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 29,
+    "quality_score": 8.74,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2018,
+    "employee_count": 3609,
+    "annual_revenue_usd": 186589352
+  },
+  {
+    "supplier_id": "SUP_3F412FB6",
+    "name": "Caldwell-Lewis Corp",
+    "country": "Israel",
+    "city": "Lake Selena",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 31,
+    "quality_score": 7.76,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Medical Grade Silicone",
+      "Rare Earth Magnets",
+      "Lithium Batteries",
+      "Nitrile Rubber"
+    ],
+    "established_year": 2003,
+    "employee_count": 3583,
+    "annual_revenue_usd": 38566901
+  },
+  {
+    "supplier_id": "SUP_221758A2",
+    "name": "Johnston, Sanchez and Kennedy Corp",
+    "country": "Philippines",
+    "city": "Leeville",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 46,
+    "quality_score": 9.0,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Lithium Batteries",
+      "PEEK Polymer",
+      "Nitrile Rubber"
+    ],
+    "established_year": 2006,
+    "employee_count": 3155,
+    "annual_revenue_usd": 364632301
+  },
+  {
+    "supplier_id": "SUP_9500080F",
+    "name": "Jordan, Henderson and Owens Inc",
+    "country": "Israel",
+    "city": "Lake Deniseville",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 45,
+    "quality_score": 7.86,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Optical Fibers",
+      "Glass Vials",
+      "Copper Wire",
+      "Circuit Boards",
+      "Lithium Batteries"
+    ],
+    "established_year": 1993,
+    "employee_count": 4237,
+    "annual_revenue_usd": 255039896
+  },
+  {
+    "supplier_id": "SUP_92620380",
+    "name": "Powell LLC Inc",
+    "country": "Israel",
+    "city": "East Jamesside",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 88,
+    "quality_score": 8.86,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Polyethylene"
+    ],
+    "established_year": 1992,
+    "employee_count": 1257,
+    "annual_revenue_usd": 14113281
+  },
+  {
+    "supplier_id": "SUP_FF1465DF",
+    "name": "Taylor-White Inc",
+    "country": "Germany",
+    "city": "Wrightland",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "ISO 9001",
+      "FDA 510k"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 31,
+    "quality_score": 9.16,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Polyethylene",
+      "PEEK Polymer",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1986,
+    "employee_count": 3532,
+    "annual_revenue_usd": 118489440
+  },
+  {
+    "supplier_id": "SUP_137D5D2A",
+    "name": "Morton-Chase Pte Ltd",
+    "country": "Thailand",
+    "city": "North Deniseside",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 22,
+    "quality_score": 8.37,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Optical Fibers",
+      "Glass Vials",
+      "Copper Wire",
+      "Rare Earth Magnets"
+    ],
+    "established_year": 2007,
+    "employee_count": 4538,
+    "annual_revenue_usd": 240398044
+  },
+  {
+    "supplier_id": "SUP_0A7A6A7B",
+    "name": "Novak and Sons GmbH",
+    "country": "Thailand",
+    "city": "South Todd",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "CE Mark"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 69,
+    "quality_score": 8.88,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "PVC Medical Grade",
+      "Polyethylene",
+      "Polypropylene"
+    ],
+    "established_year": 2001,
+    "employee_count": 2669,
+    "annual_revenue_usd": 480440131
+  },
+  {
+    "supplier_id": "SUP_06962C80",
+    "name": "Hancock Inc Ltd",
+    "country": "Canada",
+    "city": "South Aaron",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 26,
+    "quality_score": 9.12,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Electronic Components",
+      "Glass Vials",
+      "Lithium Batteries",
+      "Copper Wire"
+    ],
+    "established_year": 2006,
+    "employee_count": 560,
+    "annual_revenue_usd": 112043367
+  },
+  {
+    "supplier_id": "SUP_8613FFB2",
+    "name": "Baker-Bowers GmbH",
+    "country": "Belgium",
+    "city": "Mitchellside",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485",
+      "ISO 9001",
+      "FDA 510k"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 52,
+    "quality_score": 7.9,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Ceramic Components",
+      "Polyethylene",
+      "Aluminum"
+    ],
+    "established_year": 1994,
+    "employee_count": 2285,
+    "annual_revenue_usd": 234987659
+  },
+  {
+    "supplier_id": "SUP_C8E5C3DD",
+    "name": "Higgins, Moore and Phillips Ltd",
+    "country": "France",
+    "city": "New Jillton",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 23,
+    "quality_score": 9.94,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2017,
+    "employee_count": 4673,
+    "annual_revenue_usd": 356945284
+  },
+  {
+    "supplier_id": "SUP_2DA16641",
+    "name": "Edwards, Williams and Woods Ltd",
+    "country": "United States",
+    "city": "North Susan",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 13,
+    "quality_score": 7.78,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Glass Vials"
+    ],
+    "established_year": 2001,
+    "employee_count": 3155,
+    "annual_revenue_usd": 150387883
+  },
+  {
+    "supplier_id": "SUP_473E0DAC",
+    "name": "York Inc Corp",
+    "country": "Belgium",
+    "city": "Lake Michellefurt",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 35,
+    "quality_score": 8.95,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1995,
+    "employee_count": 1683,
+    "annual_revenue_usd": 451557559
+  },
+  {
+    "supplier_id": "SUP_2E17000A",
+    "name": "David PLC Pte Ltd",
+    "country": "United States",
+    "city": "New Brooke",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 21,
+    "quality_score": 8.69,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polypropylene",
+      "Pharmaceutical Excipients",
+      "Latex",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 1990,
+    "employee_count": 2598,
+    "annual_revenue_usd": 59035074
+  },
+  {
+    "supplier_id": "SUP_B4022AB8",
+    "name": "Miller, Sandoval and Cunningham Ltd",
+    "country": "Mexico",
+    "city": "Sarahborough",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "GMP",
+      "CE Mark"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 16,
+    "quality_score": 8.78,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "PVC Medical Grade"
+    ],
+    "established_year": 2018,
+    "employee_count": 1041,
+    "annual_revenue_usd": 428471230
+  },
+  {
+    "supplier_id": "SUP_D9BBFEFC",
+    "name": "Moran, Allen and Foster Ltd",
+    "country": "Mexico",
+    "city": "Stephenland",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 89,
+    "quality_score": 8.02,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Electronic Components",
+      "Pharmaceutical Excipients",
+      "Copper Wire"
+    ],
+    "established_year": 1989,
+    "employee_count": 3617,
+    "annual_revenue_usd": 95562809
+  },
+  {
+    "supplier_id": "SUP_975EACA8",
+    "name": "Ellis PLC Pte Ltd",
+    "country": "Israel",
+    "city": "North Amandahaven",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 62,
+    "quality_score": 9.48,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Polyethylene",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 1997,
+    "employee_count": 3742,
+    "annual_revenue_usd": 131923185
+  },
+  {
+    "supplier_id": "SUP_DBEBC821",
+    "name": "Anderson-Bailey Pte Ltd",
+    "country": "Netherlands",
+    "city": "East Mikeburgh",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 48,
+    "quality_score": 7.55,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polypropylene",
+      "Glass Vials",
+      "Ceramic Components"
+    ],
+    "established_year": 2018,
+    "employee_count": 2313,
+    "annual_revenue_usd": 299388036
+  },
+  {
+    "supplier_id": "SUP_8BEDA12C",
+    "name": "Bass-Warner Pte Ltd",
+    "country": "United States",
+    "city": "Lake Lisaport",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 69,
+    "quality_score": 8.67,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Ceramic Components",
+      "Aluminum",
+      "Copper Wire",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1985,
+    "employee_count": 2460,
+    "annual_revenue_usd": 119968663
+  },
+  {
+    "supplier_id": "SUP_1FC7AE7E",
+    "name": "Garcia, Humphrey and Baker Inc",
+    "country": "Ireland",
+    "city": "Lake Angelaview",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "CE Mark",
+      "FDA 510k"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 74,
+    "quality_score": 8.03,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Pharmaceutical Excipients",
+      "Copper Wire",
+      "Polypropylene",
+      "PVC Medical Grade"
+    ],
+    "established_year": 1996,
+    "employee_count": 1938,
+    "annual_revenue_usd": 65776632
+  },
+  {
+    "supplier_id": "SUP_1162EAEB",
+    "name": "Jacobs-Robbins Inc",
+    "country": "Israel",
+    "city": "Lake Cynthia",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 31,
+    "quality_score": 7.65,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Rare Earth Magnets",
+      "PVC Medical Grade"
+    ],
+    "established_year": 1986,
+    "employee_count": 1640,
+    "annual_revenue_usd": 160046108
+  },
+  {
+    "supplier_id": "SUP_D4824F2E",
+    "name": "Wagner-King Corp",
+    "country": "Singapore",
+    "city": "North Cynthiaview",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 12,
+    "quality_score": 9.92,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Aluminum",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 1980,
+    "employee_count": 4752,
+    "annual_revenue_usd": 153653514
+  },
+  {
+    "supplier_id": "SUP_D87ACCFF",
+    "name": "Smith and Sons GmbH",
+    "country": "France",
+    "city": "Evanmouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 68,
+    "quality_score": 7.34,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Aluminum",
+      "Stainless Steel 316L",
+      "Circuit Boards",
+      "Titanium Alloy"
+    ],
+    "established_year": 1989,
+    "employee_count": 1272,
+    "annual_revenue_usd": 436478585
+  },
+  {
+    "supplier_id": "SUP_53F6E8DB",
+    "name": "Thornton, Hoffman and Rodriguez Corp",
+    "country": "Mexico",
+    "city": "New Barry",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 60,
+    "quality_score": 8.82,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2008,
+    "employee_count": 3676,
+    "annual_revenue_usd": 160640245
+  },
+  {
+    "supplier_id": "SUP_27F42057",
+    "name": "Aguilar-Hernandez GmbH",
+    "country": "Mexico",
+    "city": "North Kyle",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 33,
+    "quality_score": 8.88,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Latex"
+    ],
+    "established_year": 1995,
+    "employee_count": 1473,
+    "annual_revenue_usd": 297348580
+  },
+  {
+    "supplier_id": "SUP_30E30792",
+    "name": "Nolan and Sons Inc",
+    "country": "China",
+    "city": "Lake Curtis",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 11,
+    "quality_score": 7.69,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Stainless Steel 316L",
+      "Polyethylene"
+    ],
+    "established_year": 1996,
+    "employee_count": 4881,
+    "annual_revenue_usd": 355969940
+  },
+  {
+    "supplier_id": "SUP_5D9265FC",
+    "name": "Henson, Russell and Oliver GmbH",
+    "country": "Malaysia",
+    "city": "East Michelle",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k",
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 16,
+    "quality_score": 7.18,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "PVC Medical Grade",
+      "Copper Wire",
+      "Polycarbonate Resin",
+      "Ceramic Components"
+    ],
+    "established_year": 1999,
+    "employee_count": 3347,
+    "annual_revenue_usd": 147161060
+  },
+  {
+    "supplier_id": "SUP_C2BE0B9A",
+    "name": "Keith Inc Pte Ltd",
+    "country": "United Kingdom",
+    "city": "Lake Sandra",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 48,
+    "quality_score": 8.81,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polyethylene"
+    ],
+    "established_year": 2016,
+    "employee_count": 4859,
+    "annual_revenue_usd": 12137631
+  },
+  {
+    "supplier_id": "SUP_531D5A17",
+    "name": "Pham-Shields Corp",
+    "country": "Philippines",
+    "city": "West Erik",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 73,
+    "quality_score": 8.95,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Electronic Components"
+    ],
+    "established_year": 2020,
+    "employee_count": 4078,
+    "annual_revenue_usd": 49985393
+  },
+  {
+    "supplier_id": "SUP_28DAA0FF",
+    "name": "Rodriguez, Brennan and Garrison Corp",
+    "country": "France",
+    "city": "East Lisa",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 49,
+    "quality_score": 8.23,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Lithium Batteries",
+      "Titanium Alloy"
+    ],
+    "established_year": 2009,
+    "employee_count": 771,
+    "annual_revenue_usd": 169855112
+  },
+  {
+    "supplier_id": "SUP_42989C2D",
+    "name": "Bailey-Hoover Corp",
+    "country": "South Korea",
+    "city": "East Andrew",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "ISO 13485"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 66,
+    "quality_score": 8.24,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "Optical Fibers",
+      "Aluminum",
+      "Copper Wire",
+      "Titanium Alloy"
+    ],
+    "established_year": 1993,
+    "employee_count": 2237,
+    "annual_revenue_usd": 295860050
+  },
+  {
+    "supplier_id": "SUP_DDCF796C",
+    "name": "Ross LLC Corp",
+    "country": "Vietnam",
+    "city": "Port Joshuahaven",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 37,
+    "quality_score": 9.13,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Medical Grade Silicone",
+      "Lithium Batteries",
+      "Electronic Components",
+      "Stainless Steel 316L",
+      "Polyethylene"
+    ],
+    "established_year": 1987,
+    "employee_count": 3830,
+    "annual_revenue_usd": 64064156
+  },
+  {
+    "supplier_id": "SUP_118E333F",
+    "name": "Frazier-Anthony Inc",
+    "country": "Indonesia",
+    "city": "Sheilaville",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "GMP",
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 67,
+    "quality_score": 7.73,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Nitrile Rubber"
+    ],
+    "established_year": 2018,
+    "employee_count": 4213,
+    "annual_revenue_usd": 401662759
+  },
+  {
+    "supplier_id": "SUP_F1027F8D",
+    "name": "White-Estes Ltd",
+    "country": "Vietnam",
+    "city": "Benjaminchester",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "GMP"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 43,
+    "quality_score": 9.18,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Aluminum",
+      "PEEK Polymer",
+      "Copper Wire",
+      "Lithium Batteries",
+      "Ceramic Components"
+    ],
+    "established_year": 2002,
+    "employee_count": 2773,
+    "annual_revenue_usd": 297308407
+  },
+  {
+    "supplier_id": "SUP_05530423",
+    "name": "Chandler-Edwards GmbH",
+    "country": "Canada",
+    "city": "South Rachelborough",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 56,
+    "quality_score": 7.7,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Glass Vials"
+    ],
+    "established_year": 2010,
+    "employee_count": 3173,
+    "annual_revenue_usd": 208274450
+  },
+  {
+    "supplier_id": "SUP_976C30AF",
+    "name": "Williams-Graham Inc",
+    "country": "Philippines",
+    "city": "West Ryan",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 82,
+    "quality_score": 8.0,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Rare Earth Magnets",
+      "Copper Wire",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1989,
+    "employee_count": 3408,
+    "annual_revenue_usd": 468578577
+  },
+  {
+    "supplier_id": "SUP_D4F9CFD2",
+    "name": "Mccall, Hanson and Alvarado Inc",
+    "country": "Indonesia",
+    "city": "Lake Rachelhaven",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "GMP"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 57,
+    "quality_score": 8.95,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Glass Vials",
+      "Aluminum",
+      "Lithium Batteries",
+      "Titanium Alloy"
+    ],
+    "established_year": 2019,
+    "employee_count": 610,
+    "annual_revenue_usd": 127041315
+  },
+  {
+    "supplier_id": "SUP_B95D1379",
+    "name": "Estrada-Nguyen Corp",
+    "country": "Indonesia",
+    "city": "Angelaborough",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 63,
+    "quality_score": 7.5,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Titanium Alloy"
+    ],
+    "established_year": 2000,
+    "employee_count": 509,
+    "annual_revenue_usd": 158500627
+  },
+  {
+    "supplier_id": "SUP_FBD0D0CD",
+    "name": "Ortega-Gray Corp",
+    "country": "Switzerland",
+    "city": "New Ashley",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 59,
+    "quality_score": 8.7,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Latex",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 2019,
+    "employee_count": 3183,
+    "annual_revenue_usd": 333704469
+  },
+  {
+    "supplier_id": "SUP_AEA7F84F",
+    "name": "Kelley-Smith Inc",
+    "country": "Philippines",
+    "city": "Jasonshire",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 65,
+    "quality_score": 7.77,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Lithium Batteries",
+      "Latex",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 2008,
+    "employee_count": 2880,
+    "annual_revenue_usd": 316450156
+  },
+  {
+    "supplier_id": "SUP_E7B0A746",
+    "name": "Pena, Marshall and Ramos GmbH",
+    "country": "Japan",
+    "city": "New Thomas",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 56,
+    "quality_score": 9.56,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Circuit Boards"
+    ],
+    "established_year": 2002,
+    "employee_count": 4758,
+    "annual_revenue_usd": 159845279
+  },
+  {
+    "supplier_id": "SUP_3A4E8BAF",
+    "name": "Jackson, Miller and Robertson Corp",
+    "country": "Taiwan",
+    "city": "Clarencebury",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 13,
+    "quality_score": 9.73,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Polyethylene",
+      "Pharmaceutical Excipients",
+      "Optical Fibers"
+    ],
+    "established_year": 2020,
+    "employee_count": 1607,
+    "annual_revenue_usd": 334338407
+  },
+  {
+    "supplier_id": "SUP_006644BC",
+    "name": "Collins, Drake and Hernandez Inc",
+    "country": "South Korea",
+    "city": "East Traceyland",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 63,
+    "quality_score": 7.1,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "PVC Medical Grade"
+    ],
+    "established_year": 2000,
+    "employee_count": 3453,
+    "annual_revenue_usd": 95296046
+  },
+  {
+    "supplier_id": "SUP_EF597D52",
+    "name": "Perry-Soto Inc",
+    "country": "Malaysia",
+    "city": "Lake Heather",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "CE Mark"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 39,
+    "quality_score": 9.74,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Polycarbonate Resin",
+      "Copper Wire"
+    ],
+    "established_year": 1984,
+    "employee_count": 1203,
+    "annual_revenue_usd": 405881996
+  },
+  {
+    "supplier_id": "SUP_174D7135",
+    "name": "Ross-Hernandez GmbH",
+    "country": "Singapore",
+    "city": "Port Michelleville",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 40,
+    "quality_score": 8.61,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polypropylene",
+      "Circuit Boards",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2020,
+    "employee_count": 3093,
+    "annual_revenue_usd": 59167870
+  },
+  {
+    "supplier_id": "SUP_57286614",
+    "name": "Robinson-Brock Inc",
+    "country": "Philippines",
+    "city": "Williamsbury",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 48,
+    "quality_score": 9.75,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Ceramic Components"
+    ],
+    "established_year": 2009,
+    "employee_count": 2525,
+    "annual_revenue_usd": 349557775
+  },
+  {
+    "supplier_id": "SUP_242D41B4",
+    "name": "Bryant Group Ltd",
+    "country": "Belgium",
+    "city": "Stephaniemouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 70,
+    "quality_score": 7.35,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Active Pharmaceutical Ingredients",
+      "Copper Wire",
+      "Pharmaceutical Excipients",
+      "Electronic Components"
+    ],
+    "established_year": 2017,
+    "employee_count": 1315,
+    "annual_revenue_usd": 476352907
+  },
+  {
+    "supplier_id": "SUP_700E8F28",
+    "name": "Briggs, Mcclain and Simmons Ltd",
+    "country": "Belgium",
+    "city": "Merrittfort",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 34,
+    "quality_score": 8.33,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Pharmaceutical Excipients",
+      "Lithium Batteries"
+    ],
+    "established_year": 2002,
+    "employee_count": 546,
+    "annual_revenue_usd": 214749593
+  },
+  {
+    "supplier_id": "SUP_FFFDE76A",
+    "name": "Green-Wright Inc",
+    "country": "South Korea",
+    "city": "Katiehaven",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 9,
+    "quality_score": 7.15,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Circuit Boards"
+    ],
+    "established_year": 1993,
+    "employee_count": 612,
+    "annual_revenue_usd": 446505056
+  },
+  {
+    "supplier_id": "SUP_552AE51E",
+    "name": "Sims-Hill Inc",
+    "country": "Canada",
+    "city": "Lake Justinview",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 25,
+    "quality_score": 9.37,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polypropylene"
+    ],
+    "established_year": 1989,
+    "employee_count": 1114,
+    "annual_revenue_usd": 291025967
+  },
+  {
+    "supplier_id": "SUP_D2F72347",
+    "name": "Flores-Fernandez Inc",
+    "country": "South Korea",
+    "city": "East Jesse",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 37,
+    "quality_score": 8.77,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polypropylene",
+      "Titanium Alloy"
+    ],
+    "established_year": 1988,
+    "employee_count": 3498,
+    "annual_revenue_usd": 283440017
+  },
+  {
+    "supplier_id": "SUP_D359DABB",
+    "name": "Hernandez, Lewis and Perry Ltd",
+    "country": "India",
+    "city": "Amychester",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 71,
+    "quality_score": 7.66,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets"
+    ],
+    "established_year": 1999,
+    "employee_count": 3802,
+    "annual_revenue_usd": 346390898
+  },
+  {
+    "supplier_id": "SUP_B843C55B",
+    "name": "Clark Group Ltd",
+    "country": "United States",
+    "city": "Steinshire",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 63,
+    "quality_score": 7.22,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Optical Fibers",
+      "PEEK Polymer",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 1988,
+    "employee_count": 2302,
+    "annual_revenue_usd": 336177903
+  },
+  {
+    "supplier_id": "SUP_D0B269AB",
+    "name": "Smith, Gilmore and Johnston Pte Ltd",
+    "country": "Indonesia",
+    "city": "Smithstad",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 44,
+    "quality_score": 8.36,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Ceramic Components",
+      "Lithium Batteries",
+      "Nitrile Rubber"
+    ],
+    "established_year": 2007,
+    "employee_count": 3749,
+    "annual_revenue_usd": 477790236
+  },
+  {
+    "supplier_id": "SUP_4D1036CC",
+    "name": "Molina-Castaneda GmbH",
+    "country": "Singapore",
+    "city": "Medinaside",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 47,
+    "quality_score": 8.28,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "PEEK Polymer",
+      "Aluminum"
+    ],
+    "established_year": 1984,
+    "employee_count": 797,
+    "annual_revenue_usd": 447554133
+  },
+  {
+    "supplier_id": "SUP_E6790CF0",
+    "name": "Hurst, Freeman and Nelson Ltd",
+    "country": "China",
+    "city": "Johnsonmouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 78,
+    "quality_score": 7.18,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Polycarbonate Resin",
+      "Electronic Components",
+      "Pharmaceutical Excipients",
+      "Circuit Boards"
+    ],
+    "established_year": 1983,
+    "employee_count": 2406,
+    "annual_revenue_usd": 323342714
+  },
+  {
+    "supplier_id": "SUP_27ED78B6",
+    "name": "Shelton, Powell and Martin Corp",
+    "country": "Japan",
+    "city": "Calhounside",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "FDA 510k",
+      "ISO 13485"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 35,
+    "quality_score": 9.54,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "Polycarbonate Resin",
+      "Polypropylene",
+      "Polyethylene",
+      "Electronic Components"
+    ],
+    "established_year": 2015,
+    "employee_count": 4610,
+    "annual_revenue_usd": 15094918
+  },
+  {
+    "supplier_id": "SUP_79B4597C",
+    "name": "Meadows PLC Corp",
+    "country": "Brazil",
+    "city": "North Dawnberg",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 50,
+    "quality_score": 8.05,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 1984,
+    "employee_count": 1212,
+    "annual_revenue_usd": 398804735
+  },
+  {
+    "supplier_id": "SUP_162859F3",
+    "name": "White-Green Ltd",
+    "country": "Indonesia",
+    "city": "Jasonmouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 65,
+    "quality_score": 8.02,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Circuit Boards",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 1983,
+    "employee_count": 1324,
+    "annual_revenue_usd": 85508794
+  },
+  {
+    "supplier_id": "SUP_645269C7",
+    "name": "Juarez-Gray Ltd",
+    "country": "Brazil",
+    "city": "Kingland",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 61,
+    "quality_score": 8.46,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polypropylene",
+      "Nitrile Rubber",
+      "Rare Earth Magnets",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2002,
+    "employee_count": 3571,
+    "annual_revenue_usd": 60533493
+  },
+  {
+    "supplier_id": "SUP_38F174DE",
+    "name": "Smith-Ryan Pte Ltd",
+    "country": "Japan",
+    "city": "Jeffreyland",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 83,
+    "quality_score": 7.16,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Nitrile Rubber",
+      "PEEK Polymer",
+      "Polypropylene"
+    ],
+    "established_year": 1998,
+    "employee_count": 2737,
+    "annual_revenue_usd": 65416106
+  },
+  {
+    "supplier_id": "SUP_1915FCEB",
+    "name": "Williams, Johnson and Wright GmbH",
+    "country": "United States",
+    "city": "New Elijahberg",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 75,
+    "quality_score": 9.11,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "Stainless Steel 316L",
+      "Active Pharmaceutical Ingredients",
+      "Titanium Alloy",
+      "Electronic Components"
+    ],
+    "established_year": 1981,
+    "employee_count": 3816,
+    "annual_revenue_usd": 495545317
+  },
+  {
+    "supplier_id": "SUP_D8AF7926",
+    "name": "Caldwell-Elliott Corp",
+    "country": "China",
+    "city": "South Holly",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 44,
+    "quality_score": 7.35,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Latex",
+      "Optical Fibers",
+      "Copper Wire"
+    ],
+    "established_year": 2003,
+    "employee_count": 771,
+    "annual_revenue_usd": 235457851
+  },
+  {
+    "supplier_id": "SUP_04DA4261",
+    "name": "Jackson-Lawson Inc",
+    "country": "India",
+    "city": "Port Loriport",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 50,
+    "quality_score": 7.66,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Rare Earth Magnets"
+    ],
+    "established_year": 2020,
+    "employee_count": 984,
+    "annual_revenue_usd": 285866295
+  },
+  {
+    "supplier_id": "SUP_11DBDBB1",
+    "name": "Lane LLC Inc",
+    "country": "United Kingdom",
+    "city": "Sandersborough",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 25,
+    "quality_score": 7.77,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Stainless Steel 316L",
+      "Latex",
+      "Aluminum",
+      "Copper Wire"
+    ],
+    "established_year": 2016,
+    "employee_count": 4797,
+    "annual_revenue_usd": 242004174
+  },
+  {
+    "supplier_id": "SUP_808DF2D4",
+    "name": "Vargas Ltd Pte Ltd",
+    "country": "Philippines",
+    "city": "North Heidi",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "CE Mark",
+      "ISO 9001"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 26,
+    "quality_score": 8.32,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Ceramic Components",
+      "PVC Medical Grade",
+      "Polypropylene",
+      "Titanium Alloy"
+    ],
+    "established_year": 2002,
+    "employee_count": 4206,
+    "annual_revenue_usd": 40830807
+  },
+  {
+    "supplier_id": "SUP_E2C8ED57",
+    "name": "Jefferson-Burke GmbH",
+    "country": "Japan",
+    "city": "Port Tonyaton",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 43,
+    "quality_score": 7.23,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Optical Fibers",
+      "Rare Earth Magnets",
+      "Active Pharmaceutical Ingredients",
+      "Copper Wire",
+      "Titanium Alloy"
+    ],
+    "established_year": 2008,
+    "employee_count": 4733,
+    "annual_revenue_usd": 350952571
+  },
+  {
+    "supplier_id": "SUP_69F59B7F",
+    "name": "Patel-Stanley Corp",
+    "country": "Malaysia",
+    "city": "New Deborahtown",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "FDA 510k"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 64,
+    "quality_score": 7.31,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets"
+    ],
+    "established_year": 1991,
+    "employee_count": 370,
+    "annual_revenue_usd": 134006398
+  },
+  {
+    "supplier_id": "SUP_E62F7369",
+    "name": "Short-Garcia GmbH",
+    "country": "Taiwan",
+    "city": "Cynthiamouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 43,
+    "quality_score": 8.16,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Titanium Alloy",
+      "Glass Vials",
+      "Stainless Steel 316L",
+      "Optical Fibers",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2015,
+    "employee_count": 3216,
+    "annual_revenue_usd": 153550247
+  },
+  {
+    "supplier_id": "SUP_08F4A196",
+    "name": "Hernandez, Thompson and Boyd Pte Ltd",
+    "country": "South Korea",
+    "city": "Christinaside",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 46,
+    "quality_score": 9.9,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Optical Fibers",
+      "Stainless Steel 316L",
+      "PVC Medical Grade"
+    ],
+    "established_year": 2015,
+    "employee_count": 3135,
+    "annual_revenue_usd": 346472812
+  },
+  {
+    "supplier_id": "SUP_8235D37B",
+    "name": "Marshall-Petersen Inc",
+    "country": "Italy",
+    "city": "Marcusbury",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 72,
+    "quality_score": 8.09,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Latex",
+      "Nitrile Rubber",
+      "Glass Vials"
+    ],
+    "established_year": 2011,
+    "employee_count": 1622,
+    "annual_revenue_usd": 122624371
+  },
+  {
+    "supplier_id": "SUP_26EA0DFC",
+    "name": "Ramirez Group Inc",
+    "country": "Vietnam",
+    "city": "Port Steven",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 86,
+    "quality_score": 7.39,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Latex",
+      "Ceramic Components"
+    ],
+    "established_year": 2019,
+    "employee_count": 1406,
+    "annual_revenue_usd": 388182174
+  },
+  {
+    "supplier_id": "SUP_E5109F15",
+    "name": "Barnett, Rogers and Snyder Ltd",
+    "country": "Netherlands",
+    "city": "Hunterborough",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 43,
+    "quality_score": 9.26,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Polyethylene"
+    ],
+    "established_year": 1999,
+    "employee_count": 3892,
+    "annual_revenue_usd": 486317525
+  },
+  {
+    "supplier_id": "SUP_9DE4A676",
+    "name": "Salinas-Peterson Corp",
+    "country": "Malaysia",
+    "city": "Angelahaven",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "GMP",
+      "FDA 510k"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 71,
+    "quality_score": 8.58,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Optical Fibers",
+      "PEEK Polymer"
+    ],
+    "established_year": 1996,
+    "employee_count": 477,
+    "annual_revenue_usd": 345230372
+  },
+  {
+    "supplier_id": "SUP_3AE35A45",
+    "name": "Miller Ltd Corp",
+    "country": "France",
+    "city": "Freemanbury",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 43,
+    "quality_score": 7.25,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Copper Wire",
+      "Rare Earth Magnets",
+      "PEEK Polymer"
+    ],
+    "established_year": 2007,
+    "employee_count": 801,
+    "annual_revenue_usd": 489823626
+  },
+  {
+    "supplier_id": "SUP_915E20E0",
+    "name": "Alvarez, Joseph and West GmbH",
+    "country": "Singapore",
+    "city": "North Kellyfurt",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 57,
+    "quality_score": 8.51,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "Pharmaceutical Excipients",
+      "Polyethylene",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 2000,
+    "employee_count": 861,
+    "annual_revenue_usd": 451529337
+  },
+  {
+    "supplier_id": "SUP_9F52B26A",
+    "name": "Sanchez, Beck and Wood Corp",
+    "country": "Taiwan",
+    "city": "Ronaldside",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 67,
+    "quality_score": 9.09,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Copper Wire",
+      "Optical Fibers",
+      "Medical Grade Silicone",
+      "Stainless Steel 316L"
+    ],
+    "established_year": 1981,
+    "employee_count": 2146,
+    "annual_revenue_usd": 116778757
+  },
+  {
+    "supplier_id": "SUP_5C6C3B29",
+    "name": "Bell-Chavez Pte Ltd",
+    "country": "Vietnam",
+    "city": "Johnville",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP",
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 37,
+    "quality_score": 7.9,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Electronic Components",
+      "Optical Fibers"
+    ],
+    "established_year": 2009,
+    "employee_count": 564,
+    "annual_revenue_usd": 60516376
+  },
+  {
+    "supplier_id": "SUP_A3E4E10A",
+    "name": "Lee, Wilson and Herrera Pte Ltd",
+    "country": "France",
+    "city": "East Javier",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 37,
+    "quality_score": 9.16,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Medical Grade Silicone",
+      "Optical Fibers",
+      "Pharmaceutical Excipients",
+      "Polyethylene"
+    ],
+    "established_year": 2016,
+    "employee_count": 3462,
+    "annual_revenue_usd": 101563388
+  },
+  {
+    "supplier_id": "SUP_D5918636",
+    "name": "Hill-Lawrence Ltd",
+    "country": "Philippines",
+    "city": "Tinaborough",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 67,
+    "quality_score": 7.13,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polypropylene",
+      "Medical Grade Silicone",
+      "Pharmaceutical Excipients"
+    ],
+    "established_year": 1984,
+    "employee_count": 2874,
+    "annual_revenue_usd": 130453493
+  },
+  {
+    "supplier_id": "SUP_5820C5F7",
+    "name": "Perez-White Ltd",
+    "country": "Israel",
+    "city": "Lake Amandaview",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "FDA 510k",
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 76,
+    "quality_score": 8.02,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Aluminum"
+    ],
+    "established_year": 2020,
+    "employee_count": 1543,
+    "annual_revenue_usd": 436669501
+  },
+  {
+    "supplier_id": "SUP_981C5952",
+    "name": "Mccann PLC Ltd",
+    "country": "Vietnam",
+    "city": "Heidiberg",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 12,
+    "quality_score": 9.37,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Rare Earth Magnets",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2014,
+    "employee_count": 3928,
+    "annual_revenue_usd": 136996793
+  },
+  {
+    "supplier_id": "SUP_9D3F37F5",
+    "name": "Oneill, Henry and Salas Inc",
+    "country": "Germany",
+    "city": "Taylormouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "CE Mark"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 22,
+    "quality_score": 9.4,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Active Pharmaceutical Ingredients",
+      "Glass Vials",
+      "Latex"
+    ],
+    "established_year": 2011,
+    "employee_count": 4125,
+    "annual_revenue_usd": 198217877
+  },
+  {
+    "supplier_id": "SUP_D149A116",
+    "name": "Lopez-Williams Corp",
+    "country": "United Kingdom",
+    "city": "Wilsonland",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 30,
+    "quality_score": 8.64,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Stainless Steel 316L"
+    ],
+    "established_year": 2000,
+    "employee_count": 2471,
+    "annual_revenue_usd": 165548711
+  },
+  {
+    "supplier_id": "SUP_012FFAF7",
+    "name": "Vasquez-Ray Pte Ltd",
+    "country": "Netherlands",
+    "city": "East Edwardshire",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "ISO 9001"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 64,
+    "quality_score": 7.13,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Electronic Components",
+      "Polypropylene",
+      "Titanium Alloy",
+      "Stainless Steel 316L",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2003,
+    "employee_count": 4253,
+    "annual_revenue_usd": 431085127
+  },
+  {
+    "supplier_id": "SUP_49CFF2DA",
+    "name": "Miller-Wright Inc",
+    "country": "Israel",
+    "city": "Obrienbury",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 11,
+    "quality_score": 7.38,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "Active Pharmaceutical Ingredients",
+      "Circuit Boards"
+    ],
+    "established_year": 1982,
+    "employee_count": 1306,
+    "annual_revenue_usd": 365568665
+  },
+  {
+    "supplier_id": "SUP_5735A5FA",
+    "name": "James, Kerr and Evans Corp",
+    "country": "Netherlands",
+    "city": "Torreston",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 53,
+    "quality_score": 8.19,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polyethylene",
+      "Polycarbonate Resin",
+      "Medical Grade Silicone"
+    ],
+    "established_year": 1991,
+    "employee_count": 4138,
+    "annual_revenue_usd": 278962376
+  },
+  {
+    "supplier_id": "SUP_5F077F32",
+    "name": "Choi, Garcia and Farmer Pte Ltd",
+    "country": "Ireland",
+    "city": "West Donna",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "ISO 9001"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 85,
+    "quality_score": 7.86,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "PEEK Polymer"
+    ],
+    "established_year": 1984,
+    "employee_count": 3753,
+    "annual_revenue_usd": 93694177
+  },
+  {
+    "supplier_id": "SUP_861C13BB",
+    "name": "Allen PLC GmbH",
+    "country": "Taiwan",
+    "city": "East Aaronmouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 77,
+    "quality_score": 8.63,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Ceramic Components",
+      "Latex"
+    ],
+    "established_year": 2003,
+    "employee_count": 4217,
+    "annual_revenue_usd": 121388801
+  },
+  {
+    "supplier_id": "SUP_4248702D",
+    "name": "Wheeler, Carter and Hall Inc",
+    "country": "India",
+    "city": "Jacquelinemouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 53,
+    "quality_score": 8.66,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "PEEK Polymer",
+      "Stainless Steel 316L",
+      "Circuit Boards"
+    ],
+    "established_year": 1999,
+    "employee_count": 3311,
+    "annual_revenue_usd": 385900794
+  },
+  {
+    "supplier_id": "SUP_FD5D5060",
+    "name": "Mcdaniel LLC GmbH",
+    "country": "Israel",
+    "city": "South Danny",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 3,
+    "lead_time_days": 47,
+    "quality_score": 8.93,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets",
+      "Pharmaceutical Excipients",
+      "PEEK Polymer",
+      "Lithium Batteries"
+    ],
+    "established_year": 2020,
+    "employee_count": 4865,
+    "annual_revenue_usd": 98690714
+  },
+  {
+    "supplier_id": "SUP_F28A03AA",
+    "name": "Holland LLC GmbH",
+    "country": "Vietnam",
+    "city": "North Brian",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 26,
+    "quality_score": 7.91,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polyethylene",
+      "Pharmaceutical Excipients",
+      "Rare Earth Magnets"
+    ],
+    "established_year": 1998,
+    "employee_count": 696,
+    "annual_revenue_usd": 135542703
+  },
+  {
+    "supplier_id": "SUP_9DA615C9",
+    "name": "Larson-Holloway Pte Ltd",
+    "country": "Malaysia",
+    "city": "Scottmouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 75,
+    "quality_score": 7.28,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Ceramic Components"
+    ],
+    "established_year": 1989,
+    "employee_count": 1452,
+    "annual_revenue_usd": 354654517
+  },
+  {
+    "supplier_id": "SUP_0578F8AB",
+    "name": "Torres, Powell and Nelson Pte Ltd",
+    "country": "Brazil",
+    "city": "Kimton",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485",
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 89,
+    "quality_score": 9.31,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Electronic Components"
+    ],
+    "established_year": 2019,
+    "employee_count": 298,
+    "annual_revenue_usd": 268382145
+  },
+  {
+    "supplier_id": "SUP_7D36429C",
+    "name": "Navarro-Munoz Pte Ltd",
+    "country": "Indonesia",
+    "city": "North Jeremyshire",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 45,
+    "quality_score": 8.36,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Latex"
+    ],
+    "established_year": 2008,
+    "employee_count": 3454,
+    "annual_revenue_usd": 260980346
+  },
+  {
+    "supplier_id": "SUP_DDA0D26A",
+    "name": "Sampson, Key and Chambers Inc",
+    "country": "Netherlands",
+    "city": "Barbaraburgh",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k",
+      "CE Mark",
+      "ISO 9001"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 51,
+    "quality_score": 9.93,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Rare Earth Magnets",
+      "Lithium Batteries",
+      "Polycarbonate Resin"
+    ],
+    "established_year": 2000,
+    "employee_count": 2030,
+    "annual_revenue_usd": 251435553
+  },
+  {
+    "supplier_id": "SUP_24E328C2",
+    "name": "Stone-Ramos Corp",
+    "country": "India",
+    "city": "Howardshire",
+    "tier": "Tier 2",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 13,
+    "quality_score": 7.87,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Electronic Components",
+      "Polyethylene",
+      "Latex",
+      "Glass Vials",
+      "Lithium Batteries"
+    ],
+    "established_year": 1992,
+    "employee_count": 1355,
+    "annual_revenue_usd": 268504272
+  },
+  {
+    "supplier_id": "SUP_ED9D6553",
+    "name": "Walters-Vasquez GmbH",
+    "country": "United Kingdom",
+    "city": "South Michaelmouth",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 57,
+    "quality_score": 8.52,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Circuit Boards",
+      "Pharmaceutical Excipients"
+    ],
+    "established_year": 1983,
+    "employee_count": 464,
+    "annual_revenue_usd": 152052032
+  },
+  {
+    "supplier_id": "SUP_EA827812",
+    "name": "Santiago-Hodge Pte Ltd",
+    "country": "France",
+    "city": "Robertfort",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "GMP"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 20,
+    "quality_score": 8.29,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients",
+      "Pharmaceutical Excipients",
+      "Titanium Alloy"
+    ],
+    "established_year": 2005,
+    "employee_count": 469,
+    "annual_revenue_usd": 307167625
+  },
+  {
+    "supplier_id": "SUP_E7CAF991",
+    "name": "Bates-Morales Inc",
+    "country": "Canada",
+    "city": "South Christopherview",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485",
+      "FDA 510k"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 64,
+    "quality_score": 9.29,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Optical Fibers",
+      "Polycarbonate Resin",
+      "PEEK Polymer",
+      "Ceramic Components",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2003,
+    "employee_count": 2827,
+    "annual_revenue_usd": 300483685
+  },
+  {
+    "supplier_id": "SUP_FAEA0C49",
+    "name": "Wilson-Barton Inc",
+    "country": "Switzerland",
+    "city": "Lake Mollymouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP",
+      "ISO 9001",
+      "CE Mark"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 12,
+    "quality_score": 7.12,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Aluminum",
+      "Rare Earth Magnets",
+      "Copper Wire"
+    ],
+    "established_year": 1989,
+    "employee_count": 4273,
+    "annual_revenue_usd": 76044347
+  },
+  {
+    "supplier_id": "SUP_BD78F717",
+    "name": "Brown-Stone Pte Ltd",
+    "country": "Italy",
+    "city": "Garrettton",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 9001"
+    ],
+    "capacity_rating": 10,
+    "lead_time_days": 45,
+    "quality_score": 8.78,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Lithium Batteries",
+      "Aluminum",
+      "Circuit Boards",
+      "PVC Medical Grade",
+      "Optical Fibers"
+    ],
+    "established_year": 1981,
+    "employee_count": 3067,
+    "annual_revenue_usd": 178832901
+  },
+  {
+    "supplier_id": "SUP_AE4F997C",
+    "name": "Adams and Sons Ltd",
+    "country": "Philippines",
+    "city": "Samuelfort",
+    "tier": "Tier 2",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485",
+      "GMP"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 40,
+    "quality_score": 9.9,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polyethylene",
+      "Titanium Alloy",
+      "Circuit Boards",
+      "Aluminum",
+      "Latex"
+    ],
+    "established_year": 2013,
+    "employee_count": 3164,
+    "annual_revenue_usd": 80336479
+  },
+  {
+    "supplier_id": "SUP_C5FAD565",
+    "name": "Johnson Ltd Inc",
+    "country": "Philippines",
+    "city": "Lake Eric",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 13485",
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 47,
+    "quality_score": 8.26,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Electronic Components",
+      "Rare Earth Magnets"
+    ],
+    "established_year": 2019,
+    "employee_count": 3913,
+    "annual_revenue_usd": 469590437
+  },
+  {
+    "supplier_id": "SUP_0A860C16",
+    "name": "Smith, Russell and Walker Ltd",
+    "country": "Israel",
+    "city": "South Staceyberg",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 78,
+    "quality_score": 7.98,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Rare Earth Magnets",
+      "Active Pharmaceutical Ingredients",
+      "Glass Vials",
+      "Latex"
+    ],
+    "established_year": 2009,
+    "employee_count": 4417,
+    "annual_revenue_usd": 184785417
+  },
+  {
+    "supplier_id": "SUP_62FD7A1D",
+    "name": "Cantu-Carter Corp",
+    "country": "Canada",
+    "city": "Robertfort",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark",
+      "ISO 9001",
+      "ISO 13485"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 42,
+    "quality_score": 8.67,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PVC Medical Grade",
+      "Nitrile Rubber",
+      "Aluminum"
+    ],
+    "established_year": 2000,
+    "employee_count": 3980,
+    "annual_revenue_usd": 188262279
+  },
+  {
+    "supplier_id": "SUP_1318D421",
+    "name": "Sanchez-Arnold Corp",
+    "country": "Canada",
+    "city": "Leehaven",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 55,
+    "quality_score": 9.69,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "PVC Medical Grade",
+      "Titanium Alloy"
+    ],
+    "established_year": 1998,
+    "employee_count": 697,
+    "annual_revenue_usd": 186952495
+  },
+  {
+    "supplier_id": "SUP_EB070827",
+    "name": "Suarez, Shields and Hill Corp",
+    "country": "Netherlands",
+    "city": "Morganhaven",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k",
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 41,
+    "quality_score": 9.8,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Polycarbonate Resin",
+      "Circuit Boards"
+    ],
+    "established_year": 1995,
+    "employee_count": 2036,
+    "annual_revenue_usd": 28254480
+  },
+  {
+    "supplier_id": "SUP_AF391359",
+    "name": "Hoover-Campbell Pte Ltd",
+    "country": "Philippines",
+    "city": "Maryshire",
+    "tier": "Tier 1",
+    "certifications": [
+      "FDA 510k",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "capacity_rating": 7,
+    "lead_time_days": 49,
+    "quality_score": 9.15,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Medical Grade Silicone",
+      "Lithium Batteries"
+    ],
+    "established_year": 1990,
+    "employee_count": 3383,
+    "annual_revenue_usd": 351519150
+  },
+  {
+    "supplier_id": "SUP_45D4024A",
+    "name": "Burns, Hernandez and Ryan GmbH",
+    "country": "France",
+    "city": "Martinside",
+    "tier": "Tier 3",
+    "certifications": [
+      "CE Mark"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 43,
+    "quality_score": 8.94,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Polyethylene",
+      "Lithium Batteries",
+      "Titanium Alloy",
+      "Latex",
+      "Electronic Components"
+    ],
+    "established_year": 1991,
+    "employee_count": 347,
+    "annual_revenue_usd": 449933172
+  },
+  {
+    "supplier_id": "SUP_93903759",
+    "name": "Gibson-Morris GmbH",
+    "country": "Ireland",
+    "city": "Lake John",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 79,
+    "quality_score": 8.81,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Copper Wire",
+      "Lithium Batteries",
+      "Rare Earth Magnets"
+    ],
+    "established_year": 2011,
+    "employee_count": 1149,
+    "annual_revenue_usd": 457909217
+  },
+  {
+    "supplier_id": "SUP_5026A7F2",
+    "name": "Hall-Rowe GmbH",
+    "country": "United Kingdom",
+    "city": "West Juliefurt",
+    "tier": "Tier 2",
+    "certifications": [
+      "ISO 13485"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 27,
+    "quality_score": 9.19,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Latex",
+      "Medical Grade Silicone",
+      "Glass Vials"
+    ],
+    "established_year": 1998,
+    "employee_count": 4701,
+    "annual_revenue_usd": 363066354
+  },
+  {
+    "supplier_id": "SUP_4E1A3D98",
+    "name": "Mcneil-Sparks Inc",
+    "country": "Malaysia",
+    "city": "South Tammie",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "GMP",
+      "CE Mark"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 18,
+    "quality_score": 8.2,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Aluminum"
+    ],
+    "established_year": 2000,
+    "employee_count": 2082,
+    "annual_revenue_usd": 4666894
+  },
+  {
+    "supplier_id": "SUP_576C5CB5",
+    "name": "Shaw PLC GmbH",
+    "country": "South Korea",
+    "city": "Mollymouth",
+    "tier": "Tier 1",
+    "certifications": [
+      "CE Mark",
+      "GMP"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 81,
+    "quality_score": 9.17,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Ceramic Components",
+      "Pharmaceutical Excipients",
+      "Polyethylene"
+    ],
+    "established_year": 1983,
+    "employee_count": 1018,
+    "annual_revenue_usd": 250857032
+  },
+  {
+    "supplier_id": "SUP_01C8C903",
+    "name": "Fox Group Inc",
+    "country": "Japan",
+    "city": "Lake Douglasberg",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "CE Mark",
+      "ISO 9001"
+    ],
+    "capacity_rating": 2,
+    "lead_time_days": 88,
+    "quality_score": 9.75,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Optical Fibers",
+      "Polyethylene",
+      "Ceramic Components"
+    ],
+    "established_year": 1988,
+    "employee_count": 3967,
+    "annual_revenue_usd": 83240874
+  },
+  {
+    "supplier_id": "SUP_8DE837AD",
+    "name": "Harrison LLC Pte Ltd",
+    "country": "Netherlands",
+    "city": "Cindyfurt",
+    "tier": "Tier 2",
+    "certifications": [
+      "GMP",
+      "ISO 9001"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 34,
+    "quality_score": 9.29,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Stainless Steel 316L",
+      "Rare Earth Magnets",
+      "Copper Wire",
+      "Optical Fibers",
+      "Pharmaceutical Excipients"
+    ],
+    "established_year": 1984,
+    "employee_count": 4671,
+    "annual_revenue_usd": 61241639
+  },
+  {
+    "supplier_id": "SUP_6DBE1F99",
+    "name": "Miller, Murphy and Craig Pte Ltd",
+    "country": "Germany",
+    "city": "Finleyfort",
+    "tier": "Tier 3",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 26,
+    "quality_score": 7.49,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Polycarbonate Resin",
+      "Nitrile Rubber",
+      "Circuit Boards",
+      "Aluminum"
+    ],
+    "established_year": 1985,
+    "employee_count": 4230,
+    "annual_revenue_usd": 240166697
+  },
+  {
+    "supplier_id": "SUP_714AEAF2",
+    "name": "Johnson, Jones and Welch GmbH",
+    "country": "Germany",
+    "city": "Wendyland",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "GMP",
+      "CE Mark"
+    ],
+    "capacity_rating": 1,
+    "lead_time_days": 78,
+    "quality_score": 8.39,
+    "financial_stability": "Moderate Risk",
+    "specialty_materials": [
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 1996,
+    "employee_count": 74,
+    "annual_revenue_usd": 401400735
+  },
+  {
+    "supplier_id": "SUP_0155EF3E",
+    "name": "Good-Hodges Pte Ltd",
+    "country": "Malaysia",
+    "city": "South Garrettport",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001"
+    ],
+    "capacity_rating": 6,
+    "lead_time_days": 15,
+    "quality_score": 8.62,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Aluminum"
+    ],
+    "established_year": 1982,
+    "employee_count": 2401,
+    "annual_revenue_usd": 220508765
+  },
+  {
+    "supplier_id": "SUP_469D5624",
+    "name": "Williams Inc Inc",
+    "country": "Thailand",
+    "city": "Michaelchester",
+    "tier": "Tier 3",
+    "certifications": [
+      "ISO 9001",
+      "CE Mark",
+      "FDA 510k"
+    ],
+    "capacity_rating": 8,
+    "lead_time_days": 55,
+    "quality_score": 8.13,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "PEEK Polymer",
+      "Pharmaceutical Excipients",
+      "Polycarbonate Resin",
+      "Latex",
+      "Active Pharmaceutical Ingredients"
+    ],
+    "established_year": 2013,
+    "employee_count": 1093,
+    "annual_revenue_usd": 391765860
+  },
+  {
+    "supplier_id": "SUP_ABA73E05",
+    "name": "Sanchez Group Ltd",
+    "country": "Singapore",
+    "city": "East Gregory",
+    "tier": "Tier 1",
+    "certifications": [
+      "ISO 9001",
+      "GMP"
+    ],
+    "capacity_rating": 9,
+    "lead_time_days": 55,
+    "quality_score": 9.47,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Pharmaceutical Excipients",
+      "PEEK Polymer",
+      "Polypropylene",
+      "Nitrile Rubber"
+    ],
+    "established_year": 1987,
+    "employee_count": 313,
+    "annual_revenue_usd": 435585289
+  },
+  {
+    "supplier_id": "SUP_DB38B677",
+    "name": "Pitts, Harvey and Allen GmbH",
+    "country": "Philippines",
+    "city": "East Steven",
+    "tier": "Tier 3",
+    "certifications": [
+      "FDA 510k"
+    ],
+    "capacity_rating": 4,
+    "lead_time_days": 15,
+    "quality_score": 7.3,
+    "financial_stability": "Stable",
+    "specialty_materials": [
+      "Optical Fibers",
+      "Titanium Alloy",
+      "Polyethylene",
+      "Ceramic Components"
+    ],
+    "established_year": 2005,
+    "employee_count": 3645,
+    "annual_revenue_usd": 126809940
+  },
+  {
+    "supplier_id": "SUP_08066134",
+    "name": "Stevens-Estrada Inc",
+    "country": "Canada",
+    "city": "Santanaside",
+    "tier": "Tier 1",
+    "certifications": [
+      "GMP"
+    ],
+    "capacity_rating": 5,
+    "lead_time_days": 36,
+    "quality_score": 9.45,
+    "financial_stability": "High Risk",
+    "specialty_materials": [
+      "Glass Vials",
+      "Circuit Boards",
+      "Ceramic Components",
+      "Polyethylene",
+      "PVC Medical Grade"
+    ],
+    "established_year": 1989,
+    "employee_count": 4320,
+    "annual_revenue_usd": 119671419
+  }
+]

@@ -1,0 +1,3189 @@
+[
+  {
+    "article_id": "NEWS_6359F31D",
+    "timestamp": "2025-05-26T22:50:20",
+    "title": "Port strike in Taiwan disrupts shipping operations",
+    "content": "Port strike in Taiwan disrupts shipping operations Local authorities report significant impact on industrial operations in Taiwan. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Bryan Inc News",
+    "location": "Taiwan",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology"
+    ],
+    "sentiment_score": -0.8
+  },
+  {
+    "article_id": "NEWS_2305B31C",
+    "timestamp": "2025-05-03T12:48:28",
+    "title": "Natural disaster hits India, affecting local suppliers",
+    "content": "Natural disaster hits India, affecting local suppliers Recovery efforts are underway with estimated timeline of 10 days. Local authorities report significant impact on industrial operations in India.",
+    "source": "Fry PLC News",
+    "location": "India",
+    "severity": "High",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": -0.58
+  },
+  {
+    "article_id": "NEWS_9D49A8D5",
+    "timestamp": "2025-05-12T10:31:22",
+    "title": "Major power outage affects manufacturing in Netherlands for 5 days",
+    "content": "Major power outage affects manufacturing in Netherlands for 5 days Local authorities report significant impact on industrial operations in Netherlands. Supply chain disruptions expected to last approximately 5 days.",
+    "source": "Clark, Armstrong and Montgomery News",
+    "location": "Netherlands",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.22
+  },
+  {
+    "article_id": "NEWS_0885A072",
+    "timestamp": "2025-05-01T01:27:43",
+    "title": "COVID-19 outbreak forces Italy facility closure",
+    "content": "COVID-19 outbreak forces Italy facility closure Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 15 days. Supply chain disruptions expected to last approximately 10 days. Local authorities report significant impact on industrial operations in Italy.",
+    "source": "Small-Gardner News",
+    "location": "Italy",
+    "severity": "High",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.73
+  },
+  {
+    "article_id": "NEWS_3A4CB920",
+    "timestamp": "2025-05-14T06:08:29",
+    "title": "Civil unrest in Switzerland impacts industrial operations",
+    "content": "Civil unrest in Switzerland impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 14 days.",
+    "source": "Sanchez-Aguirre News",
+    "location": "Switzerland",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.15
+  },
+  {
+    "article_id": "NEWS_80851EF4",
+    "timestamp": "2025-05-19T07:18:30",
+    "title": "Natural disaster hits Japan, affecting local suppliers",
+    "content": "Natural disaster hits Japan, affecting local suppliers Supply chain disruptions expected to last approximately 3 days. Local authorities report significant impact on industrial operations in Japan.",
+    "source": "Chavez-Barker News",
+    "location": "Japan",
+    "severity": "Low",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": -0.69
+  },
+  {
+    "article_id": "NEWS_E507889F",
+    "timestamp": "2025-05-07T06:21:12",
+    "title": "New trade tariffs imposed on goods from Thailand",
+    "content": "New trade tariffs imposed on goods from Thailand Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 10 days. Local authorities report significant impact on industrial operations in Thailand. Supply chain disruptions expected to last approximately 9 days.",
+    "source": "Perry-Marshall News",
+    "location": "Thailand",
+    "severity": "Critical",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.85
+  },
+  {
+    "article_id": "NEWS_10A2A781",
+    "timestamp": "2025-05-16T02:31:46",
+    "title": "Factory fire in United States halts production",
+    "content": "Factory fire in United States halts production Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 8 days. Local authorities report significant impact on industrial operations in United States.",
+    "source": "Thomas, Hensley and Flores News",
+    "location": "United States",
+    "severity": "High",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": 0.16
+  },
+  {
+    "article_id": "NEWS_E72DFF6B",
+    "timestamp": "2025-05-16T08:33:44",
+    "title": "Natural disaster hits Mexico, affecting local suppliers",
+    "content": "Natural disaster hits Mexico, affecting local suppliers Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 18 days. Local authorities report significant impact on industrial operations in Mexico.",
+    "source": "Anderson-Wood News",
+    "location": "Mexico",
+    "severity": "Critical",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.19
+  },
+  {
+    "article_id": "NEWS_68799C0F",
+    "timestamp": "2025-05-26T20:32:50",
+    "title": "Civil unrest in India impacts industrial operations",
+    "content": "Civil unrest in India impacts industrial operations Supply chain disruptions expected to last approximately 1 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 5 days. Local authorities report significant impact on industrial operations in India.",
+    "source": "Flores Group News",
+    "location": "India",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.3
+  },
+  {
+    "article_id": "NEWS_5C49B16F",
+    "timestamp": "2025-05-05T12:55:29",
+    "title": "Civil unrest in Singapore impacts industrial operations",
+    "content": "Civil unrest in Singapore impacts industrial operations Recovery efforts are underway with estimated timeline of 5 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Cole-Thomas News",
+    "location": "Singapore",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.62
+  },
+  {
+    "article_id": "NEWS_E5992E73",
+    "timestamp": "2025-05-02T01:08:08",
+    "title": "Transportation network disrupted in Brazil",
+    "content": "Transportation network disrupted in Brazil Supply chain disruptions expected to last approximately 1 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 4 days.",
+    "source": "Dougherty-Lin News",
+    "location": "Brazil",
+    "severity": "Critical",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.59
+  },
+  {
+    "article_id": "NEWS_B0ECBAB4",
+    "timestamp": "2025-05-19T21:20:19",
+    "title": "COVID-19 outbreak forces Japan facility closure",
+    "content": "COVID-19 outbreak forces Japan facility closure Supply chain disruptions expected to last approximately 14 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Estes and Sons News",
+    "location": "Japan",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.03
+  },
+  {
+    "article_id": "NEWS_A3FA50A5",
+    "timestamp": "2025-05-15T11:40:00",
+    "title": "Factory fire in Belgium halts production",
+    "content": "Factory fire in Belgium halts production Local authorities report significant impact on industrial operations in Belgium. Supply chain disruptions expected to last approximately 3 days. Recovery efforts are underway with estimated timeline of 8 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Griffith, Lee and Moore News",
+    "location": "Belgium",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.89
+  },
+  {
+    "article_id": "NEWS_345F80CC",
+    "timestamp": "2025-05-24T13:52:27",
+    "title": "Civil unrest in Belgium impacts industrial operations",
+    "content": "Civil unrest in Belgium impacts industrial operations Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 7 days. Local authorities report significant impact on industrial operations in Belgium. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Jimenez-Parker News",
+    "location": "Belgium",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.01
+  },
+  {
+    "article_id": "NEWS_B38820B8",
+    "timestamp": "2025-04-30T17:10:43",
+    "title": "Regulatory inspection halts operations at Japan facility",
+    "content": "Regulatory inspection halts operations at Japan facility Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 5 days. Local authorities report significant impact on industrial operations in Japan. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Landry PLC News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": 0.0
+  },
+  {
+    "article_id": "NEWS_F0BEE5ED",
+    "timestamp": "2025-05-21T18:53:19",
+    "title": "Port strike in France disrupts shipping operations",
+    "content": "Port strike in France disrupts shipping operations Supply chain disruptions expected to last approximately 11 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Lewis LLC News",
+    "location": "France",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.08
+  },
+  {
+    "article_id": "NEWS_61E2ABA9",
+    "timestamp": "2025-05-01T22:52:02",
+    "title": "Port strike in France disrupts shipping operations",
+    "content": "Port strike in France disrupts shipping operations Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 13 days. Supply chain disruptions expected to last approximately 10 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Campbell PLC News",
+    "location": "France",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.8
+  },
+  {
+    "article_id": "NEWS_18CAC551",
+    "timestamp": "2025-05-22T10:26:59",
+    "title": "Natural disaster hits Germany, affecting local suppliers",
+    "content": "Natural disaster hits Germany, affecting local suppliers Supply chain disruptions expected to last approximately 6 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Germany. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Herrera-Boone News",
+    "location": "Germany",
+    "severity": "High",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.09
+  },
+  {
+    "article_id": "NEWS_E49D6DFD",
+    "timestamp": "2025-05-20T12:14:37",
+    "title": "Major power outage affects manufacturing in Switzerland for 5 days",
+    "content": "Major power outage affects manufacturing in Switzerland for 5 days Local authorities report significant impact on industrial operations in Switzerland. Supply chain disruptions expected to last approximately 5 days. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 8 days.",
+    "source": "Khan Ltd News",
+    "location": "Switzerland",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": 0.05
+  },
+  {
+    "article_id": "NEWS_0AFAB44A",
+    "timestamp": "2025-05-17T08:20:17",
+    "title": "Civil unrest in Philippines impacts industrial operations",
+    "content": "Civil unrest in Philippines impacts industrial operations Recovery efforts are underway with estimated timeline of 8 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Diaz-Morales News",
+    "location": "Philippines",
+    "severity": "Medium",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.38
+  },
+  {
+    "article_id": "NEWS_A8B082CC",
+    "timestamp": "2025-05-27T06:36:09",
+    "title": "COVID-19 outbreak forces Switzerland facility closure",
+    "content": "COVID-19 outbreak forces Switzerland facility closure Local authorities report significant impact on industrial operations in Switzerland. Supply chain disruptions expected to last approximately 7 days.",
+    "source": "Lee, Tran and Jones News",
+    "location": "Switzerland",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.5
+  },
+  {
+    "article_id": "NEWS_48BD9C08",
+    "timestamp": "2025-05-24T01:40:35",
+    "title": "Port strike in China disrupts shipping operations",
+    "content": "Port strike in China disrupts shipping operations Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Duran-Ramirez News",
+    "location": "China",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": 0.07
+  },
+  {
+    "article_id": "NEWS_77F3A01C",
+    "timestamp": "2025-05-29T06:05:35",
+    "title": "Transportation network disrupted in Brazil",
+    "content": "Transportation network disrupted in Brazil Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Brazil.",
+    "source": "Anderson Inc News",
+    "location": "Brazil",
+    "severity": "Low",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": 0.03
+  },
+  {
+    "article_id": "NEWS_10ECBC67",
+    "timestamp": "2025-05-18T17:06:26",
+    "title": "New trade tariffs imposed on goods from Vietnam",
+    "content": "New trade tariffs imposed on goods from Vietnam Supply chain disruptions expected to last approximately 5 days. Local authorities report significant impact on industrial operations in Vietnam.",
+    "source": "Norton-Morgan News",
+    "location": "Vietnam",
+    "severity": "Critical",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.07
+  },
+  {
+    "article_id": "NEWS_BD6A667B",
+    "timestamp": "2025-05-17T08:08:19",
+    "title": "Major power outage affects manufacturing in Belgium for 4 days",
+    "content": "Major power outage affects manufacturing in Belgium for 4 days Recovery efforts are underway with estimated timeline of 5 days. Local authorities report significant impact on industrial operations in Belgium.",
+    "source": "Gonzalez PLC News",
+    "location": "Belgium",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.95
+  },
+  {
+    "article_id": "NEWS_9406208C",
+    "timestamp": "2025-05-19T01:49:34",
+    "title": "Major power outage affects manufacturing in Japan for 13 days",
+    "content": "Major power outage affects manufacturing in Japan for 13 days Recovery efforts are underway with estimated timeline of 14 days. Supply chain disruptions expected to last approximately 13 days.",
+    "source": "Williams, Williams and Reeves News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.96
+  },
+  {
+    "article_id": "NEWS_25986F00",
+    "timestamp": "2025-05-22T14:07:41",
+    "title": "Civil unrest in Vietnam impacts industrial operations",
+    "content": "Civil unrest in Vietnam impacts industrial operations Supply chain disruptions expected to last approximately 10 days. Recovery efforts are underway with estimated timeline of 13 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Bryant, Obrien and Robertson News",
+    "location": "Vietnam",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.37
+  },
+  {
+    "article_id": "NEWS_17EAAB9D",
+    "timestamp": "2025-05-15T12:17:03",
+    "title": "New trade tariffs imposed on goods from Taiwan",
+    "content": "New trade tariffs imposed on goods from Taiwan Local authorities report significant impact on industrial operations in Taiwan. Recovery efforts are underway with estimated timeline of 7 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 5 days.",
+    "source": "Flores, Long and Jensen News",
+    "location": "Taiwan",
+    "severity": "High",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.78
+  },
+  {
+    "article_id": "NEWS_F554C162",
+    "timestamp": "2025-05-14T02:48:34",
+    "title": "Factory fire in Switzerland halts production",
+    "content": "Factory fire in Switzerland halts production Supply chain disruptions expected to last approximately 7 days. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Switzerland. Recovery efforts are underway with estimated timeline of 9 days.",
+    "source": "Rogers, Clayton and Patel News",
+    "location": "Switzerland",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.84
+  },
+  {
+    "article_id": "NEWS_01EAC2BE",
+    "timestamp": "2025-05-26T22:01:50",
+    "title": "Civil unrest in Switzerland impacts industrial operations",
+    "content": "Civil unrest in Switzerland impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Wells-Smith News",
+    "location": "Switzerland",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.28
+  },
+  {
+    "article_id": "NEWS_CC6F4ECE",
+    "timestamp": "2025-05-15T16:05:54",
+    "title": "COVID-19 outbreak forces Japan facility closure",
+    "content": "COVID-19 outbreak forces Japan facility closure Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Japan.",
+    "source": "Rodriguez, Butler and Parker News",
+    "location": "Japan",
+    "severity": "Low",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.98
+  },
+  {
+    "article_id": "NEWS_8A4EA2FA",
+    "timestamp": "2025-04-30T21:13:21",
+    "title": "COVID-19 outbreak forces Philippines facility closure",
+    "content": "COVID-19 outbreak forces Philippines facility closure Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Philippines. Recovery efforts are underway with estimated timeline of 12 days.",
+    "source": "Wells, Coffey and Patton News",
+    "location": "Philippines",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.29
+  },
+  {
+    "article_id": "NEWS_F4ADDFE4",
+    "timestamp": "2025-05-27T16:08:52",
+    "title": "Natural disaster hits India, affecting local suppliers",
+    "content": "Natural disaster hits India, affecting local suppliers Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 2 days.",
+    "source": "Perez, Williams and Castillo News",
+    "location": "India",
+    "severity": "Critical",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": 0.01
+  },
+  {
+    "article_id": "NEWS_402C0994",
+    "timestamp": "2025-05-25T00:57:04",
+    "title": "COVID-19 outbreak forces Israel facility closure",
+    "content": "COVID-19 outbreak forces Israel facility closure Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 5 days. Recovery efforts are underway with estimated timeline of 10 days.",
+    "source": "Griffith, Hampton and James News",
+    "location": "Israel",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.08
+  },
+  {
+    "article_id": "NEWS_7DA9A3E6",
+    "timestamp": "2025-05-11T08:21:21",
+    "title": "Port strike in India disrupts shipping operations",
+    "content": "Port strike in India disrupts shipping operations Supply chain disruptions expected to last approximately 5 days. Recovery efforts are underway with estimated timeline of 9 days. Local authorities report significant impact on industrial operations in India.",
+    "source": "Armstrong Ltd News",
+    "location": "India",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.19
+  },
+  {
+    "article_id": "NEWS_C73A0F26",
+    "timestamp": "2025-05-04T22:12:50",
+    "title": "Factory fire in Thailand halts production",
+    "content": "Factory fire in Thailand halts production Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Thailand.",
+    "source": "Smith LLC News",
+    "location": "Thailand",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.65
+  },
+  {
+    "article_id": "NEWS_38E0EA20",
+    "timestamp": "2025-05-19T22:05:26",
+    "title": "COVID-19 outbreak forces France facility closure",
+    "content": "COVID-19 outbreak forces France facility closure Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in France. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 9 days.",
+    "source": "Gutierrez and Sons News",
+    "location": "France",
+    "severity": "Low",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": 0.02
+  },
+  {
+    "article_id": "NEWS_66C53D38",
+    "timestamp": "2025-05-19T12:18:02",
+    "title": "COVID-19 outbreak forces Netherlands facility closure",
+    "content": "COVID-19 outbreak forces Netherlands facility closure Recovery efforts are underway with estimated timeline of 2 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Hampton, Knapp and Salas News",
+    "location": "Netherlands",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.63
+  },
+  {
+    "article_id": "NEWS_E2A8E2CE",
+    "timestamp": "2025-05-02T14:44:21",
+    "title": "COVID-19 outbreak forces Ireland facility closure",
+    "content": "COVID-19 outbreak forces Ireland facility closure Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 14 days. Supply chain disruptions expected to last approximately 13 days. Local authorities report significant impact on industrial operations in Ireland.",
+    "source": "Taylor, Clark and Nguyen News",
+    "location": "Ireland",
+    "severity": "Low",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.29
+  },
+  {
+    "article_id": "NEWS_C538927B",
+    "timestamp": "2025-05-22T19:31:08",
+    "title": "Regulatory inspection halts operations at Ireland facility",
+    "content": "Regulatory inspection halts operations at Ireland facility Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Ireland. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Bennett, Frye and Stevens News",
+    "location": "Ireland",
+    "severity": "Low",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.58
+  },
+  {
+    "article_id": "NEWS_61DFE1F1",
+    "timestamp": "2025-05-25T11:18:51",
+    "title": "Regulatory inspection halts operations at Israel facility",
+    "content": "Regulatory inspection halts operations at Israel facility Local authorities report significant impact on industrial operations in Israel. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 1 days.",
+    "source": "Payne-Lowe News",
+    "location": "Israel",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.21
+  },
+  {
+    "article_id": "NEWS_D28EE94F",
+    "timestamp": "2025-05-12T10:10:50",
+    "title": "New trade tariffs imposed on goods from Singapore",
+    "content": "New trade tariffs imposed on goods from Singapore Local authorities report significant impact on industrial operations in Singapore. Recovery efforts are underway with estimated timeline of 14 days. Supply chain disruptions expected to last approximately 11 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Washington, Bernard and Ramirez News",
+    "location": "Singapore",
+    "severity": "High",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.35
+  },
+  {
+    "article_id": "NEWS_FAC85125",
+    "timestamp": "2025-05-14T01:57:11",
+    "title": "COVID-19 outbreak forces Germany facility closure",
+    "content": "COVID-19 outbreak forces Germany facility closure Recovery efforts are underway with estimated timeline of 15 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 11 days. Local authorities report significant impact on industrial operations in Germany.",
+    "source": "David LLC News",
+    "location": "Germany",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.32
+  },
+  {
+    "article_id": "NEWS_F9C88AC3",
+    "timestamp": "2025-05-13T14:53:26",
+    "title": "Regulatory inspection halts operations at Italy facility",
+    "content": "Regulatory inspection halts operations at Italy facility Supply chain disruptions expected to last approximately 2 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Clark, Bush and Stewart News",
+    "location": "Italy",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.56
+  },
+  {
+    "article_id": "NEWS_065B2D59",
+    "timestamp": "2025-05-16T12:33:41",
+    "title": "New trade tariffs imposed on goods from Belgium",
+    "content": "New trade tariffs imposed on goods from Belgium Supply chain disruptions expected to last approximately 8 days. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 9 days. Local authorities report significant impact on industrial operations in Belgium.",
+    "source": "Peck, Pope and Hill News",
+    "location": "Belgium",
+    "severity": "High",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.14
+  },
+  {
+    "article_id": "NEWS_1A3730F3",
+    "timestamp": "2025-05-05T12:10:12",
+    "title": "Port strike in Mexico disrupts shipping operations",
+    "content": "Port strike in Mexico disrupts shipping operations Local authorities report significant impact on industrial operations in Mexico. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 10 days.",
+    "source": "Rhodes, James and Baird News",
+    "location": "Mexico",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.01
+  },
+  {
+    "article_id": "NEWS_9E66ACE1",
+    "timestamp": "2025-05-16T08:17:14",
+    "title": "Civil unrest in United Kingdom impacts industrial operations",
+    "content": "Civil unrest in United Kingdom impacts industrial operations Supply chain disruptions expected to last approximately 7 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 12 days.",
+    "source": "Roberts LLC News",
+    "location": "United Kingdom",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.06
+  },
+  {
+    "article_id": "NEWS_121F3510",
+    "timestamp": "2025-05-03T10:15:08",
+    "title": "Transportation network disrupted in Indonesia",
+    "content": "Transportation network disrupted in Indonesia Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 14 days. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 16 days.",
+    "source": "Bradshaw-Douglas News",
+    "location": "Indonesia",
+    "severity": "High",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Technology",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.37
+  },
+  {
+    "article_id": "NEWS_8A18393F",
+    "timestamp": "2025-05-22T20:20:39",
+    "title": "COVID-19 outbreak forces Switzerland facility closure",
+    "content": "COVID-19 outbreak forces Switzerland facility closure Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Harris PLC News",
+    "location": "Switzerland",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.76
+  },
+  {
+    "article_id": "NEWS_E23B48E4",
+    "timestamp": "2025-05-12T18:04:08",
+    "title": "Civil unrest in Belgium impacts industrial operations",
+    "content": "Civil unrest in Belgium impacts industrial operations Supply chain disruptions expected to last approximately 14 days. Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Belgium.",
+    "source": "Horton, Taylor and Gilbert News",
+    "location": "Belgium",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.82
+  },
+  {
+    "article_id": "NEWS_AB3B2C8F",
+    "timestamp": "2025-05-28T01:53:00",
+    "title": "New trade tariffs imposed on goods from United States",
+    "content": "New trade tariffs imposed on goods from United States Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 16 days. Supply chain disruptions expected to last approximately 13 days.",
+    "source": "Sanchez Ltd News",
+    "location": "United States",
+    "severity": "Low",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.67
+  },
+  {
+    "article_id": "NEWS_48CAF50D",
+    "timestamp": "2025-05-25T08:53:04",
+    "title": "Civil unrest in United States impacts industrial operations",
+    "content": "Civil unrest in United States impacts industrial operations Recovery efforts are underway with estimated timeline of 16 days. Supply chain disruptions expected to last approximately 13 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in United States.",
+    "source": "Little Inc News",
+    "location": "United States",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.03
+  },
+  {
+    "article_id": "NEWS_D646919C",
+    "timestamp": "2025-05-04T10:54:55",
+    "title": "Severe weather warning issued for China",
+    "content": "Severe weather warning issued for China Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Rivera-Kennedy News",
+    "location": "China",
+    "severity": "Low",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.87
+  },
+  {
+    "article_id": "NEWS_F8681B71",
+    "timestamp": "2025-05-06T06:20:13",
+    "title": "Transportation network disrupted in Israel",
+    "content": "Transportation network disrupted in Israel Recovery efforts are underway with estimated timeline of 7 days. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 2 days. Local authorities report significant impact on industrial operations in Israel.",
+    "source": "Oconnell and Sons News",
+    "location": "Israel",
+    "severity": "Medium",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.0
+  },
+  {
+    "article_id": "NEWS_EA278E36",
+    "timestamp": "2025-05-19T08:15:28",
+    "title": "Factory fire in Israel halts production",
+    "content": "Factory fire in Israel halts production Supply chain disruptions expected to last approximately 13 days. Recovery efforts are underway with estimated timeline of 15 days. Local authorities report significant impact on industrial operations in Israel.",
+    "source": "Donovan, Johns and Woods News",
+    "location": "Israel",
+    "severity": "Medium",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.47
+  },
+  {
+    "article_id": "NEWS_A2E9F187",
+    "timestamp": "2025-05-09T06:33:33",
+    "title": "Regulatory inspection halts operations at South Korea facility",
+    "content": "Regulatory inspection halts operations at South Korea facility Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in South Korea. Supply chain disruptions expected to last approximately 1 days. Recovery efforts are underway with estimated timeline of 5 days.",
+    "source": "Morris-Brewer News",
+    "location": "South Korea",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.56
+  },
+  {
+    "article_id": "NEWS_FF9D7799",
+    "timestamp": "2025-05-03T22:24:20",
+    "title": "Severe weather warning issued for Taiwan",
+    "content": "Severe weather warning issued for Taiwan Recovery efforts are underway with estimated timeline of 17 days. Local authorities report significant impact on industrial operations in Taiwan.",
+    "source": "Andrews, Nichols and Sharp News",
+    "location": "Taiwan",
+    "severity": "Low",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.63
+  },
+  {
+    "article_id": "NEWS_B05ED873",
+    "timestamp": "2025-05-01T09:37:55",
+    "title": "Severe weather warning issued for Taiwan",
+    "content": "Severe weather warning issued for Taiwan Supply chain disruptions expected to last approximately 13 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 14 days. Local authorities report significant impact on industrial operations in Taiwan.",
+    "source": "Butler and Sons News",
+    "location": "Taiwan",
+    "severity": "Critical",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.12
+  },
+  {
+    "article_id": "NEWS_78FE11F5",
+    "timestamp": "2025-05-01T08:30:55",
+    "title": "Civil unrest in Singapore impacts industrial operations",
+    "content": "Civil unrest in Singapore impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Singapore.",
+    "source": "French-Lopez News",
+    "location": "Singapore",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.43
+  },
+  {
+    "article_id": "NEWS_001BAF52",
+    "timestamp": "2025-05-13T15:25:47",
+    "title": "Severe weather warning issued for Belgium",
+    "content": "Severe weather warning issued for Belgium Supply chain disruptions expected to last approximately 12 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Smith PLC News",
+    "location": "Belgium",
+    "severity": "Low",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.12
+  },
+  {
+    "article_id": "NEWS_60B9D2A1",
+    "timestamp": "2025-05-28T20:28:10",
+    "title": "Severe weather warning issued for Canada",
+    "content": "Severe weather warning issued for Canada Supply chain disruptions expected to last approximately 8 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Hebert LLC News",
+    "location": "Canada",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.76
+  },
+  {
+    "article_id": "NEWS_4FA48C71",
+    "timestamp": "2025-05-13T09:42:53",
+    "title": "Severe weather warning issued for Japan",
+    "content": "Severe weather warning issued for Japan Supply chain disruptions expected to last approximately 10 days. Recovery efforts are underway with estimated timeline of 11 days.",
+    "source": "Hays-Daniels News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.43
+  },
+  {
+    "article_id": "NEWS_900B85FD",
+    "timestamp": "2025-05-23T13:37:33",
+    "title": "Natural disaster hits Israel, affecting local suppliers",
+    "content": "Natural disaster hits Israel, affecting local suppliers Recovery efforts are underway with estimated timeline of 7 days. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 5 days. Local authorities report significant impact on industrial operations in Israel.",
+    "source": "Rosales Group News",
+    "location": "Israel",
+    "severity": "Low",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.53
+  },
+  {
+    "article_id": "NEWS_5334A6F3",
+    "timestamp": "2025-05-12T20:03:16",
+    "title": "Regulatory inspection halts operations at Ireland facility",
+    "content": "Regulatory inspection halts operations at Ireland facility Recovery efforts are underway with estimated timeline of 5 days. Supply chain disruptions expected to last approximately 4 days.",
+    "source": "Lamb LLC News",
+    "location": "Ireland",
+    "severity": "Low",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": -0.16
+  },
+  {
+    "article_id": "NEWS_888935EB",
+    "timestamp": "2025-05-07T11:29:45",
+    "title": "Major power outage affects manufacturing in Thailand for 7 days",
+    "content": "Major power outage affects manufacturing in Thailand for 7 days Recovery efforts are underway with estimated timeline of 12 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Thailand.",
+    "source": "Stevens, Scott and Lopez News",
+    "location": "Thailand",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.86
+  },
+  {
+    "article_id": "NEWS_54111823",
+    "timestamp": "2025-05-15T22:56:25",
+    "title": "Transportation network disrupted in Taiwan",
+    "content": "Transportation network disrupted in Taiwan Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Taiwan. Recovery efforts are underway with estimated timeline of 11 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Bradley-Todd News",
+    "location": "Taiwan",
+    "severity": "Medium",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.41
+  },
+  {
+    "article_id": "NEWS_A5F4862A",
+    "timestamp": "2025-05-08T02:38:34",
+    "title": "Factory fire in Vietnam halts production",
+    "content": "Factory fire in Vietnam halts production Supply chain disruptions expected to last approximately 14 days. Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Vietnam.",
+    "source": "Chase, Prince and Wilcox News",
+    "location": "Vietnam",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.05
+  },
+  {
+    "article_id": "NEWS_81BCAEDA",
+    "timestamp": "2025-05-24T14:31:18",
+    "title": "Civil unrest in United States impacts industrial operations",
+    "content": "Civil unrest in United States impacts industrial operations Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 5 days. Recovery efforts are underway with estimated timeline of 7 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Miller-Caldwell News",
+    "location": "United States",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.84
+  },
+  {
+    "article_id": "NEWS_E8168165",
+    "timestamp": "2025-05-08T13:27:43",
+    "title": "Factory fire in Italy halts production",
+    "content": "Factory fire in Italy halts production Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 13 days. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 11 days.",
+    "source": "Woods and Sons News",
+    "location": "Italy",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.94
+  },
+  {
+    "article_id": "NEWS_60B3BB9E",
+    "timestamp": "2025-04-29T22:08:02",
+    "title": "COVID-19 outbreak forces Singapore facility closure",
+    "content": "COVID-19 outbreak forces Singapore facility closure Recovery efforts are underway with estimated timeline of 11 days. Local authorities report significant impact on industrial operations in Singapore. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 6 days.",
+    "source": "Reyes-Griffin News",
+    "location": "Singapore",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.55
+  },
+  {
+    "article_id": "NEWS_E7AE7842",
+    "timestamp": "2025-05-12T13:14:50",
+    "title": "Major power outage affects manufacturing in Canada for 10 days",
+    "content": "Major power outage affects manufacturing in Canada for 10 days Supply chain disruptions expected to last approximately 10 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 12 days.",
+    "source": "Turner-Sharp News",
+    "location": "Canada",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.62
+  },
+  {
+    "article_id": "NEWS_4001FBD1",
+    "timestamp": "2025-04-30T03:29:59",
+    "title": "Factory fire in United Kingdom halts production",
+    "content": "Factory fire in United Kingdom halts production Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in United Kingdom.",
+    "source": "Valdez-Schwartz News",
+    "location": "United Kingdom",
+    "severity": "Medium",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.57
+  },
+  {
+    "article_id": "NEWS_B33CD207",
+    "timestamp": "2025-05-02T14:33:23",
+    "title": "Civil unrest in Belgium impacts industrial operations",
+    "content": "Civil unrest in Belgium impacts industrial operations Recovery efforts are underway with estimated timeline of 10 days. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 5 days.",
+    "source": "Wilson, Parker and Sullivan News",
+    "location": "Belgium",
+    "severity": "Medium",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.33
+  },
+  {
+    "article_id": "NEWS_8B7E49D8",
+    "timestamp": "2025-05-23T23:39:18",
+    "title": "COVID-19 outbreak forces Philippines facility closure",
+    "content": "COVID-19 outbreak forces Philippines facility closure Local authorities report significant impact on industrial operations in Philippines. Supply chain disruptions expected to last approximately 1 days.",
+    "source": "Carrillo, Vaughn and Fowler News",
+    "location": "Philippines",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.69
+  },
+  {
+    "article_id": "NEWS_BD35823D",
+    "timestamp": "2025-05-13T21:55:12",
+    "title": "COVID-19 outbreak forces Taiwan facility closure",
+    "content": "COVID-19 outbreak forces Taiwan facility closure Local authorities report significant impact on industrial operations in Taiwan. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 7 days.",
+    "source": "Mendez-Robinson News",
+    "location": "Taiwan",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.02
+  },
+  {
+    "article_id": "NEWS_205CF829",
+    "timestamp": "2025-05-06T01:47:43",
+    "title": "Port strike in Vietnam disrupts shipping operations",
+    "content": "Port strike in Vietnam disrupts shipping operations Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 6 days.",
+    "source": "Hernandez-Adkins News",
+    "location": "Vietnam",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Healthcare",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.3
+  },
+  {
+    "article_id": "NEWS_1249671C",
+    "timestamp": "2025-05-28T23:54:48",
+    "title": "Transportation network disrupted in United States",
+    "content": "Transportation network disrupted in United States Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in United States.",
+    "source": "Perry-Dunn News",
+    "location": "United States",
+    "severity": "Medium",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.97
+  },
+  {
+    "article_id": "NEWS_F5CD8A9C",
+    "timestamp": "2025-05-22T10:43:51",
+    "title": "Port strike in Philippines disrupts shipping operations",
+    "content": "Port strike in Philippines disrupts shipping operations Local authorities report significant impact on industrial operations in Philippines. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 10 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Pham, Petersen and Gill News",
+    "location": "Philippines",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.25
+  },
+  {
+    "article_id": "NEWS_192514F4",
+    "timestamp": "2025-05-28T12:21:01",
+    "title": "Regulatory inspection halts operations at South Korea facility",
+    "content": "Regulatory inspection halts operations at South Korea facility Local authorities report significant impact on industrial operations in South Korea. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 11 days.",
+    "source": "Fox PLC News",
+    "location": "South Korea",
+    "severity": "Medium",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.04
+  },
+  {
+    "article_id": "NEWS_A14F1DE3",
+    "timestamp": "2025-05-17T03:41:10",
+    "title": "Severe weather warning issued for Japan",
+    "content": "Severe weather warning issued for Japan Local authorities report significant impact on industrial operations in Japan. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 14 days. Supply chain disruptions expected to last approximately 13 days.",
+    "source": "Stark Inc News",
+    "location": "Japan",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": 0.16
+  },
+  {
+    "article_id": "NEWS_AC08B1C8",
+    "timestamp": "2025-05-02T14:07:47",
+    "title": "Port strike in Ireland disrupts shipping operations",
+    "content": "Port strike in Ireland disrupts shipping operations Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 3 days.",
+    "source": "Leach, Harris and Herrera News",
+    "location": "Ireland",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing",
+      "Technology"
+    ],
+    "sentiment_score": -0.41
+  },
+  {
+    "article_id": "NEWS_7F194CAA",
+    "timestamp": "2025-05-07T13:52:33",
+    "title": "Civil unrest in Belgium impacts industrial operations",
+    "content": "Civil unrest in Belgium impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Belgium.",
+    "source": "Bond-Ramos News",
+    "location": "Belgium",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.06
+  },
+  {
+    "article_id": "NEWS_F834C639",
+    "timestamp": "2025-05-09T13:29:11",
+    "title": "Civil unrest in France impacts industrial operations",
+    "content": "Civil unrest in France impacts industrial operations Local authorities report significant impact on industrial operations in France. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 10 days.",
+    "source": "Aguilar, Davis and Dixon News",
+    "location": "France",
+    "severity": "Medium",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.95
+  },
+  {
+    "article_id": "NEWS_B0443FF6",
+    "timestamp": "2025-05-02T06:59:48",
+    "title": "COVID-19 outbreak forces Italy facility closure",
+    "content": "COVID-19 outbreak forces Italy facility closure Supply chain disruptions expected to last approximately 11 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Italy.",
+    "source": "Anderson-Perry News",
+    "location": "Italy",
+    "severity": "High",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.09
+  },
+  {
+    "article_id": "NEWS_F87F2F99",
+    "timestamp": "2025-05-26T23:10:49",
+    "title": "Civil unrest in France impacts industrial operations",
+    "content": "Civil unrest in France impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 3 days. Recovery efforts are underway with estimated timeline of 5 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Hansen Ltd News",
+    "location": "France",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": 0.1
+  },
+  {
+    "article_id": "NEWS_FADB2AC3",
+    "timestamp": "2025-05-14T13:13:11",
+    "title": "Port strike in United Kingdom disrupts shipping operations",
+    "content": "Port strike in United Kingdom disrupts shipping operations Local authorities report significant impact on industrial operations in United Kingdom. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Johnson, Scott and Smith News",
+    "location": "United Kingdom",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.9
+  },
+  {
+    "article_id": "NEWS_FAE48265",
+    "timestamp": "2025-05-10T04:02:59",
+    "title": "Major power outage affects manufacturing in United Kingdom for 2 days",
+    "content": "Major power outage affects manufacturing in United Kingdom for 2 days Supply chain disruptions expected to last approximately 2 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Jones, Henderson and Graves News",
+    "location": "United Kingdom",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": 0.05
+  },
+  {
+    "article_id": "NEWS_D14BA0EC",
+    "timestamp": "2025-05-25T20:40:39",
+    "title": "Severe weather warning issued for Japan",
+    "content": "Severe weather warning issued for Japan Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 10 days. Local authorities report significant impact on industrial operations in Japan.",
+    "source": "Michael Inc News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.1
+  },
+  {
+    "article_id": "NEWS_57D1CB90",
+    "timestamp": "2025-05-22T12:10:45",
+    "title": "Civil unrest in Brazil impacts industrial operations",
+    "content": "Civil unrest in Brazil impacts industrial operations Recovery efforts are underway with estimated timeline of 15 days. Local authorities report significant impact on industrial operations in Brazil. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Mitchell and Sons News",
+    "location": "Brazil",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.79
+  },
+  {
+    "article_id": "NEWS_130289D5",
+    "timestamp": "2025-05-06T03:57:44",
+    "title": "COVID-19 outbreak forces France facility closure",
+    "content": "COVID-19 outbreak forces France facility closure Recovery efforts are underway with estimated timeline of 16 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 12 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Good, Brewer and Fisher News",
+    "location": "France",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology"
+    ],
+    "sentiment_score": -0.84
+  },
+  {
+    "article_id": "NEWS_6409548B",
+    "timestamp": "2025-05-18T03:47:50",
+    "title": "Port strike in Malaysia disrupts shipping operations",
+    "content": "Port strike in Malaysia disrupts shipping operations Supply chain disruptions expected to last approximately 14 days. Local authorities report significant impact on industrial operations in Malaysia. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 15 days.",
+    "source": "Kane-Knox News",
+    "location": "Malaysia",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.9
+  },
+  {
+    "article_id": "NEWS_ADDCD242",
+    "timestamp": "2025-05-17T19:50:06",
+    "title": "Natural disaster hits Netherlands, affecting local suppliers",
+    "content": "Natural disaster hits Netherlands, affecting local suppliers Local authorities report significant impact on industrial operations in Netherlands. Supply chain disruptions expected to last approximately 8 days.",
+    "source": "Vega Ltd News",
+    "location": "Netherlands",
+    "severity": "Medium",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.98
+  },
+  {
+    "article_id": "NEWS_337B88BA",
+    "timestamp": "2025-05-25T18:30:24",
+    "title": "Regulatory inspection halts operations at Netherlands facility",
+    "content": "Regulatory inspection halts operations at Netherlands facility Recovery efforts are underway with estimated timeline of 6 days. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Netherlands.",
+    "source": "Valdez LLC News",
+    "location": "Netherlands",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.24
+  },
+  {
+    "article_id": "NEWS_E47A3E2A",
+    "timestamp": "2025-05-05T08:23:38",
+    "title": "Factory fire in Taiwan halts production",
+    "content": "Factory fire in Taiwan halts production Recovery efforts are underway with estimated timeline of 11 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Taiwan. Supply chain disruptions expected to last approximately 7 days.",
+    "source": "Haney Group News",
+    "location": "Taiwan",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.14
+  },
+  {
+    "article_id": "NEWS_7B8EC066",
+    "timestamp": "2025-05-25T06:19:21",
+    "title": "Major power outage affects manufacturing in United Kingdom for 7 days",
+    "content": "Major power outage affects manufacturing in United Kingdom for 7 days Recovery efforts are underway with estimated timeline of 12 days. Local authorities report significant impact on industrial operations in United Kingdom. Supply chain disruptions expected to last approximately 7 days.",
+    "source": "Luna and Sons News",
+    "location": "United Kingdom",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.25
+  },
+  {
+    "article_id": "NEWS_FB1A249B",
+    "timestamp": "2025-04-29T18:13:23",
+    "title": "Severe weather warning issued for Indonesia",
+    "content": "Severe weather warning issued for Indonesia Supply chain disruptions expected to last approximately 8 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Good Group News",
+    "location": "Indonesia",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.72
+  },
+  {
+    "article_id": "NEWS_8F9421F3",
+    "timestamp": "2025-05-26T00:30:04",
+    "title": "Regulatory inspection halts operations at Singapore facility",
+    "content": "Regulatory inspection halts operations at Singapore facility Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 11 days. Recovery efforts are underway with estimated timeline of 14 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Patel-Morrow News",
+    "location": "Singapore",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.25
+  },
+  {
+    "article_id": "NEWS_D3F84744",
+    "timestamp": "2025-05-11T14:32:55",
+    "title": "Port strike in Japan disrupts shipping operations",
+    "content": "Port strike in Japan disrupts shipping operations Supply chain disruptions expected to last approximately 11 days. Recovery efforts are underway with estimated timeline of 15 days.",
+    "source": "Reed-Hill News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": 0.13
+  },
+  {
+    "article_id": "NEWS_CA916589",
+    "timestamp": "2025-05-05T01:38:59",
+    "title": "Civil unrest in France impacts industrial operations",
+    "content": "Civil unrest in France impacts industrial operations Local authorities report significant impact on industrial operations in France. Recovery efforts are underway with estimated timeline of 6 days. Supply chain disruptions expected to last approximately 4 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Pacheco Group News",
+    "location": "France",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.03
+  },
+  {
+    "article_id": "NEWS_1AB86112",
+    "timestamp": "2025-05-29T10:36:49",
+    "title": "Factory fire in Italy halts production",
+    "content": "Factory fire in Italy halts production Local authorities report significant impact on industrial operations in Italy. Supply chain disruptions expected to last approximately 2 days.",
+    "source": "Allen Inc News",
+    "location": "Italy",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.08
+  },
+  {
+    "article_id": "NEWS_507401C7",
+    "timestamp": "2025-05-04T11:43:46",
+    "title": "Civil unrest in Canada impacts industrial operations",
+    "content": "Civil unrest in Canada impacts industrial operations Local authorities report significant impact on industrial operations in Canada. Recovery efforts are underway with estimated timeline of 8 days. Supply chain disruptions expected to last approximately 3 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Johnson, Harper and Warner News",
+    "location": "Canada",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.01
+  },
+  {
+    "article_id": "NEWS_68D32430",
+    "timestamp": "2025-05-01T22:53:18",
+    "title": "Transportation network disrupted in Germany",
+    "content": "Transportation network disrupted in Germany Local authorities report significant impact on industrial operations in Germany. Supply chain disruptions expected to last approximately 2 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 4 days.",
+    "source": "Yang Group News",
+    "location": "Germany",
+    "severity": "High",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology",
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.12
+  },
+  {
+    "article_id": "NEWS_3890D150",
+    "timestamp": "2025-05-20T21:36:18",
+    "title": "Natural disaster hits India, affecting local suppliers",
+    "content": "Natural disaster hits India, affecting local suppliers Supply chain disruptions expected to last approximately 11 days. Local authorities report significant impact on industrial operations in India. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Fernandez Inc News",
+    "location": "India",
+    "severity": "Critical",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology"
+    ],
+    "sentiment_score": 0.0
+  },
+  {
+    "article_id": "NEWS_9C20ED0E",
+    "timestamp": "2025-05-06T09:26:46",
+    "title": "Severe weather warning issued for France",
+    "content": "Severe weather warning issued for France Local authorities report significant impact on industrial operations in France. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Holder, Young and Hendricks News",
+    "location": "France",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.82
+  },
+  {
+    "article_id": "NEWS_13F51542",
+    "timestamp": "2025-05-27T13:23:36",
+    "title": "Factory fire in United Kingdom halts production",
+    "content": "Factory fire in United Kingdom halts production Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 15 days.",
+    "source": "Ray-Barton News",
+    "location": "United Kingdom",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.47
+  },
+  {
+    "article_id": "NEWS_2FD24C7F",
+    "timestamp": "2025-05-15T03:46:41",
+    "title": "Transportation network disrupted in United States",
+    "content": "Transportation network disrupted in United States Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in United States.",
+    "source": "Turner and Sons News",
+    "location": "United States",
+    "severity": "Critical",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.09
+  },
+  {
+    "article_id": "NEWS_3123B504",
+    "timestamp": "2025-05-24T21:28:40",
+    "title": "Natural disaster hits Philippines, affecting local suppliers",
+    "content": "Natural disaster hits Philippines, affecting local suppliers Recovery efforts are underway with estimated timeline of 11 days. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 10 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Gutierrez LLC News",
+    "location": "Philippines",
+    "severity": "High",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.01
+  },
+  {
+    "article_id": "NEWS_CCE63274",
+    "timestamp": "2025-05-02T13:11:49",
+    "title": "Regulatory inspection halts operations at United Kingdom facility",
+    "content": "Regulatory inspection halts operations at United Kingdom facility Supply chain disruptions expected to last approximately 3 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Fry, Hobbs and Buck News",
+    "location": "United Kingdom",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.9
+  },
+  {
+    "article_id": "NEWS_8E213153",
+    "timestamp": "2025-05-20T07:54:04",
+    "title": "Severe weather warning issued for Canada",
+    "content": "Severe weather warning issued for Canada Recovery efforts are underway with estimated timeline of 9 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Canada. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Simpson, Compton and David News",
+    "location": "Canada",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Healthcare",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.97
+  },
+  {
+    "article_id": "NEWS_EDB379F7",
+    "timestamp": "2025-05-18T02:15:13",
+    "title": "Regulatory inspection halts operations at Canada facility",
+    "content": "Regulatory inspection halts operations at Canada facility Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Canada. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Flores, Butler and Hernandez News",
+    "location": "Canada",
+    "severity": "Low",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.39
+  },
+  {
+    "article_id": "NEWS_898A4259",
+    "timestamp": "2025-05-17T20:47:03",
+    "title": "Major power outage affects manufacturing in India for 13 days",
+    "content": "Major power outage affects manufacturing in India for 13 days Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in India. Supply chain disruptions expected to last approximately 13 days.",
+    "source": "Webster Group News",
+    "location": "India",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.58
+  },
+  {
+    "article_id": "NEWS_B7D3C420",
+    "timestamp": "2025-05-11T06:55:28",
+    "title": "Regulatory inspection halts operations at Japan facility",
+    "content": "Regulatory inspection halts operations at Japan facility Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 11 days. Local authorities report significant impact on industrial operations in Japan. Recovery efforts are underway with estimated timeline of 13 days.",
+    "source": "Turner Ltd News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.82
+  },
+  {
+    "article_id": "NEWS_D6536110",
+    "timestamp": "2025-05-06T14:21:30",
+    "title": "Factory fire in Belgium halts production",
+    "content": "Factory fire in Belgium halts production Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 2 days.",
+    "source": "Melendez-Hart News",
+    "location": "Belgium",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.91
+  },
+  {
+    "article_id": "NEWS_05CB7A3E",
+    "timestamp": "2025-05-19T19:26:35",
+    "title": "Transportation network disrupted in Philippines",
+    "content": "Transportation network disrupted in Philippines Recovery efforts are underway with estimated timeline of 12 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 7 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Moreno, Price and Scott News",
+    "location": "Philippines",
+    "severity": "Critical",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.17
+  },
+  {
+    "article_id": "NEWS_2B5C4249",
+    "timestamp": "2025-05-15T14:57:38",
+    "title": "Natural disaster hits Thailand, affecting local suppliers",
+    "content": "Natural disaster hits Thailand, affecting local suppliers Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 9 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Miller, Cole and Watson News",
+    "location": "Thailand",
+    "severity": "Low",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.96
+  },
+  {
+    "article_id": "NEWS_D21973FB",
+    "timestamp": "2025-05-25T14:14:13",
+    "title": "Transportation network disrupted in Thailand",
+    "content": "Transportation network disrupted in Thailand Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Thailand. Recovery efforts are underway with estimated timeline of 7 days. Supply chain disruptions expected to last approximately 6 days.",
+    "source": "Calderon, Williams and Bennett News",
+    "location": "Thailand",
+    "severity": "High",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.86
+  },
+  {
+    "article_id": "NEWS_97ECD750",
+    "timestamp": "2025-05-28T23:01:00",
+    "title": "Severe weather warning issued for Japan",
+    "content": "Severe weather warning issued for Japan Local authorities report significant impact on industrial operations in Japan. Supply chain disruptions expected to last approximately 5 days. Recovery efforts are underway with estimated timeline of 8 days.",
+    "source": "Williams, Jones and Ballard News",
+    "location": "Japan",
+    "severity": "Critical",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": 0.07
+  },
+  {
+    "article_id": "NEWS_6EBA7A9D",
+    "timestamp": "2025-05-28T02:45:39",
+    "title": "Natural disaster hits Malaysia, affecting local suppliers",
+    "content": "Natural disaster hits Malaysia, affecting local suppliers Local authorities report significant impact on industrial operations in Malaysia. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Powers, Robinson and Clark News",
+    "location": "Malaysia",
+    "severity": "Low",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.42
+  },
+  {
+    "article_id": "NEWS_FF5B6692",
+    "timestamp": "2025-05-15T18:06:28",
+    "title": "Regulatory inspection halts operations at Japan facility",
+    "content": "Regulatory inspection halts operations at Japan facility Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 8 days. Local authorities report significant impact on industrial operations in Japan.",
+    "source": "Krueger-Smith News",
+    "location": "Japan",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.04
+  },
+  {
+    "article_id": "NEWS_5A4FFC36",
+    "timestamp": "2025-05-08T19:34:12",
+    "title": "Port strike in Italy disrupts shipping operations",
+    "content": "Port strike in Italy disrupts shipping operations Recovery efforts are underway with estimated timeline of 18 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 13 days. Local authorities report significant impact on industrial operations in Italy.",
+    "source": "Wilson, Key and Mendoza News",
+    "location": "Italy",
+    "severity": "Critical",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.07
+  },
+  {
+    "article_id": "NEWS_C5F6272B",
+    "timestamp": "2025-05-11T08:49:04",
+    "title": "Civil unrest in Israel impacts industrial operations",
+    "content": "Civil unrest in Israel impacts industrial operations Local authorities report significant impact on industrial operations in Israel. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Munoz, Harris and Herman News",
+    "location": "Israel",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.15
+  },
+  {
+    "article_id": "NEWS_457618A8",
+    "timestamp": "2025-05-26T09:23:43",
+    "title": "New trade tariffs imposed on goods from United Kingdom",
+    "content": "New trade tariffs imposed on goods from United Kingdom Local authorities report significant impact on industrial operations in United Kingdom. Recovery efforts are underway with estimated timeline of 17 days. Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Rowe-James News",
+    "location": "United Kingdom",
+    "severity": "Low",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.0
+  },
+  {
+    "article_id": "NEWS_7FC99F62",
+    "timestamp": "2025-05-25T11:55:25",
+    "title": "COVID-19 outbreak forces Mexico facility closure",
+    "content": "COVID-19 outbreak forces Mexico facility closure Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 7 days. Local authorities report significant impact on industrial operations in Mexico.",
+    "source": "Howard, Green and Hunt News",
+    "location": "Mexico",
+    "severity": "Critical",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.48
+  },
+  {
+    "article_id": "NEWS_6CED4C1C",
+    "timestamp": "2025-05-23T17:32:47",
+    "title": "Major power outage affects manufacturing in Belgium for 14 days",
+    "content": "Major power outage affects manufacturing in Belgium for 14 days Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Belgium.",
+    "source": "Garcia-Zavala News",
+    "location": "Belgium",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.66
+  },
+  {
+    "article_id": "NEWS_0991F2CF",
+    "timestamp": "2025-05-22T09:10:20",
+    "title": "Civil unrest in Thailand impacts industrial operations",
+    "content": "Civil unrest in Thailand impacts industrial operations Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Rocha-Wood News",
+    "location": "Thailand",
+    "severity": "Medium",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.78
+  },
+  {
+    "article_id": "NEWS_0CBEE4F0",
+    "timestamp": "2025-05-19T16:26:23",
+    "title": "Major power outage affects manufacturing in Taiwan for 5 days",
+    "content": "Major power outage affects manufacturing in Taiwan for 5 days Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 5 days.",
+    "source": "Hart and Sons News",
+    "location": "Taiwan",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": 0.13
+  },
+  {
+    "article_id": "NEWS_6B6E59D9",
+    "timestamp": "2025-05-06T16:11:19",
+    "title": "Major power outage affects manufacturing in India for 4 days",
+    "content": "Major power outage affects manufacturing in India for 4 days Recovery efforts are underway with estimated timeline of 6 days. Supply chain disruptions expected to last approximately 4 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Green PLC News",
+    "location": "India",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.44
+  },
+  {
+    "article_id": "NEWS_A8EBBBB9",
+    "timestamp": "2025-05-27T16:55:36",
+    "title": "Port strike in Belgium disrupts shipping operations",
+    "content": "Port strike in Belgium disrupts shipping operations Supply chain disruptions expected to last approximately 8 days. Local authorities report significant impact on industrial operations in Belgium. Recovery efforts are underway with estimated timeline of 9 days.",
+    "source": "Butler, Hernandez and Rivera News",
+    "location": "Belgium",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.63
+  },
+  {
+    "article_id": "NEWS_77E58FF0",
+    "timestamp": "2025-05-18T00:43:18",
+    "title": "COVID-19 outbreak forces Belgium facility closure",
+    "content": "COVID-19 outbreak forces Belgium facility closure Supply chain disruptions expected to last approximately 2 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Whitaker, Porter and Pena News",
+    "location": "Belgium",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": 0.15
+  },
+  {
+    "article_id": "NEWS_7F1802AC",
+    "timestamp": "2025-05-15T23:28:02",
+    "title": "COVID-19 outbreak forces Canada facility closure",
+    "content": "COVID-19 outbreak forces Canada facility closure Recovery efforts are underway with estimated timeline of 2 days. Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Hines-Burns News",
+    "location": "Canada",
+    "severity": "Medium",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.12
+  },
+  {
+    "article_id": "NEWS_8E81FEA5",
+    "timestamp": "2025-05-23T09:45:42",
+    "title": "Civil unrest in France impacts industrial operations",
+    "content": "Civil unrest in France impacts industrial operations Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 13 days. Local authorities report significant impact on industrial operations in France.",
+    "source": "Jackson-Norton News",
+    "location": "France",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.11
+  },
+  {
+    "article_id": "NEWS_23DDADA5",
+    "timestamp": "2025-05-07T19:23:06",
+    "title": "Port strike in Mexico disrupts shipping operations",
+    "content": "Port strike in Mexico disrupts shipping operations Local authorities report significant impact on industrial operations in Mexico. Supply chain disruptions expected to last approximately 5 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Cortez Group News",
+    "location": "Mexico",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.39
+  },
+  {
+    "article_id": "NEWS_7EAD2284",
+    "timestamp": "2025-05-08T12:36:27",
+    "title": "Severe weather warning issued for Italy",
+    "content": "Severe weather warning issued for Italy Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Italy. Supply chain disruptions expected to last approximately 11 days.",
+    "source": "Mooney, Bernard and Warren News",
+    "location": "Italy",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": 0.15
+  },
+  {
+    "article_id": "NEWS_96B55534",
+    "timestamp": "2025-05-03T04:46:39",
+    "title": "Major power outage affects manufacturing in Italy for 12 days",
+    "content": "Major power outage affects manufacturing in Italy for 12 days Local authorities report significant impact on industrial operations in Italy. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 14 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Williams, Smith and Taylor News",
+    "location": "Italy",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.35
+  },
+  {
+    "article_id": "NEWS_C88BB35E",
+    "timestamp": "2025-05-10T19:48:57",
+    "title": "Port strike in Indonesia disrupts shipping operations",
+    "content": "Port strike in Indonesia disrupts shipping operations Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Indonesia. Supply chain disruptions expected to last approximately 9 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Mann Inc News",
+    "location": "Indonesia",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": 0.18
+  },
+  {
+    "article_id": "NEWS_F203F91B",
+    "timestamp": "2025-05-10T05:00:11",
+    "title": "COVID-19 outbreak forces India facility closure",
+    "content": "COVID-19 outbreak forces India facility closure Local authorities report significant impact on industrial operations in India. Supply chain disruptions expected to last approximately 6 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Bryant, Brown and Little News",
+    "location": "India",
+    "severity": "Low",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.89
+  },
+  {
+    "article_id": "NEWS_0672ECB9",
+    "timestamp": "2025-05-29T12:28:24",
+    "title": "Civil unrest in Brazil impacts industrial operations",
+    "content": "Civil unrest in Brazil impacts industrial operations Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Hopkins-Smith News",
+    "location": "Brazil",
+    "severity": "Low",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.15
+  },
+  {
+    "article_id": "NEWS_F2AFD924",
+    "timestamp": "2025-05-25T10:14:55",
+    "title": "Major power outage affects manufacturing in Malaysia for 4 days",
+    "content": "Major power outage affects manufacturing in Malaysia for 4 days Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Jenkins, Smith and Bowen News",
+    "location": "Malaysia",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.92
+  },
+  {
+    "article_id": "NEWS_C4F753CD",
+    "timestamp": "2025-05-25T14:21:23",
+    "title": "Port strike in Vietnam disrupts shipping operations",
+    "content": "Port strike in Vietnam disrupts shipping operations Supply chain disruptions expected to last approximately 3 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Vietnam. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Smith-Li News",
+    "location": "Vietnam",
+    "severity": "High",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.23
+  },
+  {
+    "article_id": "NEWS_73616BFB",
+    "timestamp": "2025-05-20T11:49:49",
+    "title": "Major power outage affects manufacturing in Indonesia for 14 days",
+    "content": "Major power outage affects manufacturing in Indonesia for 14 days Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Indonesia.",
+    "source": "Rodriguez Inc News",
+    "location": "Indonesia",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.09
+  },
+  {
+    "article_id": "NEWS_3151393F",
+    "timestamp": "2025-05-25T01:07:46",
+    "title": "New trade tariffs imposed on goods from Israel",
+    "content": "New trade tariffs imposed on goods from Israel Recovery efforts are underway with estimated timeline of 4 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 1 days.",
+    "source": "Allen PLC News",
+    "location": "Israel",
+    "severity": "Low",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": -0.9
+  },
+  {
+    "article_id": "NEWS_3CE83220",
+    "timestamp": "2025-05-25T03:32:31",
+    "title": "Major power outage affects manufacturing in Mexico for 12 days",
+    "content": "Major power outage affects manufacturing in Mexico for 12 days Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Mexico. Recovery efforts are underway with estimated timeline of 14 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Ochoa-Adams News",
+    "location": "Mexico",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.25
+  },
+  {
+    "article_id": "NEWS_48CA24F7",
+    "timestamp": "2025-05-18T20:35:39",
+    "title": "Major power outage affects manufacturing in India for 8 days",
+    "content": "Major power outage affects manufacturing in India for 8 days Recovery efforts are underway with estimated timeline of 12 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Watson Group News",
+    "location": "India",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.43
+  },
+  {
+    "article_id": "NEWS_A033EA03",
+    "timestamp": "2025-05-21T20:56:51",
+    "title": "Major power outage affects manufacturing in Italy for 14 days",
+    "content": "Major power outage affects manufacturing in Italy for 14 days Supply chain disruptions expected to last approximately 14 days. Local authorities report significant impact on industrial operations in Italy. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 17 days.",
+    "source": "Sanchez, Terry and Evans News",
+    "location": "Italy",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Technology",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.9
+  },
+  {
+    "article_id": "NEWS_47DCB5C5",
+    "timestamp": "2025-05-03T12:06:06",
+    "title": "Major power outage affects manufacturing in Germany for 7 days",
+    "content": "Major power outage affects manufacturing in Germany for 7 days Local authorities report significant impact on industrial operations in Germany. Supply chain disruptions expected to last approximately 7 days. Recovery efforts are underway with estimated timeline of 10 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Frey, Santos and Johnson News",
+    "location": "Germany",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.88
+  },
+  {
+    "article_id": "NEWS_533DA302",
+    "timestamp": "2025-05-19T06:21:35",
+    "title": "Transportation network disrupted in Germany",
+    "content": "Transportation network disrupted in Germany Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Germany. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Bennett-Alvarez News",
+    "location": "Germany",
+    "severity": "Critical",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 1,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.46
+  },
+  {
+    "article_id": "NEWS_128DA28B",
+    "timestamp": "2025-04-30T01:11:11",
+    "title": "Factory fire in Netherlands halts production",
+    "content": "Factory fire in Netherlands halts production Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Netherlands.",
+    "source": "Jackson, Porter and Hamilton News",
+    "location": "Netherlands",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Healthcare",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.87
+  },
+  {
+    "article_id": "NEWS_8C43589B",
+    "timestamp": "2025-05-15T16:08:04",
+    "title": "Regulatory inspection halts operations at United States facility",
+    "content": "Regulatory inspection halts operations at United States facility Supply chain disruptions expected to last approximately 12 days. Recovery efforts are underway with estimated timeline of 13 days. Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Madden, Dickson and Jacobson News",
+    "location": "United States",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.25
+  },
+  {
+    "article_id": "NEWS_09A9CFC0",
+    "timestamp": "2025-05-01T15:45:10",
+    "title": "New trade tariffs imposed on goods from Thailand",
+    "content": "New trade tariffs imposed on goods from Thailand Supply chain disruptions expected to last approximately 3 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Lewis Ltd News",
+    "location": "Thailand",
+    "severity": "Critical",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.82
+  },
+  {
+    "article_id": "NEWS_1A8E08A4",
+    "timestamp": "2025-05-27T02:31:40",
+    "title": "Regulatory inspection halts operations at Japan facility",
+    "content": "Regulatory inspection halts operations at Japan facility Local authorities report significant impact on industrial operations in Japan. Supply chain disruptions expected to last approximately 6 days. Recovery efforts are underway with estimated timeline of 9 days.",
+    "source": "Nelson-Glass News",
+    "location": "Japan",
+    "severity": "Medium",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.77
+  },
+  {
+    "article_id": "NEWS_D662D0DC",
+    "timestamp": "2025-05-13T04:50:04",
+    "title": "New trade tariffs imposed on goods from Malaysia",
+    "content": "New trade tariffs imposed on goods from Malaysia Supply chain disruptions expected to last approximately 13 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Elliott, Johnson and Mcfarland News",
+    "location": "Malaysia",
+    "severity": "Critical",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Healthcare",
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.26
+  },
+  {
+    "article_id": "NEWS_377CD864",
+    "timestamp": "2025-05-14T20:34:39",
+    "title": "Severe weather warning issued for Belgium",
+    "content": "Severe weather warning issued for Belgium Local authorities report significant impact on industrial operations in Belgium. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 4 days.",
+    "source": "Ali PLC News",
+    "location": "Belgium",
+    "severity": "Low",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.44
+  },
+  {
+    "article_id": "NEWS_135BCA89",
+    "timestamp": "2025-05-06T14:10:18",
+    "title": "New trade tariffs imposed on goods from Malaysia",
+    "content": "New trade tariffs imposed on goods from Malaysia Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 8 days. Recovery efforts are underway with estimated timeline of 11 days. Local authorities report significant impact on industrial operations in Malaysia.",
+    "source": "Nicholson, Hickman and Evans News",
+    "location": "Malaysia",
+    "severity": "Low",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology"
+    ],
+    "sentiment_score": -0.57
+  },
+  {
+    "article_id": "NEWS_D5051BC1",
+    "timestamp": "2025-05-26T23:14:07",
+    "title": "Port strike in Canada disrupts shipping operations",
+    "content": "Port strike in Canada disrupts shipping operations Supply chain disruptions expected to last approximately 3 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Canada.",
+    "source": "Knight Group News",
+    "location": "Canada",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.66
+  },
+  {
+    "article_id": "NEWS_E1762237",
+    "timestamp": "2025-05-25T19:58:38",
+    "title": "Civil unrest in Singapore impacts industrial operations",
+    "content": "Civil unrest in Singapore impacts industrial operations Recovery efforts are underway with estimated timeline of 14 days. Supply chain disruptions expected to last approximately 12 days. Local authorities report significant impact on industrial operations in Singapore.",
+    "source": "Reyes-Singh News",
+    "location": "Singapore",
+    "severity": "Medium",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 12,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": 0.01
+  },
+  {
+    "article_id": "NEWS_E04A779D",
+    "timestamp": "2025-05-03T09:33:04",
+    "title": "Major power outage affects manufacturing in India for 14 days",
+    "content": "Major power outage affects manufacturing in India for 14 days Local authorities report significant impact on industrial operations in India. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 16 days.",
+    "source": "Mcgee, Reed and Davis News",
+    "location": "India",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics",
+      "Technology"
+    ],
+    "sentiment_score": -0.03
+  },
+  {
+    "article_id": "NEWS_64307607",
+    "timestamp": "2025-05-10T20:38:37",
+    "title": "Natural disaster hits Philippines, affecting local suppliers",
+    "content": "Natural disaster hits Philippines, affecting local suppliers Local authorities report significant impact on industrial operations in Philippines. Recovery efforts are underway with estimated timeline of 14 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Peterson PLC News",
+    "location": "Philippines",
+    "severity": "Medium",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.36
+  },
+  {
+    "article_id": "NEWS_9BFF17A3",
+    "timestamp": "2025-05-28T12:06:38",
+    "title": "Severe weather warning issued for Taiwan",
+    "content": "Severe weather warning issued for Taiwan Supply chain disruptions expected to last approximately 6 days. Local authorities report significant impact on industrial operations in Taiwan. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Novak-Nguyen News",
+    "location": "Taiwan",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Healthcare",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.7
+  },
+  {
+    "article_id": "NEWS_B54FD34D",
+    "timestamp": "2025-05-12T20:37:31",
+    "title": "Civil unrest in Indonesia impacts industrial operations",
+    "content": "Civil unrest in Indonesia impacts industrial operations Recovery efforts are underway with estimated timeline of 16 days. Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Indonesia. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Henry-Kelly News",
+    "location": "Indonesia",
+    "severity": "Critical",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Manufacturing",
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.1
+  },
+  {
+    "article_id": "NEWS_ED08A8D7",
+    "timestamp": "2025-05-17T19:34:49",
+    "title": "Transportation network disrupted in Indonesia",
+    "content": "Transportation network disrupted in Indonesia Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 6 days. Recovery efforts are underway with estimated timeline of 10 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Lopez-Willis News",
+    "location": "Indonesia",
+    "severity": "Critical",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.3
+  },
+  {
+    "article_id": "NEWS_4478481C",
+    "timestamp": "2025-05-18T00:59:35",
+    "title": "Regulatory inspection halts operations at Indonesia facility",
+    "content": "Regulatory inspection halts operations at Indonesia facility Supply chain disruptions expected to last approximately 11 days. Recovery efforts are underway with estimated timeline of 12 days.",
+    "source": "Barton LLC News",
+    "location": "Indonesia",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.74
+  },
+  {
+    "article_id": "NEWS_A649398C",
+    "timestamp": "2025-05-11T13:18:40",
+    "title": "Factory fire in Belgium halts production",
+    "content": "Factory fire in Belgium halts production Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Belgium. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Jones, Adams and James News",
+    "location": "Belgium",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.58
+  },
+  {
+    "article_id": "NEWS_42D8E9F4",
+    "timestamp": "2025-05-07T01:55:19",
+    "title": "Major power outage affects manufacturing in Mexico for 8 days",
+    "content": "Major power outage affects manufacturing in Mexico for 8 days Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 8 days. Recovery efforts are underway with estimated timeline of 13 days.",
+    "source": "Price, Ward and Davis News",
+    "location": "Mexico",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.62
+  },
+  {
+    "article_id": "NEWS_C477D519",
+    "timestamp": "2025-05-14T13:20:02",
+    "title": "Major power outage affects manufacturing in Ireland for 3 days",
+    "content": "Major power outage affects manufacturing in Ireland for 3 days Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in Ireland.",
+    "source": "Ward-Nelson News",
+    "location": "Ireland",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": 0.01
+  },
+  {
+    "article_id": "NEWS_CC74DFED",
+    "timestamp": "2025-05-06T00:33:29",
+    "title": "Transportation network disrupted in United Kingdom",
+    "content": "Transportation network disrupted in United Kingdom Supply chain disruptions expected to last approximately 11 days. Local authorities report significant impact on industrial operations in United Kingdom. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Lopez Group News",
+    "location": "United Kingdom",
+    "severity": "Low",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.76
+  },
+  {
+    "article_id": "NEWS_43D41F8A",
+    "timestamp": "2025-05-26T15:06:39",
+    "title": "Severe weather warning issued for Malaysia",
+    "content": "Severe weather warning issued for Malaysia Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 5 days. Recovery efforts are underway with estimated timeline of 8 days. Local authorities report significant impact on industrial operations in Malaysia.",
+    "source": "Hunt, Garcia and Davis News",
+    "location": "Malaysia",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.66
+  },
+  {
+    "article_id": "NEWS_94711D58",
+    "timestamp": "2025-05-26T11:53:21",
+    "title": "Factory fire in Switzerland halts production",
+    "content": "Factory fire in Switzerland halts production Local authorities report significant impact on industrial operations in Switzerland. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Recovery efforts are underway with estimated timeline of 12 days.",
+    "source": "Carlson LLC News",
+    "location": "Switzerland",
+    "severity": "Critical",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.13
+  },
+  {
+    "article_id": "NEWS_A5D5A217",
+    "timestamp": "2025-05-18T07:00:39",
+    "title": "COVID-19 outbreak forces Malaysia facility closure",
+    "content": "COVID-19 outbreak forces Malaysia facility closure Recovery efforts are underway with estimated timeline of 9 days. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 4 days.",
+    "source": "Carter Group News",
+    "location": "Malaysia",
+    "severity": "High",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": 0.01
+  },
+  {
+    "article_id": "NEWS_DE5046F5",
+    "timestamp": "2025-05-03T16:51:30",
+    "title": "Factory fire in Belgium halts production",
+    "content": "Factory fire in Belgium halts production Recovery efforts are underway with estimated timeline of 8 days. Local authorities report significant impact on industrial operations in Belgium. Supply chain disruptions expected to last approximately 4 days.",
+    "source": "Santana, Stein and Spence News",
+    "location": "Belgium",
+    "severity": "Medium",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.4
+  },
+  {
+    "article_id": "NEWS_ED3149E5",
+    "timestamp": "2025-05-27T08:33:30",
+    "title": "Severe weather warning issued for Philippines",
+    "content": "Severe weather warning issued for Philippines Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 8 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Jackson, James and Taylor News",
+    "location": "Philippines",
+    "severity": "High",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.06
+  },
+  {
+    "article_id": "NEWS_5336B3CE",
+    "timestamp": "2025-05-14T05:01:11",
+    "title": "Natural disaster hits Vietnam, affecting local suppliers",
+    "content": "Natural disaster hits Vietnam, affecting local suppliers Recovery efforts are underway with estimated timeline of 11 days. Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 6 days. Local authorities report significant impact on industrial operations in Vietnam.",
+    "source": "Snyder-Brown News",
+    "location": "Vietnam",
+    "severity": "Critical",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.77
+  },
+  {
+    "article_id": "NEWS_E8AD85A5",
+    "timestamp": "2025-05-20T16:36:39",
+    "title": "Severe weather warning issued for India",
+    "content": "Severe weather warning issued for India Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in India. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 14 days.",
+    "source": "Fisher-Washington News",
+    "location": "India",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 10,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.97
+  },
+  {
+    "article_id": "NEWS_F0F80DE3",
+    "timestamp": "2025-05-03T07:47:46",
+    "title": "Port strike in Malaysia disrupts shipping operations",
+    "content": "Port strike in Malaysia disrupts shipping operations Supply chain disruptions expected to last approximately 7 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "King-Wright News",
+    "location": "Malaysia",
+    "severity": "Low",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.38
+  },
+  {
+    "article_id": "NEWS_7095CDD6",
+    "timestamp": "2025-05-23T15:49:41",
+    "title": "Severe weather warning issued for Thailand",
+    "content": "Severe weather warning issued for Thailand Supply chain disruptions expected to last approximately 14 days. Local authorities report significant impact on industrial operations in Thailand. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Jensen, Ellis and Taylor News",
+    "location": "Thailand",
+    "severity": "Critical",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": 0.15
+  },
+  {
+    "article_id": "NEWS_7AB140C8",
+    "timestamp": "2025-04-29T22:03:39",
+    "title": "Natural disaster hits Malaysia, affecting local suppliers",
+    "content": "Natural disaster hits Malaysia, affecting local suppliers Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 16 days. Local authorities report significant impact on industrial operations in Malaysia.",
+    "source": "Cook-Oliver News",
+    "location": "Malaysia",
+    "severity": "High",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Technology"
+    ],
+    "sentiment_score": -0.67
+  },
+  {
+    "article_id": "NEWS_3D037FC2",
+    "timestamp": "2025-05-15T14:07:13",
+    "title": "Natural disaster hits United States, affecting local suppliers",
+    "content": "Natural disaster hits United States, affecting local suppliers Recovery efforts are underway with estimated timeline of 9 days. Supply chain disruptions expected to last approximately 8 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Cook-Ochoa News",
+    "location": "United States",
+    "severity": "High",
+    "event_type": "Natural Disaster",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.31
+  },
+  {
+    "article_id": "NEWS_A1FA1D45",
+    "timestamp": "2025-05-28T10:41:39",
+    "title": "Port strike in Israel disrupts shipping operations",
+    "content": "Port strike in Israel disrupts shipping operations Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 9 days.",
+    "source": "Evans PLC News",
+    "location": "Israel",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 5,
+    "affected_industries": [
+      "Logistics",
+      "Manufacturing"
+    ],
+    "sentiment_score": 0.08
+  },
+  {
+    "article_id": "NEWS_9133B2A5",
+    "timestamp": "2025-05-09T08:11:07",
+    "title": "Factory fire in Israel halts production",
+    "content": "Factory fire in Israel halts production Supply chain disruptions expected to last approximately 8 days. Local authorities report significant impact on industrial operations in Israel. Recovery efforts are underway with estimated timeline of 12 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Edwards-Oconnell News",
+    "location": "Israel",
+    "severity": "Medium",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": 0.06
+  },
+  {
+    "article_id": "NEWS_E3CDB3DF",
+    "timestamp": "2025-05-15T01:59:55",
+    "title": "Civil unrest in Canada impacts industrial operations",
+    "content": "Civil unrest in Canada impacts industrial operations Supply chain disruptions expected to last approximately 11 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 12 days. Local authorities report significant impact on industrial operations in Canada.",
+    "source": "Navarro-Chen News",
+    "location": "Canada",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.39
+  },
+  {
+    "article_id": "NEWS_F2D9FC8B",
+    "timestamp": "2025-05-27T13:07:27",
+    "title": "Factory fire in Italy halts production",
+    "content": "Factory fire in Italy halts production Supply chain disruptions expected to last approximately 8 days. Local authorities report significant impact on industrial operations in Italy. Recovery efforts are underway with estimated timeline of 10 days.",
+    "source": "Nguyen LLC News",
+    "location": "Italy",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 8,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.54
+  },
+  {
+    "article_id": "NEWS_13BCA0EF",
+    "timestamp": "2025-05-18T15:58:44",
+    "title": "Factory fire in Israel halts production",
+    "content": "Factory fire in Israel halts production Local authorities report significant impact on industrial operations in Israel. Recovery efforts are underway with estimated timeline of 16 days. Supply chain disruptions expected to last approximately 14 days.",
+    "source": "Wilson-Elliott News",
+    "location": "Israel",
+    "severity": "Low",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Logistics",
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.42
+  },
+  {
+    "article_id": "NEWS_C5ABC8AC",
+    "timestamp": "2025-05-28T08:10:15",
+    "title": "Port strike in China disrupts shipping operations",
+    "content": "Port strike in China disrupts shipping operations Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 9 days. Recovery efforts are underway with estimated timeline of 11 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "White, Saunders and Johnson News",
+    "location": "China",
+    "severity": "Medium",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.27
+  },
+  {
+    "article_id": "NEWS_41CB77A4",
+    "timestamp": "2025-05-22T00:00:18",
+    "title": "Civil unrest in Thailand impacts industrial operations",
+    "content": "Civil unrest in Thailand impacts industrial operations Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 2 days. Local authorities report significant impact on industrial operations in Thailand. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Clark, Salinas and Guerra News",
+    "location": "Thailand",
+    "severity": "High",
+    "event_type": "Civil Unrest",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.57
+  },
+  {
+    "article_id": "NEWS_A29D01E6",
+    "timestamp": "2025-05-02T22:45:07",
+    "title": "Major power outage affects manufacturing in Malaysia for 11 days",
+    "content": "Major power outage affects manufacturing in Malaysia for 11 days Companies are exploring alternative sourcing options to minimize impact. Local authorities report significant impact on industrial operations in Malaysia.",
+    "source": "Chambers-Taylor News",
+    "location": "Malaysia",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 11,
+    "affected_industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.94
+  },
+  {
+    "article_id": "NEWS_CE4FCF0A",
+    "timestamp": "2025-05-14T07:00:07",
+    "title": "Major power outage affects manufacturing in United States for 13 days",
+    "content": "Major power outage affects manufacturing in United States for 13 days Supply chain disruptions expected to last approximately 13 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "King and Sons News",
+    "location": "United States",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 13,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.98
+  },
+  {
+    "article_id": "NEWS_BC51BCD9",
+    "timestamp": "2025-05-20T03:09:22",
+    "title": "Major power outage affects manufacturing in United States for 6 days",
+    "content": "Major power outage affects manufacturing in United States for 6 days Local authorities report significant impact on industrial operations in United States. Supply chain disruptions expected to last approximately 6 days. Recovery efforts are underway with estimated timeline of 8 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Jones-Ewing News",
+    "location": "United States",
+    "severity": "Medium",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology"
+    ],
+    "sentiment_score": -0.38
+  },
+  {
+    "article_id": "NEWS_F016FC2D",
+    "timestamp": "2025-05-22T20:31:31",
+    "title": "Severe weather warning issued for Italy",
+    "content": "Severe weather warning issued for Italy Supply chain disruptions expected to last approximately 9 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 11 days. Local authorities report significant impact on industrial operations in Italy.",
+    "source": "Morales, Hunter and Knapp News",
+    "location": "Italy",
+    "severity": "Medium",
+    "event_type": "Severe Weather",
+    "estimated_duration_days": 9,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.57
+  },
+  {
+    "article_id": "NEWS_CD452C3A",
+    "timestamp": "2025-05-19T21:31:55",
+    "title": "Major power outage affects manufacturing in Thailand for 7 days",
+    "content": "Major power outage affects manufacturing in Thailand for 7 days Companies are exploring alternative sourcing options to minimize impact. Supply chain disruptions expected to last approximately 7 days.",
+    "source": "Johnson, Schmitt and Miles News",
+    "location": "Thailand",
+    "severity": "Critical",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.21
+  },
+  {
+    "article_id": "NEWS_940F53BF",
+    "timestamp": "2025-05-25T15:43:01",
+    "title": "Regulatory inspection halts operations at South Korea facility",
+    "content": "Regulatory inspection halts operations at South Korea facility Supply chain disruptions expected to last approximately 6 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Little, Miller and Mack News",
+    "location": "South Korea",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.7
+  },
+  {
+    "article_id": "NEWS_7DE42F27",
+    "timestamp": "2025-05-16T19:47:29",
+    "title": "Regulatory inspection halts operations at India facility",
+    "content": "Regulatory inspection halts operations at India facility Supply chain disruptions expected to last approximately 6 days. Manufacturing facilities in the region are implementing contingency plans. Local authorities report significant impact on industrial operations in India. Recovery efforts are underway with estimated timeline of 10 days.",
+    "source": "Holland Inc News",
+    "location": "India",
+    "severity": "Critical",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Healthcare"
+    ],
+    "sentiment_score": -0.98
+  },
+  {
+    "article_id": "NEWS_0402347D",
+    "timestamp": "2025-05-26T22:22:32",
+    "title": "COVID-19 outbreak forces Mexico facility closure",
+    "content": "COVID-19 outbreak forces Mexico facility closure Supply chain disruptions expected to last approximately 7 days. Local authorities report significant impact on industrial operations in Mexico. Companies are exploring alternative sourcing options to minimize impact. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Byrd, Ross and Goodwin News",
+    "location": "Mexico",
+    "severity": "Low",
+    "event_type": "Health Crisis",
+    "estimated_duration_days": 7,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.49
+  },
+  {
+    "article_id": "NEWS_3655A896",
+    "timestamp": "2025-05-20T11:41:36",
+    "title": "Regulatory inspection halts operations at Singapore facility",
+    "content": "Regulatory inspection halts operations at Singapore facility Manufacturing facilities in the region are implementing contingency plans. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Smith LLC News",
+    "location": "Singapore",
+    "severity": "High",
+    "event_type": "Regulatory Issue",
+    "estimated_duration_days": 2,
+    "affected_industries": [
+      "Logistics"
+    ],
+    "sentiment_score": -0.55
+  },
+  {
+    "article_id": "NEWS_2FE84232",
+    "timestamp": "2025-05-10T08:49:35",
+    "title": "Major power outage affects manufacturing in Indonesia for 4 days",
+    "content": "Major power outage affects manufacturing in Indonesia for 4 days Manufacturing facilities in the region are implementing contingency plans. Supply chain disruptions expected to last approximately 4 days. Companies are exploring alternative sourcing options to minimize impact.",
+    "source": "Burgess, Grant and Watts News",
+    "location": "Indonesia",
+    "severity": "High",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Manufacturing",
+      "Healthcare",
+      "Logistics"
+    ],
+    "sentiment_score": -0.22
+  },
+  {
+    "article_id": "NEWS_2C173A2E",
+    "timestamp": "2025-05-10T07:41:49",
+    "title": "Major power outage affects manufacturing in Japan for 4 days",
+    "content": "Major power outage affects manufacturing in Japan for 4 days Supply chain disruptions expected to last approximately 4 days. Recovery efforts are underway with estimated timeline of 7 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Brooks-Ford News",
+    "location": "Japan",
+    "severity": "Low",
+    "event_type": "Power Outage",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Logistics",
+      "Healthcare",
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.27
+  },
+  {
+    "article_id": "NEWS_DFC86754",
+    "timestamp": "2025-05-28T03:56:00",
+    "title": "Transportation network disrupted in Ireland",
+    "content": "Transportation network disrupted in Ireland Local authorities report significant impact on industrial operations in Ireland. Recovery efforts are underway with estimated timeline of 8 days. Supply chain disruptions expected to last approximately 6 days.",
+    "source": "Mason, Cooper and Johnson News",
+    "location": "Ireland",
+    "severity": "Low",
+    "event_type": "Transportation Disruption",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Manufacturing"
+    ],
+    "sentiment_score": -0.24
+  },
+  {
+    "article_id": "NEWS_30918D52",
+    "timestamp": "2025-05-04T15:59:06",
+    "title": "New trade tariffs imposed on goods from Vietnam",
+    "content": "New trade tariffs imposed on goods from Vietnam Recovery efforts are underway with estimated timeline of 4 days. Supply chain disruptions expected to last approximately 3 days.",
+    "source": "Perry-Nixon News",
+    "location": "Vietnam",
+    "severity": "Medium",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 3,
+    "affected_industries": [
+      "Manufacturing",
+      "Logistics",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.63
+  },
+  {
+    "article_id": "NEWS_B9CFD74A",
+    "timestamp": "2025-05-05T05:24:25",
+    "title": "New trade tariffs imposed on goods from Israel",
+    "content": "New trade tariffs imposed on goods from Israel Recovery efforts are underway with estimated timeline of 8 days. Supply chain disruptions expected to last approximately 4 days.",
+    "source": "Thomas, Collins and Gibson News",
+    "location": "Israel",
+    "severity": "High",
+    "event_type": "Trade Policy",
+    "estimated_duration_days": 4,
+    "affected_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "sentiment_score": -0.76
+  },
+  {
+    "article_id": "NEWS_0EC87689",
+    "timestamp": "2025-05-09T15:11:39",
+    "title": "Port strike in France disrupts shipping operations",
+    "content": "Port strike in France disrupts shipping operations Supply chain disruptions expected to last approximately 6 days. Companies are exploring alternative sourcing options to minimize impact. Recovery efforts are underway with estimated timeline of 10 days.",
+    "source": "Webb, Alvarez and Kim News",
+    "location": "France",
+    "severity": "Critical",
+    "event_type": "Labor Strike",
+    "estimated_duration_days": 6,
+    "affected_industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "sentiment_score": -0.98
+  },
+  {
+    "article_id": "NEWS_5E1CD7AD",
+    "timestamp": "2025-05-21T13:18:56",
+    "title": "Factory fire in Ireland halts production",
+    "content": "Factory fire in Ireland halts production Recovery efforts are underway with estimated timeline of 15 days. Supply chain disruptions expected to last approximately 14 days. Manufacturing facilities in the region are implementing contingency plans.",
+    "source": "Jones-Williams News",
+    "location": "Ireland",
+    "severity": "Medium",
+    "event_type": "Industrial Accident",
+    "estimated_duration_days": 14,
+    "affected_industries": [
+      "Technology",
+      "Logistics"
+    ],
+    "sentiment_score": -0.63
+  }
+]

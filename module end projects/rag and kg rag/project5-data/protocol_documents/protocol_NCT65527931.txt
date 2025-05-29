@@ -1,0 +1,45 @@
+CLINICAL TRIAL PROTOCOL
+Trial ID: NCT65527931
+Title: A Phase III Study of Young in Lung Cancer
+Phase: Phase IV
+Sponsor: Novartis
+
+1. STUDY OBJECTIVES
+Primary Objective: To evaluate the efficacy and safety of the investigational treatment in patients with lung cancer.
+
+Secondary Objectives:
+- Assess progression-free survival
+- Evaluate quality of life measures
+- Determine optimal dosing regimen
+
+2. INCLUSION CRITERIA
+- Age 18-75 years
+- Confirmed diagnosis of Lung Cancer
+- Adequate organ function
+- Able to provide informed consent
+
+3. EXCLUSION CRITERIA
+- Active infection requiring systemic therapy
+- Uncontrolled hypertension (systolic BP >180 mmHg or diastolic BP >110 mmHg)
+- Pregnant or nursing women
+- Prior participation in investigational drug study within 30 days
+- History of drug or alcohol abuse within past year
+
+4. STUDY DESIGN
+This is a Phase IV randomized study designed to enroll 339 patients over 19 months.
+
+5. INVESTIGATIONAL PRODUCT
+Targeted-Therapy-456 is a monoclonal antibody designed to block key receptors associated with disease progression.
+
+6. SAFETY CONSIDERATIONS
+Patients will be monitored closely for adverse events. Specific attention will be paid to:
+- Hematologic toxicities
+- Hepatic function abnormalities  
+- Cardiovascular events
+- Neurological symptoms
+
+7. STATISTICAL ANALYSIS PLAN
+Primary endpoint will be analyzed using Kaplan-Meier methodology.
+
+8. ADVERSE EVENT REPORTING
+All serious adverse events must be reported within 24 hours to the sponsor and regulatory authorities.

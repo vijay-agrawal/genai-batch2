@@ -1,0 +1,794 @@
+[
+  {
+    "patient_id": "PAT_0001",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0001\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with parkinson's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 169/90, HR 75, \nTemp 98.8\u00b0F\nGeneral: Well-appearing\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0002",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-28\nPatient ID: PAT_0002\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with hypertension presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 179/107, HR 66, \nTemp 98.5\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-23"
+  },
+  {
+    "patient_id": "PAT_0003",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-26\nPatient ID: PAT_0003\n\nADMISSION DIAGNOSIS: Heart Failure\nDISCHARGE DIAGNOSIS: Heart Failure with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of heart failure. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Amlodipine, Albuterol\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-28"
+  },
+  {
+    "patient_id": "PAT_0003",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-18\nPatient ID: PAT_0003\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient with heart failure presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 134/75, HR 92, \nTemp 98.3\u00b0F\nGeneral: Mild distress\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0004",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-06\nPatient ID: PAT_0004\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 110/86, HR 62, \nTemp 99.9\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-23"
+  },
+  {
+    "patient_id": "PAT_0005",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-02\nPatient ID: PAT_0005\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 177/79, HR 99, \nTemp 100.4\u00b0F\nGeneral: Mild distress\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-19"
+  },
+  {
+    "patient_id": "PAT_0006",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-10\nPatient ID: PAT_0006\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with castration-resistant prostate cancer. Recent bone scan shows new lesions. Reports increased bone pain.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 159/79, HR 97, \nTemp 98.1\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0007",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-07\nPatient ID: PAT_0007\n\nADMISSION DIAGNOSIS: Depression\nDISCHARGE DIAGNOSIS: Depression with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of depression. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Atorvastatin, Levothyroxine, Furosemide\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-04"
+  },
+  {
+    "patient_id": "PAT_0007",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-05\nPatient ID: PAT_0007\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of depression with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 124/98, HR 86, \nTemp 98.9\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0008",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-15\nPatient ID: PAT_0008\n\nADMISSION DIAGNOSIS: Multiple Sclerosis\nDISCHARGE DIAGNOSIS: Multiple Sclerosis with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of multiple sclerosis. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Insulin, Hydroxychloroquine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-05"
+  },
+  {
+    "patient_id": "PAT_0008",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-06\nPatient ID: PAT_0008\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 165/90, HR 74, \nTemp 99.5\u00b0F\nGeneral: Mild distress\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0009",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-12\nPatient ID: PAT_0009\n\nADMISSION DIAGNOSIS: Lung Cancer\nDISCHARGE DIAGNOSIS: Lung Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of lung cancer. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Gabapentin, Levothyroxine, Amlodipine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-06"
+  },
+  {
+    "patient_id": "PAT_0009",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0009\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 118/88, HR 65, \nTemp 98.5\u00b0F\nGeneral: Well-appearing\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0010",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-12\nPatient ID: PAT_0010\n\nADMISSION DIAGNOSIS: Type 2 Diabetes\nDISCHARGE DIAGNOSIS: Type 2 Diabetes with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of type 2 diabetes. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Atorvastatin, Levothyroxine, Gabapentin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-26"
+  },
+  {
+    "patient_id": "PAT_0010",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0010\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 11.7%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 149/88, HR 95, \nTemp 98.0\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Levothyroxine dosage. Lab work in 2 weeks.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0011",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-18\nPatient ID: PAT_0011\n\nADMISSION DIAGNOSIS: Parkinson's Disease\nDISCHARGE DIAGNOSIS: Parkinson's Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of parkinson's disease. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Tramadol, Omeprazole, Atorvastatin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-07"
+  },
+  {
+    "patient_id": "PAT_0011",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0011\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of parkinson's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 122/83, HR 66, \nTemp 98.1\u00b0F\nGeneral: Mild distress\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Tramadol dosage. Lab work in 2 weeks.",
+    "date": "2025-05-24"
+  },
+  {
+    "patient_id": "PAT_0012",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-16\nPatient ID: PAT_0012\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with parkinson's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 128/94, HR 91, \nTemp 98.0\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-10"
+  },
+  {
+    "patient_id": "PAT_0013",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-19\nPatient ID: PAT_0013\n\nADMISSION DIAGNOSIS: Alzheimer's Disease\nDISCHARGE DIAGNOSIS: Alzheimer's Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of alzheimer's disease. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Levothyroxine, Prednisone, Omeprazole\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-26"
+  },
+  {
+    "patient_id": "PAT_0013",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-16\nPatient ID: PAT_0013\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with alzheimer's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 180/77, HR 68, \nTemp 98.6\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0014",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0014\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 111/87, HR 91, \nTemp 99.3\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-20"
+  },
+  {
+    "patient_id": "PAT_0015",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0015\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient with lung cancer presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 175/80, HR 75, \nTemp 98.5\u00b0F\nGeneral: Mild distress\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-09"
+  },
+  {
+    "patient_id": "PAT_0016",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-25\nPatient ID: PAT_0016\n\nADMISSION DIAGNOSIS: Parkinson's Disease\nDISCHARGE DIAGNOSIS: Parkinson's Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of parkinson's disease. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Atorvastatin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-26"
+  },
+  {
+    "patient_id": "PAT_0016",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-03\nPatient ID: PAT_0016\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with parkinson's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 111/106, HR 95, \nTemp 100.7\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-24"
+  },
+  {
+    "patient_id": "PAT_0017",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-27\nPatient ID: PAT_0017\n\nADMISSION DIAGNOSIS: Alzheimer's Disease\nDISCHARGE DIAGNOSIS: Alzheimer's Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of alzheimer's disease. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Sertraline, Lisinopril, Atorvastatin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-02"
+  },
+  {
+    "patient_id": "PAT_0017",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0017\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with alzheimer's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 138/87, HR 90, \nTemp 98.1\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-04"
+  },
+  {
+    "patient_id": "PAT_0018",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-24\nPatient ID: PAT_0018\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with chronic kidney disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 144/89, HR 69, \nTemp 100.3\u00b0F\nGeneral: Alert and oriented\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nAdjust Lisinopril dosage. Lab work in 2 weeks.",
+    "date": "2025-05-06"
+  },
+  {
+    "patient_id": "PAT_0019",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-08\nPatient ID: PAT_0019\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 7.6%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 115/71, HR 62, \nTemp 98.8\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-26"
+  },
+  {
+    "patient_id": "PAT_0020",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-27\nPatient ID: PAT_0020\n\nADMISSION DIAGNOSIS: Prostate Cancer\nDISCHARGE DIAGNOSIS: Prostate Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of prostate cancer. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Omeprazole\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-19"
+  },
+  {
+    "patient_id": "PAT_0020",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-21\nPatient ID: PAT_0020\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 134/96, HR 62, \nTemp 99.8\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-04"
+  },
+  {
+    "patient_id": "PAT_0021",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-07\nPatient ID: PAT_0021\n\nADMISSION DIAGNOSIS: Rheumatoid Arthritis\nDISCHARGE DIAGNOSIS: Rheumatoid Arthritis with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of rheumatoid arthritis. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Omeprazole, Prednisone, Insulin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-02"
+  },
+  {
+    "patient_id": "PAT_0021",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0021\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 113/91, HR 86, \nTemp 99.0\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Prednisone dosage. Lab work in 2 weeks.",
+    "date": "2025-05-14"
+  },
+  {
+    "patient_id": "PAT_0022",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-29\nPatient ID: PAT_0022\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with rheumatoid arthritis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 146/92, HR 95, \nTemp 100.4\u00b0F\nGeneral: Alert and oriented\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-11"
+  },
+  {
+    "patient_id": "PAT_0023",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-08\nPatient ID: PAT_0023\n\nADMISSION DIAGNOSIS: Heart Failure\nDISCHARGE DIAGNOSIS: Heart Failure with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of heart failure. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Prednisone, Hydroxychloroquine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-19"
+  },
+  {
+    "patient_id": "PAT_0023",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-20\nPatient ID: PAT_0023\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with heart failure presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 179/101, HR 95, \nTemp 98.4\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-13"
+  },
+  {
+    "patient_id": "PAT_0024",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-08\nPatient ID: PAT_0024\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 132/107, HR 70, \nTemp 98.4\u00b0F\nGeneral: Appears tired\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Tramadol dosage. Lab work in 2 weeks.",
+    "date": "2025-05-02"
+  },
+  {
+    "patient_id": "PAT_0025",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0025\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\n85-year-old male with history of Type 2 DM presenting for routine follow-up. Reports good compliance with Metformin. Recent HbA1c 9.4%. No episodes of hypoglycemia.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 156/92, HR 85, \nTemp 99.2\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-28"
+  },
+  {
+    "patient_id": "PAT_0026",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-17\nPatient ID: PAT_0026\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 155/75, HR 97, \nTemp 100.1\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0027",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-25\nPatient ID: PAT_0027\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 139/76, HR 67, \nTemp 100.3\u00b0F\nGeneral: Well-appearing\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-07"
+  },
+  {
+    "patient_id": "PAT_0028",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-01\nPatient ID: PAT_0028\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 143/91, HR 62, \nTemp 99.9\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-23"
+  },
+  {
+    "patient_id": "PAT_0029",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-03\nPatient ID: PAT_0029\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 152/72, HR 88, \nTemp 100.3\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-09"
+  },
+  {
+    "patient_id": "PAT_0030",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0030\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 131/73, HR 89, \nTemp 100.2\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0031",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0031\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with rheumatoid arthritis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 142/103, HR 88, \nTemp 99.3\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Omeprazole dosage. Lab work in 2 weeks.",
+    "date": "2025-05-26"
+  },
+  {
+    "patient_id": "PAT_0032",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-09\nPatient ID: PAT_0032\n\nADMISSION DIAGNOSIS: Chronic Kidney Disease\nDISCHARGE DIAGNOSIS: Chronic Kidney Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of chronic kidney disease. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Levothyroxine, Amlodipine, Insulin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-25"
+  },
+  {
+    "patient_id": "PAT_0032",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-10\nPatient ID: PAT_0032\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of chronic kidney disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 152/91, HR 67, \nTemp 99.8\u00b0F\nGeneral: Appears tired\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Amlodipine dosage. Lab work in 2 weeks.",
+    "date": "2025-04-29"
+  },
+  {
+    "patient_id": "PAT_0033",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-12\nPatient ID: PAT_0033\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient with lung cancer presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 142/84, HR 99, \nTemp 100.4\u00b0F\nGeneral: Mild distress\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-23"
+  },
+  {
+    "patient_id": "PAT_0034",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0034\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 130/97, HR 79, \nTemp 100.6\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Omeprazole dosage. Lab work in 2 weeks.",
+    "date": "2025-05-15"
+  },
+  {
+    "patient_id": "PAT_0035",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-20\nPatient ID: PAT_0035\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of parkinson's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 180/74, HR 98, \nTemp 100.9\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-24"
+  },
+  {
+    "patient_id": "PAT_0036",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-13\nPatient ID: PAT_0036\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with heart failure presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 168/87, HR 71, \nTemp 98.4\u00b0F\nGeneral: Well-appearing\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0037",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-20\nPatient ID: PAT_0037\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 160/81, HR 98, \nTemp 99.7\u00b0F\nGeneral: Alert and oriented\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-10"
+  },
+  {
+    "patient_id": "PAT_0038",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0038\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with parkinson's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 131/94, HR 72, \nTemp 100.9\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-28"
+  },
+  {
+    "patient_id": "PAT_0039",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0039\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\n79-year-old female with history of Type 2 DM presenting for routine follow-up. Reports good compliance with Metformin. Recent HbA1c 6.1%. No episodes of hypoglycemia.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 150/92, HR 97, \nTemp 99.6\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-19"
+  },
+  {
+    "patient_id": "PAT_0040",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0040\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with metastatic breast cancer, ER/PR positive, HER2 negative. Currently on cycle 4 of chemotherapy. Reports mild nausea and fatigue but tolerable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 163/107, HR 69, \nTemp 100.5\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-12"
+  },
+  {
+    "patient_id": "PAT_0041",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0041\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with hypertension presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 155/76, HR 89, \nTemp 98.4\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nAdjust Lisinopril dosage. Lab work in 2 weeks.",
+    "date": "2025-05-24"
+  },
+  {
+    "patient_id": "PAT_0042",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-01\nPatient ID: PAT_0042\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with lung cancer presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 113/101, HR 78, \nTemp 99.1\u00b0F\nGeneral: Well-appearing\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-20"
+  },
+  {
+    "patient_id": "PAT_0043",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-06\nPatient ID: PAT_0043\n\nADMISSION DIAGNOSIS: Breast Cancer\nDISCHARGE DIAGNOSIS: Breast Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of breast cancer. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Gabapentin, Albuterol, Amlodipine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0043",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-18\nPatient ID: PAT_0043\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 163/104, HR 80, \nTemp 100.9\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0044",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-29\nPatient ID: PAT_0044\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of heart failure with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 144/100, HR 68, \nTemp 98.3\u00b0F\nGeneral: Alert and oriented\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nAdjust Furosemide dosage. Lab work in 2 weeks.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0045",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-08\nPatient ID: PAT_0045\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient with metastatic breast cancer, ER/PR positive, HER2 negative. Currently on cycle 4 of chemotherapy. Reports mild nausea and fatigue but tolerable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 117/101, HR 85, \nTemp 100.0\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0046",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-26\nPatient ID: PAT_0046\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 118/95, HR 77, \nTemp 99.3\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-24"
+  },
+  {
+    "patient_id": "PAT_0047",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-06\nPatient ID: PAT_0047\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of depression with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 153/107, HR 89, \nTemp 99.5\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-11"
+  },
+  {
+    "patient_id": "PAT_0048",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-10\nPatient ID: PAT_0048\n\nADMISSION DIAGNOSIS: Alzheimer's Disease\nDISCHARGE DIAGNOSIS: Alzheimer's Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of alzheimer's disease. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Amlodipine, Gabapentin, Lisinopril\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-14"
+  },
+  {
+    "patient_id": "PAT_0048",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-13\nPatient ID: PAT_0048\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 161/76, HR 82, \nTemp 99.5\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-23"
+  },
+  {
+    "patient_id": "PAT_0049",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-25\nPatient ID: PAT_0049\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 130/101, HR 70, \nTemp 99.0\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0050",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-25\nPatient ID: PAT_0050\n\nADMISSION DIAGNOSIS: Depression\nDISCHARGE DIAGNOSIS: Depression with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of depression. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Omeprazole, Gabapentin, Warfarin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-03-30"
+  },
+  {
+    "patient_id": "PAT_0050",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-28\nPatient ID: PAT_0050\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with depression presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 123/94, HR 100, \nTemp 99.9\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0051",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-25\nPatient ID: PAT_0051\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with alzheimer's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 116/90, HR 90, \nTemp 100.4\u00b0F\nGeneral: Well-appearing\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nAdjust Gabapentin dosage. Lab work in 2 weeks.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0052",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-11\nPatient ID: PAT_0052\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 180/110, HR 81, \nTemp 100.5\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Hydroxychloroquine dosage. Lab work in 2 weeks.",
+    "date": "2025-05-20"
+  },
+  {
+    "patient_id": "PAT_0053",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-22\nPatient ID: PAT_0053\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of depression with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 123/100, HR 63, \nTemp 99.3\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nAdjust Atorvastatin dosage. Lab work in 2 weeks.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0054",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0054\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 9.7%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 124/70, HR 71, \nTemp 100.8\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0055",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-24\nPatient ID: PAT_0055\n\nADMISSION DIAGNOSIS: Chronic Kidney Disease\nDISCHARGE DIAGNOSIS: Chronic Kidney Disease with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of chronic kidney disease. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Gabapentin, Furosemide, Metformin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-22"
+  },
+  {
+    "patient_id": "PAT_0055",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-13\nPatient ID: PAT_0055\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with chronic kidney disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 131/103, HR 84, \nTemp 100.2\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-21"
+  },
+  {
+    "patient_id": "PAT_0056",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-15\nPatient ID: PAT_0056\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of chronic kidney disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 122/97, HR 91, \nTemp 98.0\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0057",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-03\nPatient ID: PAT_0057\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 175/72, HR 63, \nTemp 98.5\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Tramadol dosage. Lab work in 2 weeks.",
+    "date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0058",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-20\nPatient ID: PAT_0058\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 126/83, HR 86, \nTemp 100.1\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nAdjust Atorvastatin dosage. Lab work in 2 weeks.",
+    "date": "2025-05-28"
+  },
+  {
+    "patient_id": "PAT_0059",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-15\nPatient ID: PAT_0059\n\nADMISSION DIAGNOSIS: Rheumatoid Arthritis\nDISCHARGE DIAGNOSIS: Rheumatoid Arthritis with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of rheumatoid arthritis. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Gabapentin, Furosemide, Lisinopril\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-16"
+  },
+  {
+    "patient_id": "PAT_0059",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0059\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with rheumatoid arthritis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 174/80, HR 97, \nTemp 99.7\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Lisinopril dosage. Lab work in 2 weeks.",
+    "date": "2025-05-14"
+  },
+  {
+    "patient_id": "PAT_0060",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-06\nPatient ID: PAT_0060\n\nADMISSION DIAGNOSIS: Type 2 Diabetes\nDISCHARGE DIAGNOSIS: Type 2 Diabetes with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of type 2 diabetes. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Furosemide, Prednisone\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-19"
+  },
+  {
+    "patient_id": "PAT_0060",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0060\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 8.9%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 110/108, HR 96, \nTemp 100.5\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Prednisone dosage. Lab work in 2 weeks.",
+    "date": "2025-04-29"
+  },
+  {
+    "patient_id": "PAT_0061",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-11\nPatient ID: PAT_0061\n\nADMISSION DIAGNOSIS: Breast Cancer\nDISCHARGE DIAGNOSIS: Breast Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of breast cancer. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Levothyroxine, Hydroxychloroquine, Lisinopril\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-09"
+  },
+  {
+    "patient_id": "PAT_0061",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-25\nPatient ID: PAT_0061\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 133/77, HR 90, \nTemp 98.4\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Lisinopril dosage. Lab work in 2 weeks.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0062",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-08\nPatient ID: PAT_0062\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with rheumatoid arthritis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 122/75, HR 66, \nTemp 98.1\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nAdjust Albuterol dosage. Lab work in 2 weeks.",
+    "date": "2025-05-06"
+  },
+  {
+    "patient_id": "PAT_0063",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0063\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 111/77, HR 65, \nTemp 98.7\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Furosemide dosage. Lab work in 2 weeks.",
+    "date": "2025-05-10"
+  },
+  {
+    "patient_id": "PAT_0064",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-13\nPatient ID: PAT_0064\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 163/72, HR 76, \nTemp 99.2\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0065",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-16\nPatient ID: PAT_0065\n\nADMISSION DIAGNOSIS: Type 2 Diabetes\nDISCHARGE DIAGNOSIS: Type 2 Diabetes with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of type 2 diabetes. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Sertraline, Prednisone, Levothyroxine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-03-30"
+  },
+  {
+    "patient_id": "PAT_0065",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-30\nPatient ID: PAT_0065\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 6.1%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 157/102, HR 93, \nTemp 98.9\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-01"
+  },
+  {
+    "patient_id": "PAT_0066",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-13\nPatient ID: PAT_0066\n\nADMISSION DIAGNOSIS: Type 2 Diabetes\nDISCHARGE DIAGNOSIS: Type 2 Diabetes with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of type 2 diabetes. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Metformin, Furosemide, Omeprazole\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-08"
+  },
+  {
+    "patient_id": "PAT_0066",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0066\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient reports increased polyuria and polydipsia over past month. Blood glucose readings at home ranging 150-250 mg/dL. Last HbA1c 9.1%.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 174/110, HR 70, \nTemp 98.3\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-22"
+  },
+  {
+    "patient_id": "PAT_0067",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0067\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with parkinson's disease presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 175/74, HR 89, \nTemp 100.1\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Atorvastatin dosage. Lab work in 2 weeks.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0068",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-16\nPatient ID: PAT_0068\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with metastatic breast cancer, ER/PR positive, HER2 negative. Currently on cycle 4 of chemotherapy. Reports mild nausea and fatigue but tolerable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 161/107, HR 72, \nTemp 99.4\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-11"
+  },
+  {
+    "patient_id": "PAT_0069",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-04\nPatient ID: PAT_0069\n\nADMISSION DIAGNOSIS: Breast Cancer\nDISCHARGE DIAGNOSIS: Breast Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of breast cancer. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Omeprazole, Lisinopril, Levothyroxine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0069",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-23\nPatient ID: PAT_0069\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 169/72, HR 73, \nTemp 98.6\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nAdjust Lisinopril dosage. Lab work in 2 weeks.",
+    "date": "2025-05-16"
+  },
+  {
+    "patient_id": "PAT_0070",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-11\nPatient ID: PAT_0070\n\nADMISSION DIAGNOSIS: Rheumatoid Arthritis\nDISCHARGE DIAGNOSIS: Rheumatoid Arthritis with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of rheumatoid arthritis. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Atorvastatin, Lisinopril, Levothyroxine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0070",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-23\nPatient ID: PAT_0070\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 155/107, HR 78, \nTemp 100.9\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-26"
+  },
+  {
+    "patient_id": "PAT_0071",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-10\nPatient ID: PAT_0071\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of hypertension with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 158/92, HR 93, \nTemp 100.4\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-05"
+  },
+  {
+    "patient_id": "PAT_0072",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-22\nPatient ID: PAT_0072\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 154/85, HR 61, \nTemp 98.0\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nAdjust Gabapentin dosage. Lab work in 2 weeks.",
+    "date": "2025-05-28"
+  },
+  {
+    "patient_id": "PAT_0073",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-09\nPatient ID: PAT_0073\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 134/101, HR 92, \nTemp 100.5\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-25"
+  },
+  {
+    "patient_id": "PAT_0074",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-06\nPatient ID: PAT_0074\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 124/99, HR 84, \nTemp 98.4\u00b0F\nGeneral: Alert and oriented\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-15"
+  },
+  {
+    "patient_id": "PAT_0075",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0075\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with multiple sclerosis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 163/77, HR 91, \nTemp 101.0\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0076",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-10\nPatient ID: PAT_0076\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of chronic kidney disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 137/98, HR 72, \nTemp 100.5\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-15"
+  },
+  {
+    "patient_id": "PAT_0077",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0077\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nPatient with heart failure presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 166/102, HR 80, \nTemp 100.3\u00b0F\nGeneral: Appears tired\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-06"
+  },
+  {
+    "patient_id": "PAT_0078",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-14\nPatient ID: PAT_0078\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of parkinson's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 120/98, HR 89, \nTemp 98.5\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nAdjust Tramadol dosage. Lab work in 2 weeks.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0079",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0079\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\n44-year-old male with history of Type 2 DM presenting for routine follow-up. Reports good compliance with Metformin. Recent HbA1c 11.0%. No episodes of hypoglycemia.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 141/74, HR 90, \nTemp 100.2\u00b0F\nGeneral: Appears tired\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-16"
+  },
+  {
+    "patient_id": "PAT_0080",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-17\nPatient ID: PAT_0080\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with hypertension presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 147/89, HR 72, \nTemp 100.0\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-06"
+  },
+  {
+    "patient_id": "PAT_0081",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-09\nPatient ID: PAT_0081\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of alzheimer's disease with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 148/78, HR 74, \nTemp 100.8\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-12"
+  },
+  {
+    "patient_id": "PAT_0082",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-29\nPatient ID: PAT_0082\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 115/92, HR 92, \nTemp 100.4\u00b0F\nGeneral: Well-appearing\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0083",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-30\nPatient ID: PAT_0083\n\nADMISSION DIAGNOSIS: Hypertension\nDISCHARGE DIAGNOSIS: Hypertension with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of hypertension. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Lisinopril, Omeprazole\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-28"
+  },
+  {
+    "patient_id": "PAT_0083",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-01\nPatient ID: PAT_0083\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nPatient with hypertension presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 149/100, HR 93, \nTemp 100.1\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-20"
+  },
+  {
+    "patient_id": "PAT_0084",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-16\nPatient ID: PAT_0084\n\nADMISSION DIAGNOSIS: Hypertension\nDISCHARGE DIAGNOSIS: Hypertension with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of hypertension. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Sertraline\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-03-30"
+  },
+  {
+    "patient_id": "PAT_0084",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-08\nPatient ID: PAT_0084\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with hypertension presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 127/73, HR 76, \nTemp 98.3\u00b0F\nGeneral: Mild distress\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nAdjust Sertraline dosage. Lab work in 2 weeks.",
+    "date": "2025-05-02"
+  },
+  {
+    "patient_id": "PAT_0085",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-12\nPatient ID: PAT_0085\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 176/102, HR 83, \nTemp 98.8\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-04-29"
+  },
+  {
+    "patient_id": "PAT_0086",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-11\nPatient ID: PAT_0086\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 172/77, HR 70, \nTemp 98.3\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-12"
+  },
+  {
+    "patient_id": "PAT_0087",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-27\nPatient ID: PAT_0087\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 147/83, HR 89, \nTemp 100.2\u00b0F\nGeneral: Appears tired\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0088",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-19\nPatient ID: PAT_0088\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of heart failure with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 142/109, HR 96, \nTemp 99.3\u00b0F\nGeneral: Mild distress\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-09"
+  },
+  {
+    "patient_id": "PAT_0089",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-23\nPatient ID: PAT_0089\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 168/89, HR 78, \nTemp 100.0\u00b0F\nGeneral: Appears tired\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0090",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-22\nPatient ID: PAT_0090\n\nADMISSION DIAGNOSIS: Depression\nDISCHARGE DIAGNOSIS: Depression with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of depression. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Gabapentin, Albuterol, Hydroxychloroquine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-04"
+  },
+  {
+    "patient_id": "PAT_0090",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-09\nPatient ID: PAT_0090\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of depression with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 119/81, HR 90, \nTemp 100.4\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nAdjust Hydroxychloroquine dosage. Lab work in 2 weeks.",
+    "date": "2025-05-15"
+  },
+  {
+    "patient_id": "PAT_0091",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-13\nPatient ID: PAT_0091\n\nCHIEF COMPLAINT: Routine oncology visit\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 151/110, HR 64, \nTemp 100.3\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-05-09"
+  },
+  {
+    "patient_id": "PAT_0092",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-21\nPatient ID: PAT_0092\n\nADMISSION DIAGNOSIS: Breast Cancer\nDISCHARGE DIAGNOSIS: Breast Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of breast cancer. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Metformin, Omeprazole, Amlodipine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-05"
+  },
+  {
+    "patient_id": "PAT_0092",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-20\nPatient ID: PAT_0092\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced breast cancer with evidence of rapid disease progression noted on recent imaging. Patient experiencing increased pain and decreased functional status.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 165/98, HR 83, \nTemp 100.1\u00b0F\nGeneral: Alert and oriented\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-11"
+  },
+  {
+    "patient_id": "PAT_0093",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-25\nPatient ID: PAT_0093\n\nADMISSION DIAGNOSIS: Lung Cancer\nDISCHARGE DIAGNOSIS: Lung Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of lung cancer. \nRequired intensive monitoring due to rapid disease progression\n\nDISCHARGE MEDICATIONS: Lisinopril, Atorvastatin, Levothyroxine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-03"
+  },
+  {
+    "patient_id": "PAT_0093",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-02\nPatient ID: PAT_0093\n\nCHIEF COMPLAINT: New onset chest pain\n\nHISTORY OF PRESENT ILLNESS:\nPatient with lung cancer presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 167/109, HR 81, \nTemp 100.9\u00b0F\nGeneral: Appears tired\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-18"
+  },
+  {
+    "patient_id": "PAT_0094",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-24\nPatient ID: PAT_0094\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\nPatient with multiple sclerosis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 154/75, HR 83, \nTemp 100.2\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-27"
+  },
+  {
+    "patient_id": "PAT_0095",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-05-20\nPatient ID: PAT_0095\n\nADMISSION DIAGNOSIS: Rheumatoid Arthritis\nDISCHARGE DIAGNOSIS: Rheumatoid Arthritis with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of rheumatoid arthritis. \nResponded well to standard treatment protocol\n\nDISCHARGE MEDICATIONS: Atorvastatin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-17"
+  },
+  {
+    "patient_id": "PAT_0095",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-04-29\nPatient ID: PAT_0095\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of rheumatoid arthritis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 140/92, HR 81, \nTemp 99.0\u00b0F\nGeneral: Well-appearing\nNo acute distress noted\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-02"
+  },
+  {
+    "patient_id": "PAT_0096",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-05\nPatient ID: PAT_0096\n\nADMISSION DIAGNOSIS: Lung Cancer\nDISCHARGE DIAGNOSIS: Lung Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of lung cancer. \nDeveloped treatment-resistant symptoms requiring alternative approach\n\nDISCHARGE MEDICATIONS: Lisinopril, Insulin, Hydroxychloroquine\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-04-17"
+  },
+  {
+    "patient_id": "PAT_0096",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-12\nPatient ID: PAT_0096\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of lung cancer with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 122/85, HR 90, \nTemp 98.4\u00b0F\nGeneral: Alert and oriented\nEvidence of disease progression since last visit\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-05-06"
+  },
+  {
+    "patient_id": "PAT_0097",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-01\nPatient ID: PAT_0097\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nPatient with rheumatoid arthritis presenting for routine follow-up. Condition stable.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 171/72, HR 96, \nTemp 100.7\u00b0F\nGeneral: Well-appearing\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nPatient stable on current regimen. Monitor closely for disease progression.",
+    "date": "2025-04-29"
+  },
+  {
+    "patient_id": "PAT_0098",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-28\nPatient ID: PAT_0098\n\nCHIEF COMPLAINT: Follow-up for diabetes management\n\nHISTORY OF PRESENT ILLNESS:\nExacerbation of multiple sclerosis with worsening symptoms over past week.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 114/79, HR 97, \nTemp 98.1\u00b0F\nGeneral: Alert and oriented\nUnexplained muscle weakness noted during examination\n\nASSESSMENT AND PLAN:\nContinue current medications. Follow up in 3 months.",
+    "date": "2025-04-30"
+  },
+  {
+    "patient_id": "PAT_0099",
+    "note_type": "discharge_summary",
+    "note_text": "DISCHARGE SUMMARY\nDate: 2025-04-15\nPatient ID: PAT_0099\n\nADMISSION DIAGNOSIS: Prostate Cancer\nDISCHARGE DIAGNOSIS: Prostate Cancer with complications\n\nHOSPITAL COURSE:\nPatient admitted with exacerbation of prostate cancer. \nStable condition maintained throughout admission\n\nDISCHARGE MEDICATIONS: Atorvastatin, Metformin\n\nFOLLOW-UP: Scheduled in 2 weeks for continued monitoring.",
+    "date": "2025-05-09"
+  },
+  {
+    "patient_id": "PAT_0099",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-04\nPatient ID: PAT_0099\n\nCHIEF COMPLAINT: Worsening fatigue and weakness\n\nHISTORY OF PRESENT ILLNESS:\nAdvanced metastatic prostate cancer. PSA trending upward despite androgen deprivation therapy. No prior treatment with androgen receptor signaling inhibitors.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 138/77, HR 72, \nTemp 100.5\u00b0F\nGeneral: Appears tired\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-07"
+  },
+  {
+    "patient_id": "PAT_0100",
+    "note_type": "progress_note",
+    "note_text": "PROGRESS NOTE\nDate: 2025-05-16\nPatient ID: PAT_0100\n\nCHIEF COMPLAINT: Medication adjustment needed\n\nHISTORY OF PRESENT ILLNESS:\n45-year-old male with history of Type 2 DM presenting for routine follow-up. Reports good compliance with Metformin. Recent HbA1c 7.6%. No episodes of hypoglycemia.\n\nPHYSICAL EXAMINATION:\nVital Signs: BP 144/104, HR 77, \nTemp 100.4\u00b0F\nGeneral: Alert and oriented\nPatient reports persistent fatigue over past 6 months\n\nASSESSMENT AND PLAN:\nConsider enrollment in clinical trial given current disease status.",
+    "date": "2025-05-28"
+  }
+]

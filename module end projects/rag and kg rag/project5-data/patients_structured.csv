@@ -1,0 +1,101 @@
+patient_id,age,gender,primary_diagnosis,icd_code,diagnosis_date,current_medications,lab_results,family_history,smoking_status,created_date
+PAT_0001,32,Male,Parkinson's Disease,G20,2023-04-17,Lisinopril,"{'Creatinine': 1.0, 'Hemoglobin': 14.8}",None,Current,2024-05-12
+PAT_0002,57,Female,Hypertension,I10,2023-08-08,Furosemide,"{'Creatinine': 2.3, 'Hemoglobin': 8.2}",Diabetes,Former,2024-06-24
+PAT_0003,40,Female,Heart Failure,I50.9,2021-11-24,Amlodipine; Albuterol,"{'Creatinine': 1.1, 'Hemoglobin': 11.2}",Cancer,Current,2023-06-01
+PAT_0004,74,Female,Multiple Sclerosis,G35,2020-07-19,Lisinopril; Omeprazole; Insulin,"{'Creatinine': 2.3, 'Hemoglobin': 15.1}",Cancer,Current,2024-12-09
+PAT_0005,69,Male,Breast Cancer,C50.9,2024-04-06,Gabapentin; Prednisone,"{'Creatinine': 1.9, 'Hemoglobin': 11.8}",Cancer,Current,2024-02-11
+PAT_0006,19,Male,Prostate Cancer,C61,2024-03-08,Gabapentin; Warfarin; Atorvastatin,"{'Creatinine': 2.1, 'Hemoglobin': 12.1}",Cancer,Never,2023-12-12
+PAT_0007,19,Male,Depression,F32.9,2022-06-10,Atorvastatin; Levothyroxine; Furosemide; Metformin; Gabapentin,"{'Creatinine': 1.5, 'Hemoglobin': 15.2}",Heart Disease,Former,2024-05-13
+PAT_0008,19,Male,Multiple Sclerosis,G35,2023-08-22,Insulin; Hydroxychloroquine,"{'Creatinine': 0.9, 'Hemoglobin': 14.4}",None,Former,2024-06-03
+PAT_0009,77,Male,Lung Cancer,C78.00,2024-11-23,Gabapentin; Levothyroxine; Amlodipine; Omeprazole,"{'Creatinine': 2.4, 'Hemoglobin': 14.7}",Cancer,Former,2024-01-13
+PAT_0010,25,Female,Type 2 Diabetes,E11.9,2020-11-23,Atorvastatin; Levothyroxine; Gabapentin; Sertraline,"{'HbA1c': 11.7, 'Glucose': 83, 'Creatinine': 1.4, 'Hemoglobin': 9.3}",Cancer,Former,2024-04-26
+PAT_0011,60,Male,Parkinson's Disease,G20,2020-06-17,Tramadol; Omeprazole; Atorvastatin,"{'Creatinine': 2.4, 'Hemoglobin': 14.3}",None,Former,2023-09-15
+PAT_0012,50,Female,Parkinson's Disease,G20,2023-10-03,Lisinopril; Furosemide; Albuterol; Warfarin; Prednisone,"{'Creatinine': 0.8, 'Hemoglobin': 8.5}",Cancer,Current,2023-10-23
+PAT_0013,79,Female,Alzheimer's Disease,G30.9,2022-01-05,Levothyroxine; Prednisone; Omeprazole,"{'Creatinine': 2.0, 'Hemoglobin': 11.0}",Diabetes,Current,2024-03-12
+PAT_0014,23,Male,Rheumatoid Arthritis,M06.9,2023-12-07,Furosemide; Gabapentin; Atorvastatin; Tramadol; Albuterol,"{'Creatinine': 2.0, 'Hemoglobin': 12.5}",Diabetes,Current,2024-10-09
+PAT_0015,76,Female,Lung Cancer,C78.00,2024-11-21,Lisinopril; Tramadol; Albuterol; Prednisone,"{'Creatinine': 2.2, 'Hemoglobin': 15.8}",Heart Disease,Never,2023-11-28
+PAT_0016,67,Female,Parkinson's Disease,G20,2020-07-28,Atorvastatin,"{'Creatinine': 1.6, 'Hemoglobin': 15.8}",None,Former,2025-04-26
+PAT_0017,55,Male,Alzheimer's Disease,G30.9,2023-10-10,Sertraline; Lisinopril; Atorvastatin; Furosemide,"{'Creatinine': 2.0, 'Hemoglobin': 11.7}",Cancer,Former,2023-09-30
+PAT_0018,77,Female,Chronic Kidney Disease,N18.9,2021-01-14,Lisinopril; Albuterol; Hydroxychloroquine; Prednisone,"{'Creatinine': 2.0, 'Hemoglobin': 10.2}",None,Current,2023-09-16
+PAT_0019,69,Male,Type 2 Diabetes,E11.9,2023-07-16,Levothyroxine,"{'HbA1c': 7.6, 'Glucose': 246, 'Creatinine': 1.6, 'Hemoglobin': 11.3}",Heart Disease,Current,2023-07-22
+PAT_0020,55,Female,Prostate Cancer,C61,2021-04-05,Omeprazole,"{'Creatinine': 1.2, 'Hemoglobin': 11.8}",None,Current,2023-11-12
+PAT_0021,79,Female,Rheumatoid Arthritis,M06.9,2021-10-20,Omeprazole; Prednisone; Insulin,"{'Creatinine': 1.6, 'Hemoglobin': 9.1}",Heart Disease,Former,2023-11-21
+PAT_0022,19,Male,Rheumatoid Arthritis,M06.9,2024-02-09,Gabapentin; Tramadol; Insulin,"{'Creatinine': 1.3, 'Hemoglobin': 9.9}",None,Former,2023-10-21
+PAT_0023,51,Female,Heart Failure,I50.9,2021-01-20,Prednisone; Hydroxychloroquine,"{'Creatinine': 1.2, 'Hemoglobin': 11.8}",Heart Disease,Former,2024-05-17
+PAT_0024,37,Male,Rheumatoid Arthritis,M06.9,2022-03-15,Hydroxychloroquine; Gabapentin; Levothyroxine; Tramadol,"{'Creatinine': 1.4, 'Hemoglobin': 14.7}",Heart Disease,Never,2024-07-02
+PAT_0025,85,Male,Type 2 Diabetes,E11.9,2022-12-09,Sertraline; Tramadol; Omeprazole; Metformin; Warfarin,"{'HbA1c': 9.4, 'Glucose': 262, 'Creatinine': 1.5, 'Hemoglobin': 14.0}",Heart Disease,Former,2024-01-04
+PAT_0026,21,Female,Alzheimer's Disease,G30.9,2024-09-18,Furosemide; Insulin; Amlodipine; Warfarin; Hydroxychloroquine,"{'Creatinine': 2.4, 'Hemoglobin': 14.4}",None,Former,2023-11-10
+PAT_0027,59,Female,Multiple Sclerosis,G35,2023-06-28,Prednisone,"{'Creatinine': 1.9, 'Hemoglobin': 10.9}",Diabetes,Never,2025-02-27
+PAT_0028,39,Female,Rheumatoid Arthritis,M06.9,2024-12-05,Furosemide; Gabapentin; Lisinopril; Insulin,"{'Creatinine': 1.7, 'Hemoglobin': 11.0}",Cancer,Former,2023-09-06
+PAT_0029,67,Female,Lung Cancer,C78.00,2024-09-27,Warfarin,"{'Creatinine': 1.5, 'Hemoglobin': 8.9}",Heart Disease,Never,2024-11-09
+PAT_0030,35,Female,Lung Cancer,C78.00,2020-07-08,Tramadol; Insulin; Prednisone,"{'Creatinine': 2.2, 'Hemoglobin': 13.7}",Cancer,Former,2025-01-01
+PAT_0031,25,Female,Rheumatoid Arthritis,M06.9,2023-12-11,Omeprazole,"{'Creatinine': 1.1, 'Hemoglobin': 9.0}",Diabetes,Former,2024-11-27
+PAT_0032,24,Female,Chronic Kidney Disease,N18.9,2022-03-19,Levothyroxine; Amlodipine; Insulin,"{'Creatinine': 0.9, 'Hemoglobin': 9.0}",Heart Disease,Former,2025-03-11
+PAT_0033,61,Male,Lung Cancer,C78.00,2025-02-17,Furosemide; Hydroxychloroquine,"{'Creatinine': 2.4, 'Hemoglobin': 11.4}",Heart Disease,Former,2025-02-06
+PAT_0034,58,Female,Rheumatoid Arthritis,M06.9,2024-03-16,Omeprazole; Tramadol,"{'Creatinine': 1.6, 'Hemoglobin': 11.1}",Heart Disease,Current,2023-06-05
+PAT_0035,62,Male,Parkinson's Disease,G20,2024-02-22,Metformin; Levothyroxine,"{'Creatinine': 2.3, 'Hemoglobin': 13.6}",Cancer,Never,2025-03-11
+PAT_0036,72,Female,Heart Failure,I50.9,2022-09-30,Furosemide; Prednisone; Atorvastatin; Albuterol; Levothyroxine,"{'Creatinine': 2.2, 'Hemoglobin': 8.6}",Heart Disease,Never,2025-02-16
+PAT_0037,23,Female,Alzheimer's Disease,G30.9,2021-07-14,Albuterol; Omeprazole; Levothyroxine,"{'Creatinine': 1.5, 'Hemoglobin': 8.2}",Diabetes,Never,2024-08-03
+PAT_0038,70,Male,Parkinson's Disease,G20,2022-09-14,Lisinopril; Albuterol; Prednisone,"{'Creatinine': 2.5, 'Hemoglobin': 12.2}",Heart Disease,Never,2025-02-26
+PAT_0039,79,Female,Type 2 Diabetes,E11.9,2023-05-25,Amlodipine; Hydroxychloroquine; Albuterol; Lisinopril,"{'HbA1c': 6.1, 'Glucose': 240, 'Creatinine': 1.3, 'Hemoglobin': 9.6}",Cancer,Former,2024-06-25
+PAT_0040,21,Male,Breast Cancer,C50.9,2021-04-13,Prednisone,"{'Creatinine': 0.9, 'Hemoglobin': 15.3}",Diabetes,Never,2023-06-26
+PAT_0041,78,Female,Hypertension,I10,2022-03-08,Metformin; Furosemide; Warfarin; Lisinopril,"{'Creatinine': 2.1, 'Hemoglobin': 10.2}",Diabetes,Former,2023-09-14
+PAT_0042,59,Female,Lung Cancer,C78.00,2022-05-28,Metformin; Gabapentin,"{'Creatinine': 1.1, 'Hemoglobin': 11.2}",Heart Disease,Former,2024-03-11
+PAT_0043,21,Male,Breast Cancer,C50.9,2023-06-14,Gabapentin; Albuterol; Amlodipine; Prednisone,"{'Creatinine': 0.6, 'Hemoglobin': 15.5}",Cancer,Former,2023-08-23
+PAT_0044,33,Female,Heart Failure,I50.9,2024-12-06,Atorvastatin; Sertraline; Furosemide; Insulin; Albuterol,"{'Creatinine': 0.9, 'Hemoglobin': 12.9}",None,Never,2024-11-10
+PAT_0045,65,Male,Breast Cancer,C50.9,2024-06-28,Prednisone; Insulin; Lisinopril,"{'Creatinine': 2.4, 'Hemoglobin': 8.1}",None,Current,2024-09-19
+PAT_0046,60,Female,Lung Cancer,C78.00,2025-01-26,Furosemide; Insulin; Levothyroxine; Amlodipine,"{'Creatinine': 2.3, 'Hemoglobin': 15.4}",Cancer,Current,2025-05-25
+PAT_0047,60,Male,Depression,F32.9,2021-02-09,Albuterol; Sertraline,"{'Creatinine': 0.6, 'Hemoglobin': 9.0}",Cancer,Former,2025-01-10
+PAT_0048,69,Female,Alzheimer's Disease,G30.9,2024-06-07,Amlodipine; Gabapentin; Lisinopril; Levothyroxine,"{'Creatinine': 1.5, 'Hemoglobin': 14.2}",Cancer,Current,2023-10-01
+PAT_0049,69,Female,Alzheimer's Disease,G30.9,2023-02-28,Prednisone,"{'Creatinine': 0.7, 'Hemoglobin': 15.0}",None,Former,2023-06-18
+PAT_0050,37,Female,Depression,F32.9,2021-07-14,Omeprazole; Gabapentin; Warfarin; Lisinopril,"{'Creatinine': 2.2, 'Hemoglobin': 8.1}",None,Never,2023-06-07
+PAT_0051,23,Female,Alzheimer's Disease,G30.9,2021-09-19,Metformin; Gabapentin,"{'Creatinine': 1.4, 'Hemoglobin': 9.9}",None,Never,2023-10-18
+PAT_0052,46,Female,Prostate Cancer,C61,2021-10-08,Amlodipine; Omeprazole; Hydroxychloroquine,"{'Creatinine': 0.6, 'Hemoglobin': 14.9}",Diabetes,Current,2023-08-15
+PAT_0053,62,Female,Depression,F32.9,2024-09-29,Furosemide; Atorvastatin; Levothyroxine,"{'Creatinine': 1.8, 'Hemoglobin': 11.5}",Diabetes,Never,2024-02-29
+PAT_0054,80,Female,Type 2 Diabetes,E11.9,2025-03-19,Furosemide; Warfarin; Metformin,"{'HbA1c': 9.7, 'Glucose': 266, 'Creatinine': 2.4, 'Hemoglobin': 14.9}",None,Former,2025-04-29
+PAT_0055,79,Female,Chronic Kidney Disease,N18.9,2025-03-22,Gabapentin; Furosemide; Metformin; Insulin,"{'Creatinine': 1.2, 'Hemoglobin': 9.3}",Heart Disease,Former,2025-01-10
+PAT_0056,85,Male,Chronic Kidney Disease,N18.9,2024-10-02,Amlodipine,"{'Creatinine': 1.5, 'Hemoglobin': 14.1}",Heart Disease,Former,2024-12-22
+PAT_0057,24,Female,Alzheimer's Disease,G30.9,2024-11-16,Levothyroxine; Tramadol; Furosemide; Warfarin,"{'Creatinine': 1.9, 'Hemoglobin': 11.8}",Cancer,Former,2024-03-30
+PAT_0058,70,Female,Multiple Sclerosis,G35,2022-05-21,Atorvastatin,"{'Creatinine': 1.1, 'Hemoglobin': 11.7}",Cancer,Never,2024-06-11
+PAT_0059,77,Male,Rheumatoid Arthritis,M06.9,2024-02-01,Gabapentin; Furosemide; Lisinopril,"{'Creatinine': 2.4, 'Hemoglobin': 15.9}",Diabetes,Never,2025-05-08
+PAT_0060,66,Female,Type 2 Diabetes,E11.9,2022-08-03,Furosemide; Prednisone,"{'HbA1c': 8.9, 'Glucose': 149, 'Creatinine': 2.1, 'Hemoglobin': 14.3}",Heart Disease,Never,2023-12-30
+PAT_0061,65,Male,Breast Cancer,C50.9,2024-04-13,Levothyroxine; Hydroxychloroquine; Lisinopril; Insulin; Prednisone,"{'Creatinine': 1.2, 'Hemoglobin': 13.7}",Cancer,Former,2024-02-03
+PAT_0062,80,Male,Rheumatoid Arthritis,M06.9,2023-01-30,Amlodipine; Lisinopril; Albuterol; Insulin,"{'Creatinine': 1.6, 'Hemoglobin': 11.6}",Cancer,Current,2023-10-22
+PAT_0063,19,Male,Prostate Cancer,C61,2024-10-03,Omeprazole; Furosemide; Insulin,"{'Creatinine': 1.0, 'Hemoglobin': 11.4}",Heart Disease,Former,2023-10-19
+PAT_0064,20,Male,Breast Cancer,C50.9,2022-07-06,Insulin; Omeprazole; Albuterol; Tramadol; Metformin,"{'Creatinine': 1.2, 'Hemoglobin': 13.1}",Diabetes,Never,2024-09-12
+PAT_0065,53,Female,Type 2 Diabetes,E11.9,2025-02-11,Sertraline; Prednisone; Levothyroxine; Furosemide,"{'HbA1c': 6.1, 'Glucose': 243, 'Creatinine': 0.7, 'Hemoglobin': 15.8}",Diabetes,Never,2024-02-24
+PAT_0066,30,Female,Type 2 Diabetes,E11.9,2021-08-17,Metformin; Furosemide; Omeprazole; Atorvastatin; Albuterol,"{'HbA1c': 9.1, 'Glucose': 192, 'Creatinine': 2.0, 'Hemoglobin': 15.5}",Cancer,Never,2023-05-29
+PAT_0067,41,Male,Parkinson's Disease,G20,2024-01-09,Sertraline; Prednisone; Atorvastatin,"{'Creatinine': 2.2, 'Hemoglobin': 13.1}",Cancer,Never,2023-11-09
+PAT_0068,84,Male,Breast Cancer,C50.9,2022-06-24,Tramadol; Sertraline; Warfarin; Amlodipine,"{'Creatinine': 1.3, 'Hemoglobin': 8.5}",Cancer,Current,2025-03-30
+PAT_0069,69,Female,Breast Cancer,C50.9,2021-11-23,Omeprazole; Lisinopril; Levothyroxine; Hydroxychloroquine,"{'Creatinine': 2.0, 'Hemoglobin': 13.1}",None,Never,2024-02-05
+PAT_0070,32,Male,Rheumatoid Arthritis,M06.9,2024-10-20,Atorvastatin; Lisinopril; Levothyroxine,"{'Creatinine': 0.6, 'Hemoglobin': 12.2}",Heart Disease,Former,2024-06-19
+PAT_0071,50,Female,Hypertension,I10,2022-11-25,Hydroxychloroquine; Albuterol; Amlodipine; Tramadol; Metformin,"{'Creatinine': 1.6, 'Hemoglobin': 11.7}",Heart Disease,Never,2024-02-06
+PAT_0072,30,Male,Lung Cancer,C78.00,2024-02-11,Omeprazole; Gabapentin; Tramadol; Lisinopril; Amlodipine,"{'Creatinine': 2.4, 'Hemoglobin': 8.8}",Diabetes,Former,2024-03-05
+PAT_0073,36,Female,Prostate Cancer,C61,2024-02-26,Gabapentin,"{'Creatinine': 2.4, 'Hemoglobin': 13.8}",Heart Disease,Never,2023-09-16
+PAT_0074,84,Male,Alzheimer's Disease,G30.9,2022-01-30,Albuterol; Metformin,"{'Creatinine': 2.3, 'Hemoglobin': 15.9}",Cancer,Former,2024-04-07
+PAT_0075,51,Male,Multiple Sclerosis,G35,2025-05-17,Albuterol,"{'Creatinine': 2.2, 'Hemoglobin': 8.8}",Cancer,Current,2024-11-05
+PAT_0076,48,Male,Chronic Kidney Disease,N18.9,2024-03-31,Omeprazole; Warfarin,"{'Creatinine': 1.3, 'Hemoglobin': 12.0}",Diabetes,Former,2025-03-30
+PAT_0077,32,Female,Heart Failure,I50.9,2022-10-18,Furosemide; Sertraline; Albuterol,"{'Creatinine': 1.2, 'Hemoglobin': 9.2}",Cancer,Current,2023-07-04
+PAT_0078,28,Female,Parkinson's Disease,G20,2024-01-17,Hydroxychloroquine; Tramadol; Levothyroxine,"{'Creatinine': 1.1, 'Hemoglobin': 10.9}",Heart Disease,Never,2024-10-01
+PAT_0079,44,Male,Type 2 Diabetes,E11.9,2021-04-11,Hydroxychloroquine; Levothyroxine; Sertraline; Tramadol; Gabapentin,"{'HbA1c': 11.0, 'Glucose': 189, 'Creatinine': 2.2, 'Hemoglobin': 8.7}",None,Never,2024-07-05
+PAT_0080,23,Female,Hypertension,I10,2024-01-15,Metformin,"{'Creatinine': 1.2, 'Hemoglobin': 8.8}",Diabetes,Never,2025-04-19
+PAT_0081,67,Male,Alzheimer's Disease,G30.9,2022-09-25,Lisinopril; Furosemide; Tramadol; Sertraline,"{'Creatinine': 0.9, 'Hemoglobin': 14.2}",Cancer,Former,2024-11-01
+PAT_0082,54,Male,Lung Cancer,C78.00,2023-04-01,Sertraline; Hydroxychloroquine; Metformin; Insulin; Amlodipine,"{'Creatinine': 1.5, 'Hemoglobin': 12.5}",Cancer,Current,2023-11-06
+PAT_0083,69,Male,Hypertension,I10,2022-09-10,Lisinopril; Omeprazole,"{'Creatinine': 2.3, 'Hemoglobin': 11.2}",Cancer,Never,2024-04-05
+PAT_0084,50,Male,Hypertension,I10,2021-11-11,Sertraline,"{'Creatinine': 2.3, 'Hemoglobin': 8.1}",None,Current,2024-01-09
+PAT_0085,40,Female,Prostate Cancer,C61,2021-04-14,Tramadol; Atorvastatin,"{'Creatinine': 0.6, 'Hemoglobin': 12.0}",None,Current,2024-06-23
+PAT_0086,68,Male,Multiple Sclerosis,G35,2022-12-05,Warfarin; Amlodipine; Albuterol; Levothyroxine; Sertraline,"{'Creatinine': 1.7, 'Hemoglobin': 12.5}",None,Current,2024-10-20
+PAT_0087,73,Female,Rheumatoid Arthritis,M06.9,2022-11-05,Sertraline,"{'Creatinine': 1.9, 'Hemoglobin': 16.0}",None,Current,2025-04-22
+PAT_0088,61,Male,Heart Failure,I50.9,2020-05-28,Tramadol,"{'Creatinine': 1.0, 'Hemoglobin': 8.5}",Heart Disease,Never,2024-09-17
+PAT_0089,80,Male,Lung Cancer,C78.00,2025-01-03,Sertraline; Amlodipine; Atorvastatin; Gabapentin; Hydroxychloroquine,"{'Creatinine': 0.7, 'Hemoglobin': 13.2}",Heart Disease,Former,2024-01-29
+PAT_0090,61,Male,Depression,F32.9,2025-05-23,Gabapentin; Albuterol; Hydroxychloroquine; Omeprazole,"{'Creatinine': 1.8, 'Hemoglobin': 13.6}",Heart Disease,Never,2024-04-26
+PAT_0091,30,Female,Rheumatoid Arthritis,M06.9,2022-07-15,Insulin; Tramadol; Albuterol; Warfarin,"{'Creatinine': 1.1, 'Hemoglobin': 15.4}",Cancer,Never,2024-08-21
+PAT_0092,21,Female,Breast Cancer,C50.9,2021-02-03,Metformin; Omeprazole; Amlodipine; Hydroxychloroquine; Furosemide,"{'Creatinine': 0.8, 'Hemoglobin': 11.9}",None,Current,2024-09-01
+PAT_0093,52,Female,Lung Cancer,C78.00,2021-07-04,Lisinopril; Atorvastatin; Levothyroxine; Gabapentin,"{'Creatinine': 2.4, 'Hemoglobin': 11.9}",Heart Disease,Never,2023-11-19
+PAT_0094,52,Female,Multiple Sclerosis,G35,2024-09-29,Insulin; Levothyroxine; Gabapentin,"{'Creatinine': 2.1, 'Hemoglobin': 9.5}",Cancer,Never,2023-10-15
+PAT_0095,85,Female,Rheumatoid Arthritis,M06.9,2024-04-15,Atorvastatin,"{'Creatinine': 1.5, 'Hemoglobin': 8.4}",Heart Disease,Former,2024-12-25
+PAT_0096,64,Male,Lung Cancer,C78.00,2021-06-23,Lisinopril; Insulin; Hydroxychloroquine; Levothyroxine,"{'Creatinine': 1.1, 'Hemoglobin': 14.4}",Cancer,Current,2024-05-03
+PAT_0097,56,Male,Rheumatoid Arthritis,M06.9,2021-11-08,Albuterol; Hydroxychloroquine; Gabapentin; Amlodipine,"{'Creatinine': 2.2, 'Hemoglobin': 9.7}",Diabetes,Current,2023-09-14
+PAT_0098,22,Female,Multiple Sclerosis,G35,2022-02-12,Furosemide; Atorvastatin; Gabapentin,"{'Creatinine': 0.7, 'Hemoglobin': 13.9}",None,Current,2024-01-22
+PAT_0099,82,Male,Prostate Cancer,C61,2021-07-17,Atorvastatin; Metformin,"{'Creatinine': 2.2, 'Hemoglobin': 11.9}",None,Never,2023-06-30
+PAT_0100,45,Male,Type 2 Diabetes,E11.9,2025-01-02,Lisinopril; Gabapentin; Furosemide; Levothyroxine,"{'HbA1c': 7.6, 'Glucose': 202, 'Creatinine': 2.5, 'Hemoglobin': 8.9}",Diabetes,Former,2025-04-10

@@ -1,0 +1,45 @@
+CLINICAL TRIAL PROTOCOL
+Trial ID: NCT16146624
+Title: A Phase II Study of We in Hypertension
+Phase: Phase III
+Sponsor: Bristol Myers Squibb
+
+1. STUDY OBJECTIVES
+Primary Objective: To evaluate the efficacy and safety of the investigational treatment in patients with hypertension.
+
+Secondary Objectives:
+- Assess progression-free survival
+- Evaluate quality of life measures
+- Determine optimal dosing regimen
+
+2. INCLUSION CRITERIA
+- Age 18-85 years
+- Confirmed diagnosis of Hypertension
+- Adequate organ function
+- Able to provide informed consent
+
+3. EXCLUSION CRITERIA
+- Severe renal impairment (creatinine >2.5 mg/dL)
+- Pregnant or nursing women
+- Significant cardiovascular disease
+- History of drug or alcohol abuse within past year
+- Uncontrolled hypertension (systolic BP >180 mmHg or diastolic BP >110 mmHg)
+
+4. STUDY DESIGN
+This is a Phase III open-label study designed to enroll 113 patients over 15 months.
+
+5. INVESTIGATIONAL PRODUCT
+Targeted-Therapy-456 is a novel small molecule inhibitor targeting specific pathways involved in hypertension.
+
+6. SAFETY CONSIDERATIONS
+Patients will be monitored closely for adverse events. Specific attention will be paid to:
+- Hematologic toxicities
+- Hepatic function abnormalities  
+- Cardiovascular events
+- Gastrointestinal toxicity
+
+7. STATISTICAL ANALYSIS PLAN
+Primary endpoint will be analyzed using Cox proportional hazards methodology.
+
+8. ADVERSE EVENT REPORTING
+All serious adverse events must be reported within 24 hours to the sponsor and regulatory authorities.

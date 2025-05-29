@@ -1,0 +1,151 @@
+supplier_id,name,country,city,tier,certifications,capacity_rating,lead_time_days,quality_score,financial_stability,specialty_materials,established_year,employee_count,annual_revenue_usd
+SUP_E4E4BACA,"Rodriguez, Figueroa and Sanchez Ltd",Indonesia,Lake Curtis,Tier 1,"['CE Mark', 'FDA 510k', 'ISO 13485']",3,20,9.03,High Risk,['Circuit Boards'],2007,310,16997261
+SUP_A2072CAB,"Mcclain, Miller and Henderson Inc",China,North Jefferyhaven,Tier 1,"['GMP', 'ISO 13485', 'CE Mark']",4,90,9.1,Moderate Risk,"['Copper Wire', 'Circuit Boards']",1997,103,408381601
+SUP_069B11C8,"Johnson, Gonzalez and Santos GmbH",Thailand,Robinsonshire,Tier 2,"['FDA 510k', 'GMP']",6,20,7.28,Stable,"['Pharmaceutical Excipients', 'Optical Fibers', 'Polypropylene']",1982,3813,288885264
+SUP_9F1258E1,Pacheco-Smith GmbH,India,Lake Roberto,Tier 1,"['CE Mark', 'GMP', 'ISO 9001']",4,15,7.14,Stable,"['Stainless Steel 316L', 'Polyethylene', 'Polycarbonate Resin']",2004,2327,244422802
+SUP_0FB475E2,Moore-Bernard Corp,Indonesia,Curtisfurt,Tier 1,"['CE Mark', 'FDA 510k']",5,89,7.21,High Risk,"['Lithium Batteries', 'Polyethylene']",1990,3836,204718590
+SUP_201D269B,Howard LLC Pte Ltd,South Korea,Lindsaymouth,Tier 1,"['CE Mark', 'ISO 13485', 'ISO 9001']",1,47,8.2,Stable,"['Circuit Boards', 'Glass Vials']",1993,4139,213403258
+SUP_16A00B3F,"Martinez, Nielsen and Miller GmbH",Indonesia,Mariastad,Tier 1,"['FDA 510k', 'GMP']",9,75,7.79,High Risk,"['Circuit Boards', 'Active Pharmaceutical Ingredients', 'Pharmaceutical Excipients', 'Polyethylene']",1988,4224,265954299
+SUP_A9750AD4,"Lee, Jones and Stanley Ltd",China,Traciebury,Tier 1,['FDA 510k'],7,83,7.19,Moderate Risk,"['Copper Wire', 'Rare Earth Magnets', 'Polypropylene', 'Lithium Batteries', 'Medical Grade Silicone']",1987,4448,404124450
+SUP_A4111104,James Group Corp,South Korea,Franciscostad,Tier 1,"['ISO 9001', 'FDA 510k']",8,7,9.86,High Risk,"['Rare Earth Magnets', 'Latex', 'Ceramic Components']",1986,2494,452867790
+SUP_C70FC12B,Santiago Ltd Pte Ltd,Indonesia,New Cynthiaside,Tier 3,['FDA 510k'],6,27,8.62,High Risk,['Optical Fibers'],2000,4052,11456496
+SUP_F52DC88C,"Sanchez, Ford and Nelson Corp",India,Lake Mark,Tier 2,['ISO 13485'],4,79,9.84,Stable,"['Stainless Steel 316L', 'Lithium Batteries', 'PEEK Polymer', 'Circuit Boards']",2010,4553,89651861
+SUP_CE661A23,Perez Inc Pte Ltd,South Korea,Richardland,Tier 3,"['FDA 510k', 'GMP']",5,58,9.99,High Risk,"['Copper Wire', 'Rare Earth Magnets', 'Ceramic Components']",1987,2080,121633465
+SUP_3BC6A237,Gentry PLC Corp,China,Jasonfort,Tier 1,"['GMP', 'FDA 510k', 'CE Mark']",4,7,7.21,High Risk,['Polyethylene'],1984,307,462513240
+SUP_3119B27A,Wilkerson-Day Ltd,Italy,West Donald,Tier 3,['CE Mark'],8,34,8.62,High Risk,"['Circuit Boards', 'Aluminum', 'Polyethylene', 'Optical Fibers', 'Electronic Components']",1992,822,53039333
+SUP_B2155349,"Hoffman, Baker and Richards GmbH",Philippines,Coxberg,Tier 2,"['ISO 9001', 'GMP']",1,90,9.95,Stable,['Active Pharmaceutical Ingredients'],2001,945,134496352
+SUP_7A4A8970,"Snyder, Campos and Callahan Inc",Malaysia,Lake Ernest,Tier 3,"['FDA 510k', 'ISO 9001']",3,42,8.39,Stable,"['Lithium Batteries', 'Polycarbonate Resin', 'Titanium Alloy', 'Ceramic Components']",1980,814,498339485
+SUP_2C96BB29,"Henderson, Brown and James Inc",Singapore,Riceside,Tier 2,"['ISO 9001', 'FDA 510k']",7,14,7.49,Stable,"['Polypropylene', 'Copper Wire', 'PVC Medical Grade', 'Electronic Components']",2015,4036,84105914
+SUP_2C8AE7C7,Frazier Inc Corp,Malaysia,Kaylamouth,Tier 1,['GMP'],9,14,9.24,Stable,['Circuit Boards'],2010,4169,494592204
+SUP_8A15959C,Carter and Sons Inc,United Kingdom,Smithview,Tier 1,"['ISO 13485', 'FDA 510k', 'GMP']",10,15,9.03,Stable,"['Polycarbonate Resin', 'Circuit Boards', 'Polyethylene', 'Titanium Alloy']",2019,721,226069660
+SUP_567BCF95,"Gill, Romero and Rodriguez Pte Ltd",Philippines,Meaganhaven,Tier 3,"['CE Mark', 'GMP', 'ISO 13485']",6,37,7.8,Stable,"['Copper Wire', 'Glass Vials', 'Stainless Steel 316L']",1980,3804,334482333
+SUP_074485BD,"Gonzalez, Brooks and Martin Ltd",Mexico,New Mariotown,Tier 1,"['FDA 510k', 'CE Mark', 'ISO 13485']",6,15,9.64,Moderate Risk,"['Latex', 'Copper Wire', 'Lithium Batteries']",1999,4383,5199998
+SUP_E0D62C3E,Hickman LLC Pte Ltd,Philippines,North John,Tier 2,"['ISO 13485', 'FDA 510k', 'ISO 9001']",2,20,9.23,Stable,"['PVC Medical Grade', 'Optical Fibers', 'Nitrile Rubber']",2001,1717,370097210
+SUP_12A0455F,"Arroyo, Miller and Tucker Corp",Indonesia,Port Amandaberg,Tier 3,"['CE Mark', 'ISO 13485']",2,88,8.27,Moderate Risk,['Medical Grade Silicone'],2001,1121,343047638
+SUP_BBED433B,Keller PLC Inc,South Korea,West Allison,Tier 3,"['GMP', 'ISO 9001']",9,8,7.34,High Risk,"['Lithium Batteries', 'Titanium Alloy']",2003,4821,297634652
+SUP_A094E9E5,"Henderson, Lewis and Ryan GmbH",Vietnam,Lake Larry,Tier 1,['CE Mark'],6,12,9.7,Stable,"['Polycarbonate Resin', 'Pharmaceutical Excipients']",2015,3379,334215109
+SUP_A9FB1ABD,"Santos, Kim and Holmes Inc",Israel,East Jeffreymouth,Tier 1,['FDA 510k'],7,10,7.54,Moderate Risk,"['Polyethylene', 'Polypropylene', 'Latex', 'Polycarbonate Resin']",2004,367,461953742
+SUP_8B899F45,Chapman and Sons Inc,France,North Chad,Tier 1,"['CE Mark', 'GMP']",4,35,7.07,Stable,"['Glass Vials', 'Polypropylene', 'Stainless Steel 316L', 'Optical Fibers']",2002,4223,215575699
+SUP_9A10949D,"Brown, Jones and Johnson Pte Ltd",Philippines,Chadbury,Tier 2,['ISO 13485'],5,29,8.74,Moderate Risk,['Polycarbonate Resin'],2018,3609,186589352
+SUP_3F412FB6,Caldwell-Lewis Corp,Israel,Lake Selena,Tier 2,"['GMP', 'ISO 13485', 'FDA 510k']",10,31,7.76,High Risk,"['Medical Grade Silicone', 'Rare Earth Magnets', 'Lithium Batteries', 'Nitrile Rubber']",2003,3583,38566901
+SUP_221758A2,"Johnston, Sanchez and Kennedy Corp",Philippines,Leeville,Tier 3,"['ISO 13485', 'CE Mark']",9,46,9.0,Moderate Risk,"['PVC Medical Grade', 'Lithium Batteries', 'PEEK Polymer', 'Nitrile Rubber']",2006,3155,364632301
+SUP_9500080F,"Jordan, Henderson and Owens Inc",Israel,Lake Deniseville,Tier 3,"['CE Mark', 'ISO 9001', 'GMP']",1,45,7.86,Moderate Risk,"['Optical Fibers', 'Glass Vials', 'Copper Wire', 'Circuit Boards', 'Lithium Batteries']",1993,4237,255039896
+SUP_92620380,Powell LLC Inc,Israel,East Jamesside,Tier 3,['CE Mark'],9,88,8.86,Stable,"['PVC Medical Grade', 'Polyethylene']",1992,1257,14113281
+SUP_FF1465DF,Taylor-White Inc,Germany,Wrightland,Tier 2,"['ISO 13485', 'ISO 9001', 'FDA 510k']",10,31,9.16,Moderate Risk,"['Active Pharmaceutical Ingredients', 'Polyethylene', 'PEEK Polymer', 'Medical Grade Silicone']",1986,3532,118489440
+SUP_137D5D2A,Morton-Chase Pte Ltd,Thailand,North Deniseside,Tier 2,['GMP'],4,22,8.37,Moderate Risk,"['Lithium Batteries', 'Optical Fibers', 'Glass Vials', 'Copper Wire', 'Rare Earth Magnets']",2007,4538,240398044
+SUP_0A7A6A7B,Novak and Sons GmbH,Thailand,South Todd,Tier 2,"['FDA 510k', 'CE Mark']",9,69,8.88,Moderate Risk,"['Stainless Steel 316L', 'PVC Medical Grade', 'Polyethylene', 'Polypropylene']",2001,2669,480440131
+SUP_06962C80,Hancock Inc Ltd,Canada,South Aaron,Tier 1,['FDA 510k'],7,26,9.12,Stable,"['Electronic Components', 'Glass Vials', 'Lithium Batteries', 'Copper Wire']",2006,560,112043367
+SUP_8613FFB2,Baker-Bowers GmbH,Belgium,Mitchellside,Tier 3,"['ISO 13485', 'ISO 9001', 'FDA 510k']",1,52,7.9,Moderate Risk,"['Lithium Batteries', 'Ceramic Components', 'Polyethylene', 'Aluminum']",1994,2285,234987659
+SUP_C8E5C3DD,"Higgins, Moore and Phillips Ltd",France,New Jillton,Tier 2,"['ISO 9001', 'FDA 510k']",8,23,9.94,High Risk,['Active Pharmaceutical Ingredients'],2017,4673,356945284
+SUP_2DA16641,"Edwards, Williams and Woods Ltd",United States,North Susan,Tier 3,"['FDA 510k', 'ISO 9001']",3,13,7.78,Moderate Risk,"['Copper Wire', 'Glass Vials']",2001,3155,150387883
+SUP_473E0DAC,York Inc Corp,Belgium,Lake Michellefurt,Tier 1,"['ISO 13485', 'GMP']",6,35,8.95,High Risk,['Medical Grade Silicone'],1995,1683,451557559
+SUP_2E17000A,David PLC Pte Ltd,United States,New Brooke,Tier 1,['FDA 510k'],8,21,8.69,Stable,"['Polypropylene', 'Pharmaceutical Excipients', 'Latex', 'Polycarbonate Resin']",1990,2598,59035074
+SUP_B4022AB8,"Miller, Sandoval and Cunningham Ltd",Mexico,Sarahborough,Tier 2,"['ISO 9001', 'GMP', 'CE Mark']",4,16,8.78,High Risk,"['Polycarbonate Resin', 'PVC Medical Grade']",2018,1041,428471230
+SUP_D9BBFEFC,"Moran, Allen and Foster Ltd",Mexico,Stephenland,Tier 2,"['ISO 9001', 'CE Mark', 'ISO 13485']",9,89,8.02,Moderate Risk,"['Polycarbonate Resin', 'Electronic Components', 'Pharmaceutical Excipients', 'Copper Wire']",1989,3617,95562809
+SUP_975EACA8,Ellis PLC Pte Ltd,Israel,North Amandahaven,Tier 3,"['GMP', 'ISO 9001']",8,62,9.48,High Risk,"['Glass Vials', 'Polyethylene', 'Stainless Steel 316L']",1997,3742,131923185
+SUP_DBEBC821,Anderson-Bailey Pte Ltd,Netherlands,East Mikeburgh,Tier 3,"['ISO 9001', 'CE Mark', 'ISO 13485']",8,48,7.55,Stable,"['Polypropylene', 'Glass Vials', 'Ceramic Components']",2018,2313,299388036
+SUP_8BEDA12C,Bass-Warner Pte Ltd,United States,Lake Lisaport,Tier 1,['FDA 510k'],7,69,8.67,Stable,"['Ceramic Components', 'Aluminum', 'Copper Wire', 'Medical Grade Silicone']",1985,2460,119968663
+SUP_1FC7AE7E,"Garcia, Humphrey and Baker Inc",Ireland,Lake Angelaview,Tier 2,"['GMP', 'CE Mark', 'FDA 510k']",9,74,8.03,High Risk,"['Glass Vials', 'Pharmaceutical Excipients', 'Copper Wire', 'Polypropylene', 'PVC Medical Grade']",1996,1938,65776632
+SUP_1162EAEB,Jacobs-Robbins Inc,Israel,Lake Cynthia,Tier 2,['GMP'],3,31,7.65,Moderate Risk,"['Circuit Boards', 'Rare Earth Magnets', 'PVC Medical Grade']",1986,1640,160046108
+SUP_D4824F2E,Wagner-King Corp,Singapore,North Cynthiaview,Tier 1,"['ISO 13485', 'FDA 510k']",5,12,9.92,High Risk,"['PEEK Polymer', 'Aluminum', 'Polycarbonate Resin']",1980,4752,153653514
+SUP_D87ACCFF,Smith and Sons GmbH,France,Evanmouth,Tier 2,"['FDA 510k', 'ISO 13485']",5,68,7.34,Stable,"['Aluminum', 'Stainless Steel 316L', 'Circuit Boards', 'Titanium Alloy']",1989,1272,436478585
+SUP_53F6E8DB,"Thornton, Hoffman and Rodriguez Corp",Mexico,New Barry,Tier 1,['ISO 13485'],9,60,8.82,High Risk,"['Rare Earth Magnets', 'Active Pharmaceutical Ingredients']",2008,3676,160640245
+SUP_27F42057,Aguilar-Hernandez GmbH,Mexico,North Kyle,Tier 2,"['GMP', 'ISO 13485', 'CE Mark']",2,33,8.88,Moderate Risk,['Latex'],1995,1473,297348580
+SUP_30E30792,Nolan and Sons Inc,China,Lake Curtis,Tier 1,"['ISO 9001', 'GMP']",5,11,7.69,High Risk,"['Copper Wire', 'Stainless Steel 316L', 'Polyethylene']",1996,4881,355969940
+SUP_5D9265FC,"Henson, Russell and Oliver GmbH",Malaysia,East Michelle,Tier 1,"['FDA 510k', 'GMP', 'ISO 9001']",3,16,7.18,Moderate Risk,"['Circuit Boards', 'PVC Medical Grade', 'Copper Wire', 'Polycarbonate Resin', 'Ceramic Components']",1999,3347,147161060
+SUP_C2BE0B9A,Keith Inc Pte Ltd,United Kingdom,Lake Sandra,Tier 2,"['ISO 13485', 'GMP']",7,48,8.81,Stable,['Polyethylene'],2016,4859,12137631
+SUP_531D5A17,Pham-Shields Corp,Philippines,West Erik,Tier 3,['FDA 510k'],8,73,8.95,Moderate Risk,"['Circuit Boards', 'Electronic Components']",2020,4078,49985393
+SUP_28DAA0FF,"Rodriguez, Brennan and Garrison Corp",France,East Lisa,Tier 2,"['CE Mark', 'ISO 13485']",3,49,8.23,Moderate Risk,"['Active Pharmaceutical Ingredients', 'Lithium Batteries', 'Titanium Alloy']",2009,771,169855112
+SUP_42989C2D,Bailey-Hoover Corp,South Korea,East Andrew,Tier 1,"['GMP', 'ISO 13485']",9,66,8.24,Stable,"['Pharmaceutical Excipients', 'Optical Fibers', 'Aluminum', 'Copper Wire', 'Titanium Alloy']",1993,2237,295860050
+SUP_DDCF796C,Ross LLC Corp,Vietnam,Port Joshuahaven,Tier 2,"['ISO 9001', 'ISO 13485', 'GMP']",10,37,9.13,Moderate Risk,"['Medical Grade Silicone', 'Lithium Batteries', 'Electronic Components', 'Stainless Steel 316L', 'Polyethylene']",1987,3830,64064156
+SUP_118E333F,Frazier-Anthony Inc,Indonesia,Sheilaville,Tier 2,"['CE Mark', 'GMP', 'FDA 510k']",8,67,7.73,High Risk,"['Active Pharmaceutical Ingredients', 'Nitrile Rubber']",2018,4213,401662759
+SUP_F1027F8D,White-Estes Ltd,Vietnam,Benjaminchester,Tier 2,"['CE Mark', 'GMP']",1,43,9.18,High Risk,"['Aluminum', 'PEEK Polymer', 'Copper Wire', 'Lithium Batteries', 'Ceramic Components']",2002,2773,297308407
+SUP_05530423,Chandler-Edwards GmbH,Canada,South Rachelborough,Tier 2,"['FDA 510k', 'GMP']",10,56,7.7,Moderate Risk,['Glass Vials'],2010,3173,208274450
+SUP_976C30AF,Williams-Graham Inc,Philippines,West Ryan,Tier 2,['FDA 510k'],9,82,8.0,Stable,"['Polycarbonate Resin', 'Rare Earth Magnets', 'Copper Wire', 'Medical Grade Silicone']",1989,3408,468578577
+SUP_D4F9CFD2,"Mccall, Hanson and Alvarado Inc",Indonesia,Lake Rachelhaven,Tier 1,"['CE Mark', 'GMP']",10,57,8.95,Moderate Risk,"['Active Pharmaceutical Ingredients', 'Glass Vials', 'Aluminum', 'Lithium Batteries', 'Titanium Alloy']",2019,610,127041315
+SUP_B95D1379,Estrada-Nguyen Corp,Indonesia,Angelaborough,Tier 1,"['ISO 13485', 'ISO 9001', 'GMP']",2,63,7.5,Moderate Risk,['Titanium Alloy'],2000,509,158500627
+SUP_FBD0D0CD,Ortega-Gray Corp,Switzerland,New Ashley,Tier 2,['FDA 510k'],9,59,8.7,Stable,"['Latex', 'Stainless Steel 316L']",2019,3183,333704469
+SUP_AEA7F84F,Kelley-Smith Inc,Philippines,Jasonshire,Tier 2,"['FDA 510k', 'GMP', 'ISO 9001']",5,65,7.77,Stable,"['PVC Medical Grade', 'Lithium Batteries', 'Latex', 'Stainless Steel 316L']",2008,2880,316450156
+SUP_E7B0A746,"Pena, Marshall and Ramos GmbH",Japan,New Thomas,Tier 3,"['ISO 9001', 'CE Mark']",4,56,9.56,Stable,"['Active Pharmaceutical Ingredients', 'Circuit Boards']",2002,4758,159845279
+SUP_3A4E8BAF,"Jackson, Miller and Robertson Corp",Taiwan,Clarencebury,Tier 1,"['ISO 9001', 'CE Mark', 'ISO 13485']",10,13,9.73,High Risk,"['PVC Medical Grade', 'Polyethylene', 'Pharmaceutical Excipients', 'Optical Fibers']",2020,1607,334338407
+SUP_006644BC,"Collins, Drake and Hernandez Inc",South Korea,East Traceyland,Tier 3,['ISO 13485'],5,63,7.1,Moderate Risk,"['Stainless Steel 316L', 'PVC Medical Grade']",2000,3453,95296046
+SUP_EF597D52,Perry-Soto Inc,Malaysia,Lake Heather,Tier 3,"['GMP', 'CE Mark']",3,39,9.74,Moderate Risk,"['Glass Vials', 'Polycarbonate Resin', 'Copper Wire']",1984,1203,405881996
+SUP_174D7135,Ross-Hernandez GmbH,Singapore,Port Michelleville,Tier 3,"['ISO 13485', 'ISO 9001']",1,40,8.61,Moderate Risk,"['Polypropylene', 'Circuit Boards', 'Active Pharmaceutical Ingredients']",2020,3093,59167870
+SUP_57286614,Robinson-Brock Inc,Philippines,Williamsbury,Tier 2,['GMP'],9,48,9.75,Stable,['Ceramic Components'],2009,2525,349557775
+SUP_242D41B4,Bryant Group Ltd,Belgium,Stephaniemouth,Tier 1,['ISO 13485'],5,70,7.35,Stable,"['PEEK Polymer', 'Active Pharmaceutical Ingredients', 'Copper Wire', 'Pharmaceutical Excipients', 'Electronic Components']",2017,1315,476352907
+SUP_700E8F28,"Briggs, Mcclain and Simmons Ltd",Belgium,Merrittfort,Tier 2,"['ISO 9001', 'CE Mark', 'ISO 13485']",6,34,8.33,Stable,"['Polycarbonate Resin', 'Pharmaceutical Excipients', 'Lithium Batteries']",2002,546,214749593
+SUP_FFFDE76A,Green-Wright Inc,South Korea,Katiehaven,Tier 1,"['ISO 13485', 'FDA 510k']",10,9,7.15,Moderate Risk,"['PEEK Polymer', 'Circuit Boards']",1993,612,446505056
+SUP_552AE51E,Sims-Hill Inc,Canada,Lake Justinview,Tier 3,['FDA 510k'],6,25,9.37,High Risk,['Polypropylene'],1989,1114,291025967
+SUP_D2F72347,Flores-Fernandez Inc,South Korea,East Jesse,Tier 1,"['ISO 13485', 'FDA 510k', 'GMP']",6,37,8.77,Stable,"['Polypropylene', 'Titanium Alloy']",1988,3498,283440017
+SUP_D359DABB,"Hernandez, Lewis and Perry Ltd",India,Amychester,Tier 2,"['CE Mark', 'ISO 13485']",8,71,7.66,High Risk,['Rare Earth Magnets'],1999,3802,346390898
+SUP_B843C55B,Clark Group Ltd,United States,Steinshire,Tier 2,"['ISO 9001', 'ISO 13485']",8,63,7.22,Stable,"['Optical Fibers', 'PEEK Polymer', 'Stainless Steel 316L']",1988,2302,336177903
+SUP_D0B269AB,"Smith, Gilmore and Johnston Pte Ltd",Indonesia,Smithstad,Tier 3,"['CE Mark', 'ISO 9001', 'GMP']",9,44,8.36,High Risk,"['Polycarbonate Resin', 'Ceramic Components', 'Lithium Batteries', 'Nitrile Rubber']",2007,3749,477790236
+SUP_4D1036CC,Molina-Castaneda GmbH,Singapore,Medinaside,Tier 2,"['ISO 9001', 'GMP']",2,47,8.28,High Risk,"['Pharmaceutical Excipients', 'PEEK Polymer', 'Aluminum']",1984,797,447554133
+SUP_E6790CF0,"Hurst, Freeman and Nelson Ltd",China,Johnsonmouth,Tier 2,['CE Mark'],3,78,7.18,High Risk,"['Glass Vials', 'Polycarbonate Resin', 'Electronic Components', 'Pharmaceutical Excipients', 'Circuit Boards']",1983,2406,323342714
+SUP_27ED78B6,"Shelton, Powell and Martin Corp",Japan,Calhounside,Tier 1,"['GMP', 'FDA 510k', 'ISO 13485']",8,35,9.54,Moderate Risk,"['Pharmaceutical Excipients', 'Polycarbonate Resin', 'Polypropylene', 'Polyethylene', 'Electronic Components']",2015,4610,15094918
+SUP_79B4597C,Meadows PLC Corp,Brazil,North Dawnberg,Tier 1,['CE Mark'],5,50,8.05,Stable,"['Circuit Boards', 'Active Pharmaceutical Ingredients']",1984,1212,398804735
+SUP_162859F3,White-Green Ltd,Indonesia,Jasonmouth,Tier 1,"['GMP', 'FDA 510k', 'ISO 9001']",7,65,8.02,Moderate Risk,"['Glass Vials', 'Circuit Boards', 'Stainless Steel 316L']",1983,1324,85508794
+SUP_645269C7,Juarez-Gray Ltd,Brazil,Kingland,Tier 3,['CE Mark'],8,61,8.46,Moderate Risk,"['Polypropylene', 'Nitrile Rubber', 'Rare Earth Magnets', 'Polycarbonate Resin']",2002,3571,60533493
+SUP_38F174DE,Smith-Ryan Pte Ltd,Japan,Jeffreyland,Tier 2,"['CE Mark', 'ISO 13485', 'ISO 9001']",7,83,7.16,Stable,"['Nitrile Rubber', 'PEEK Polymer', 'Polypropylene']",1998,2737,65416106
+SUP_1915FCEB,"Williams, Johnson and Wright GmbH",United States,New Elijahberg,Tier 3,"['FDA 510k', 'GMP']",7,75,9.11,High Risk,"['Pharmaceutical Excipients', 'Stainless Steel 316L', 'Active Pharmaceutical Ingredients', 'Titanium Alloy', 'Electronic Components']",1981,3816,495545317
+SUP_D8AF7926,Caldwell-Elliott Corp,China,South Holly,Tier 3,"['GMP', 'ISO 9001']",7,44,7.35,Stable,"['Latex', 'Optical Fibers', 'Copper Wire']",2003,771,235457851
+SUP_04DA4261,Jackson-Lawson Inc,India,Port Loriport,Tier 2,"['ISO 9001', 'ISO 13485', 'FDA 510k']",5,50,7.66,Stable,['Rare Earth Magnets'],2020,984,285866295
+SUP_11DBDBB1,Lane LLC Inc,United Kingdom,Sandersborough,Tier 2,"['FDA 510k', 'GMP']",2,25,7.77,Stable,"['PEEK Polymer', 'Stainless Steel 316L', 'Latex', 'Aluminum', 'Copper Wire']",2016,4797,242004174
+SUP_808DF2D4,Vargas Ltd Pte Ltd,Philippines,North Heidi,Tier 3,"['GMP', 'CE Mark', 'ISO 9001']",6,26,8.32,Moderate Risk,"['Ceramic Components', 'PVC Medical Grade', 'Polypropylene', 'Titanium Alloy']",2002,4206,40830807
+SUP_E2C8ED57,Jefferson-Burke GmbH,Japan,Port Tonyaton,Tier 2,['ISO 13485'],6,43,7.23,Stable,"['Optical Fibers', 'Rare Earth Magnets', 'Active Pharmaceutical Ingredients', 'Copper Wire', 'Titanium Alloy']",2008,4733,350952571
+SUP_69F59B7F,Patel-Stanley Corp,Malaysia,New Deborahtown,Tier 3,"['GMP', 'FDA 510k']",1,64,7.31,Moderate Risk,['Rare Earth Magnets'],1991,370,134006398
+SUP_E62F7369,Short-Garcia GmbH,Taiwan,Cynthiamouth,Tier 2,"['GMP', 'FDA 510k', 'ISO 9001']",6,43,8.16,Moderate Risk,"['Titanium Alloy', 'Glass Vials', 'Stainless Steel 316L', 'Optical Fibers', 'Polycarbonate Resin']",2015,3216,153550247
+SUP_08F4A196,"Hernandez, Thompson and Boyd Pte Ltd",South Korea,Christinaside,Tier 1,"['ISO 13485', 'FDA 510k']",6,46,9.9,High Risk,"['PEEK Polymer', 'Optical Fibers', 'Stainless Steel 316L', 'PVC Medical Grade']",2015,3135,346472812
+SUP_8235D37B,Marshall-Petersen Inc,Italy,Marcusbury,Tier 3,"['GMP', 'ISO 13485', 'CE Mark']",7,72,8.09,Moderate Risk,"['Latex', 'Nitrile Rubber', 'Glass Vials']",2011,1622,122624371
+SUP_26EA0DFC,Ramirez Group Inc,Vietnam,Port Steven,Tier 1,"['ISO 13485', 'GMP']",6,86,7.39,Moderate Risk,"['Latex', 'Ceramic Components']",2019,1406,388182174
+SUP_E5109F15,"Barnett, Rogers and Snyder Ltd",Netherlands,Hunterborough,Tier 2,"['FDA 510k', 'ISO 9001']",10,43,9.26,Moderate Risk,"['Lithium Batteries', 'Polyethylene']",1999,3892,486317525
+SUP_9DE4A676,Salinas-Peterson Corp,Malaysia,Angelahaven,Tier 3,"['ISO 9001', 'GMP', 'FDA 510k']",7,71,8.58,Stable,"['Optical Fibers', 'PEEK Polymer']",1996,477,345230372
+SUP_3AE35A45,Miller Ltd Corp,France,Freemanbury,Tier 3,['GMP'],2,43,7.25,Stable,"['Copper Wire', 'Rare Earth Magnets', 'PEEK Polymer']",2007,801,489823626
+SUP_915E20E0,"Alvarez, Joseph and West GmbH",Singapore,North Kellyfurt,Tier 2,['ISO 9001'],1,57,8.51,Stable,"['Stainless Steel 316L', 'Pharmaceutical Excipients', 'Polyethylene', 'Medical Grade Silicone']",2000,861,451529337
+SUP_9F52B26A,"Sanchez, Beck and Wood Corp",Taiwan,Ronaldside,Tier 1,['ISO 13485'],5,67,9.09,Stable,"['Copper Wire', 'Optical Fibers', 'Medical Grade Silicone', 'Stainless Steel 316L']",1981,2146,116778757
+SUP_5C6C3B29,Bell-Chavez Pte Ltd,Vietnam,Johnville,Tier 3,"['GMP', 'ISO 9001', 'ISO 13485']",5,37,7.9,Stable,"['Electronic Components', 'Optical Fibers']",2009,564,60516376
+SUP_A3E4E10A,"Lee, Wilson and Herrera Pte Ltd",France,East Javier,Tier 3,['GMP'],10,37,9.16,Moderate Risk,"['Medical Grade Silicone', 'Optical Fibers', 'Pharmaceutical Excipients', 'Polyethylene']",2016,3462,101563388
+SUP_D5918636,Hill-Lawrence Ltd,Philippines,Tinaborough,Tier 3,"['ISO 13485', 'GMP']",7,67,7.13,Moderate Risk,"['Polypropylene', 'Medical Grade Silicone', 'Pharmaceutical Excipients']",1984,2874,130453493
+SUP_5820C5F7,Perez-White Ltd,Israel,Lake Amandaview,Tier 3,"['CE Mark', 'FDA 510k', 'ISO 13485']",6,76,8.02,High Risk,"['Copper Wire', 'Aluminum']",2020,1543,436669501
+SUP_981C5952,Mccann PLC Ltd,Vietnam,Heidiberg,Tier 3,"['ISO 13485', 'CE Mark']",4,12,9.37,Stable,"['PVC Medical Grade', 'Rare Earth Magnets', 'Active Pharmaceutical Ingredients']",2014,3928,136996793
+SUP_9D3F37F5,"Oneill, Henry and Salas Inc",Germany,Taylormouth,Tier 2,"['ISO 13485', 'CE Mark']",5,22,9.4,Moderate Risk,"['Copper Wire', 'Active Pharmaceutical Ingredients', 'Glass Vials', 'Latex']",2011,4125,198217877
+SUP_D149A116,Lopez-Williams Corp,United Kingdom,Wilsonland,Tier 1,"['ISO 9001', 'ISO 13485', 'FDA 510k']",10,30,8.64,Moderate Risk,['Stainless Steel 316L'],2000,2471,165548711
+SUP_012FFAF7,Vasquez-Ray Pte Ltd,Netherlands,East Edwardshire,Tier 3,"['FDA 510k', 'ISO 9001']",6,64,7.13,Moderate Risk,"['Electronic Components', 'Polypropylene', 'Titanium Alloy', 'Stainless Steel 316L', 'Active Pharmaceutical Ingredients']",2003,4253,431085127
+SUP_49CFF2DA,Miller-Wright Inc,Israel,Obrienbury,Tier 1,['GMP'],8,11,7.38,Stable,"['Pharmaceutical Excipients', 'Active Pharmaceutical Ingredients', 'Circuit Boards']",1982,1306,365568665
+SUP_5735A5FA,"James, Kerr and Evans Corp",Netherlands,Torreston,Tier 2,"['ISO 13485', 'FDA 510k']",9,53,8.19,High Risk,"['Polyethylene', 'Polycarbonate Resin', 'Medical Grade Silicone']",1991,4138,278962376
+SUP_5F077F32,"Choi, Garcia and Farmer Pte Ltd",Ireland,West Donna,Tier 1,"['CE Mark', 'ISO 9001']",4,85,7.86,Moderate Risk,"['Polycarbonate Resin', 'PEEK Polymer']",1984,3753,93694177
+SUP_861C13BB,Allen PLC GmbH,Taiwan,East Aaronmouth,Tier 1,"['CE Mark', 'GMP', 'ISO 9001']",2,77,8.63,Moderate Risk,"['Ceramic Components', 'Latex']",2003,4217,121388801
+SUP_4248702D,"Wheeler, Carter and Hall Inc",India,Jacquelinemouth,Tier 1,['ISO 9001'],1,53,8.66,Moderate Risk,"['Lithium Batteries', 'PEEK Polymer', 'Stainless Steel 316L', 'Circuit Boards']",1999,3311,385900794
+SUP_FD5D5060,Mcdaniel LLC GmbH,Israel,South Danny,Tier 3,"['ISO 9001', 'ISO 13485']",3,47,8.93,Moderate Risk,"['Rare Earth Magnets', 'Pharmaceutical Excipients', 'PEEK Polymer', 'Lithium Batteries']",2020,4865,98690714
+SUP_F28A03AA,Holland LLC GmbH,Vietnam,North Brian,Tier 3,['ISO 13485'],9,26,7.91,Stable,"['Polyethylene', 'Pharmaceutical Excipients', 'Rare Earth Magnets']",1998,696,135542703
+SUP_9DA615C9,Larson-Holloway Pte Ltd,Malaysia,Scottmouth,Tier 2,['CE Mark'],10,75,7.28,High Risk,"['Circuit Boards', 'Ceramic Components']",1989,1452,354654517
+SUP_0578F8AB,"Torres, Powell and Nelson Pte Ltd",Brazil,Kimton,Tier 2,"['ISO 13485', 'GMP', 'ISO 9001']",1,89,9.31,Moderate Risk,"['Circuit Boards', 'Electronic Components']",2019,298,268382145
+SUP_7D36429C,Navarro-Munoz Pte Ltd,Indonesia,North Jeremyshire,Tier 2,"['CE Mark', 'ISO 9001', 'ISO 13485']",7,45,8.36,High Risk,['Latex'],2008,3454,260980346
+SUP_DDA0D26A,"Sampson, Key and Chambers Inc",Netherlands,Barbaraburgh,Tier 2,"['FDA 510k', 'CE Mark', 'ISO 9001']",6,51,9.93,Stable,"['Rare Earth Magnets', 'Lithium Batteries', 'Polycarbonate Resin']",2000,2030,251435553
+SUP_24E328C2,Stone-Ramos Corp,India,Howardshire,Tier 2,['FDA 510k'],2,13,7.87,Moderate Risk,"['Electronic Components', 'Polyethylene', 'Latex', 'Glass Vials', 'Lithium Batteries']",1992,1355,268504272
+SUP_ED9D6553,Walters-Vasquez GmbH,United Kingdom,South Michaelmouth,Tier 2,"['ISO 9001', 'ISO 13485']",2,57,8.52,Stable,"['Circuit Boards', 'Pharmaceutical Excipients']",1983,464,152052032
+SUP_EA827812,Santiago-Hodge Pte Ltd,France,Robertfort,Tier 3,"['ISO 9001', 'CE Mark', 'GMP']",1,20,8.29,Moderate Risk,"['Active Pharmaceutical Ingredients', 'Pharmaceutical Excipients', 'Titanium Alloy']",2005,469,307167625
+SUP_E7CAF991,Bates-Morales Inc,Canada,South Christopherview,Tier 2,"['CE Mark', 'ISO 13485', 'FDA 510k']",9,64,9.29,Moderate Risk,"['Optical Fibers', 'Polycarbonate Resin', 'PEEK Polymer', 'Ceramic Components', 'Active Pharmaceutical Ingredients']",2003,2827,300483685
+SUP_FAEA0C49,Wilson-Barton Inc,Switzerland,Lake Mollymouth,Tier 1,"['GMP', 'ISO 9001', 'CE Mark']",1,12,7.12,High Risk,"['Aluminum', 'Rare Earth Magnets', 'Copper Wire']",1989,4273,76044347
+SUP_BD78F717,Brown-Stone Pte Ltd,Italy,Garrettton,Tier 2,['ISO 9001'],10,45,8.78,High Risk,"['Lithium Batteries', 'Aluminum', 'Circuit Boards', 'PVC Medical Grade', 'Optical Fibers']",1981,3067,178832901
+SUP_AE4F997C,Adams and Sons Ltd,Philippines,Samuelfort,Tier 2,"['CE Mark', 'ISO 13485', 'GMP']",8,40,9.9,High Risk,"['Polyethylene', 'Titanium Alloy', 'Circuit Boards', 'Aluminum', 'Latex']",2013,3164,80336479
+SUP_C5FAD565,Johnson Ltd Inc,Philippines,Lake Eric,Tier 1,"['ISO 13485', 'FDA 510k', 'GMP']",8,47,8.26,Moderate Risk,"['Electronic Components', 'Rare Earth Magnets']",2019,3913,469590437
+SUP_0A860C16,"Smith, Russell and Walker Ltd",Israel,South Staceyberg,Tier 3,['GMP'],4,78,7.98,High Risk,"['Rare Earth Magnets', 'Active Pharmaceutical Ingredients', 'Glass Vials', 'Latex']",2009,4417,184785417
+SUP_62FD7A1D,Cantu-Carter Corp,Canada,Robertfort,Tier 3,"['CE Mark', 'ISO 9001', 'ISO 13485']",4,42,8.67,Stable,"['PVC Medical Grade', 'Nitrile Rubber', 'Aluminum']",2000,3980,188262279
+SUP_1318D421,Sanchez-Arnold Corp,Canada,Leehaven,Tier 2,['GMP'],9,55,9.69,Moderate Risk,"['PEEK Polymer', 'PVC Medical Grade', 'Titanium Alloy']",1998,697,186952495
+SUP_EB070827,"Suarez, Shields and Hill Corp",Netherlands,Morganhaven,Tier 3,"['FDA 510k', 'GMP']",9,41,9.8,High Risk,"['PEEK Polymer', 'Polycarbonate Resin', 'Circuit Boards']",1995,2036,28254480
+SUP_AF391359,Hoover-Campbell Pte Ltd,Philippines,Maryshire,Tier 1,"['FDA 510k', 'ISO 13485', 'ISO 9001']",7,49,9.15,Stable,"['Medical Grade Silicone', 'Lithium Batteries']",1990,3383,351519150
+SUP_45D4024A,"Burns, Hernandez and Ryan GmbH",France,Martinside,Tier 3,['CE Mark'],6,43,8.94,Stable,"['Polyethylene', 'Lithium Batteries', 'Titanium Alloy', 'Latex', 'Electronic Components']",1991,347,449933172
+SUP_93903759,Gibson-Morris GmbH,Ireland,Lake John,Tier 1,"['CE Mark', 'ISO 13485', 'ISO 9001']",5,79,8.81,Moderate Risk,"['Copper Wire', 'Lithium Batteries', 'Rare Earth Magnets']",2011,1149,457909217
+SUP_5026A7F2,Hall-Rowe GmbH,United Kingdom,West Juliefurt,Tier 2,['ISO 13485'],6,27,9.19,High Risk,"['Latex', 'Medical Grade Silicone', 'Glass Vials']",1998,4701,363066354
+SUP_4E1A3D98,Mcneil-Sparks Inc,Malaysia,South Tammie,Tier 3,"['ISO 9001', 'GMP', 'CE Mark']",6,18,8.2,Stable,"['PEEK Polymer', 'Aluminum']",2000,2082,4666894
+SUP_576C5CB5,Shaw PLC GmbH,South Korea,Mollymouth,Tier 1,"['CE Mark', 'GMP']",5,81,9.17,Stable,"['Ceramic Components', 'Pharmaceutical Excipients', 'Polyethylene']",1983,1018,250857032
+SUP_01C8C903,Fox Group Inc,Japan,Lake Douglasberg,Tier 2,"['GMP', 'CE Mark', 'ISO 9001']",2,88,9.75,Moderate Risk,"['Optical Fibers', 'Polyethylene', 'Ceramic Components']",1988,3967,83240874
+SUP_8DE837AD,Harrison LLC Pte Ltd,Netherlands,Cindyfurt,Tier 2,"['GMP', 'ISO 9001']",9,34,9.29,High Risk,"['Stainless Steel 316L', 'Rare Earth Magnets', 'Copper Wire', 'Optical Fibers', 'Pharmaceutical Excipients']",1984,4671,61241639
+SUP_6DBE1F99,"Miller, Murphy and Craig Pte Ltd",Germany,Finleyfort,Tier 3,['GMP'],9,26,7.49,High Risk,"['Polycarbonate Resin', 'Nitrile Rubber', 'Circuit Boards', 'Aluminum']",1985,4230,240166697
+SUP_714AEAF2,"Johnson, Jones and Welch GmbH",Germany,Wendyland,Tier 1,"['ISO 9001', 'GMP', 'CE Mark']",1,78,8.39,Moderate Risk,['Active Pharmaceutical Ingredients'],1996,74,401400735
+SUP_0155EF3E,Good-Hodges Pte Ltd,Malaysia,South Garrettport,Tier 1,['ISO 9001'],6,15,8.62,Stable,['Aluminum'],1982,2401,220508765
+SUP_469D5624,Williams Inc Inc,Thailand,Michaelchester,Tier 3,"['ISO 9001', 'CE Mark', 'FDA 510k']",8,55,8.13,High Risk,"['PEEK Polymer', 'Pharmaceutical Excipients', 'Polycarbonate Resin', 'Latex', 'Active Pharmaceutical Ingredients']",2013,1093,391765860
+SUP_ABA73E05,Sanchez Group Ltd,Singapore,East Gregory,Tier 1,"['ISO 9001', 'GMP']",9,55,9.47,Stable,"['Pharmaceutical Excipients', 'PEEK Polymer', 'Polypropylene', 'Nitrile Rubber']",1987,313,435585289
+SUP_DB38B677,"Pitts, Harvey and Allen GmbH",Philippines,East Steven,Tier 3,['FDA 510k'],4,15,7.3,Stable,"['Optical Fibers', 'Titanium Alloy', 'Polyethylene', 'Ceramic Components']",2005,3645,126809940
+SUP_08066134,Stevens-Estrada Inc,Canada,Santanaside,Tier 1,['GMP'],5,36,9.45,High Risk,"['Glass Vials', 'Circuit Boards', 'Ceramic Components', 'Polyethylene', 'PVC Medical Grade']",1989,4320,119671419

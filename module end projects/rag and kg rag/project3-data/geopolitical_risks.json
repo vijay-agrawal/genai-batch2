@@ -1,0 +1,419 @@
+[
+  {
+    "country": "United States",
+    "overall_risk_score": 5.81,
+    "political_stability": 8.51,
+    "economic_stability": 5.04,
+    "natural_disaster_risk": 9.96,
+    "infrastructure_quality": 1.33,
+    "regulatory_complexity": 1.5,
+    "corruption_index": 8.09,
+    "trade_freedom": 1.39,
+    "common_risks": [
+      "Pandemic",
+      "Currency Fluctuation"
+    ],
+    "last_updated": "2024-08-12"
+  },
+  {
+    "country": "Germany",
+    "overall_risk_score": 6.88,
+    "political_stability": 5.71,
+    "economic_stability": 9.46,
+    "natural_disaster_risk": 8.83,
+    "infrastructure_quality": 5.83,
+    "regulatory_complexity": 7.67,
+    "corruption_index": 3.1,
+    "trade_freedom": 1.65,
+    "common_risks": [
+      "Power Outage",
+      "Quality Issues",
+      "Natural Disaster"
+    ],
+    "last_updated": "2025-01-29"
+  },
+  {
+    "country": "China",
+    "overall_risk_score": 5.24,
+    "political_stability": 9.26,
+    "economic_stability": 1.41,
+    "natural_disaster_risk": 7.31,
+    "infrastructure_quality": 2.17,
+    "regulatory_complexity": 2.55,
+    "corruption_index": 1.45,
+    "trade_freedom": 3.77,
+    "common_risks": [
+      "Power Outage",
+      "Supplier Bankruptcy"
+    ],
+    "last_updated": "2024-12-27"
+  },
+  {
+    "country": "India",
+    "overall_risk_score": 2.54,
+    "political_stability": 6.32,
+    "economic_stability": 8.36,
+    "natural_disaster_risk": 1.96,
+    "infrastructure_quality": 5.47,
+    "regulatory_complexity": 8.19,
+    "corruption_index": 2.99,
+    "trade_freedom": 8.24,
+    "common_risks": [
+      "Trade War",
+      "Currency Fluctuation",
+      "Regulatory Changes",
+      "Quality Issues",
+      "Economic Recession"
+    ],
+    "last_updated": "2024-09-11"
+  },
+  {
+    "country": "Vietnam",
+    "overall_risk_score": 3.92,
+    "political_stability": 9.78,
+    "economic_stability": 6.18,
+    "natural_disaster_risk": 2.24,
+    "infrastructure_quality": 8.53,
+    "regulatory_complexity": 8.14,
+    "corruption_index": 7.88,
+    "trade_freedom": 6.34,
+    "common_risks": [
+      "Political Instability",
+      "Port Closure",
+      "Cyber Attack",
+      "Labor Strike"
+    ],
+    "last_updated": "2024-07-15"
+  },
+  {
+    "country": "Thailand",
+    "overall_risk_score": 7.82,
+    "political_stability": 2.51,
+    "economic_stability": 4.33,
+    "natural_disaster_risk": 2.49,
+    "infrastructure_quality": 3.19,
+    "regulatory_complexity": 6.24,
+    "corruption_index": 2.2,
+    "trade_freedom": 8.12,
+    "common_risks": [
+      "Currency Fluctuation",
+      "Labor Strike",
+      "Natural Disaster",
+      "Power Outage",
+      "Political Instability"
+    ],
+    "last_updated": "2025-01-25"
+  },
+  {
+    "country": "Malaysia",
+    "overall_risk_score": 1.06,
+    "political_stability": 2.61,
+    "economic_stability": 1.8,
+    "natural_disaster_risk": 6.87,
+    "infrastructure_quality": 8.98,
+    "regulatory_complexity": 4.75,
+    "corruption_index": 8.27,
+    "trade_freedom": 7.95,
+    "common_risks": [
+      "Pandemic",
+      "Labor Strike",
+      "Quality Issues"
+    ],
+    "last_updated": "2024-09-22"
+  },
+  {
+    "country": "Singapore",
+    "overall_risk_score": 3.44,
+    "political_stability": 5.05,
+    "economic_stability": 3.15,
+    "natural_disaster_risk": 2.57,
+    "infrastructure_quality": 7.23,
+    "regulatory_complexity": 6.37,
+    "corruption_index": 7.45,
+    "trade_freedom": 6.51,
+    "common_risks": [
+      "Quality Issues",
+      "Currency Fluctuation"
+    ],
+    "last_updated": "2025-01-21"
+  },
+  {
+    "country": "South Korea",
+    "overall_risk_score": 3.71,
+    "political_stability": 4.77,
+    "economic_stability": 6.02,
+    "natural_disaster_risk": 2.73,
+    "infrastructure_quality": 9.88,
+    "regulatory_complexity": 9.79,
+    "corruption_index": 6.57,
+    "trade_freedom": 8.76,
+    "common_risks": [
+      "Power Outage",
+      "Currency Fluctuation",
+      "Quality Issues"
+    ],
+    "last_updated": "2024-12-21"
+  },
+  {
+    "country": "Japan",
+    "overall_risk_score": 6.93,
+    "political_stability": 3.49,
+    "economic_stability": 2.74,
+    "natural_disaster_risk": 8.17,
+    "infrastructure_quality": 7.17,
+    "regulatory_complexity": 9.72,
+    "corruption_index": 5.27,
+    "trade_freedom": 2.59,
+    "common_risks": [
+      "Natural Disaster",
+      "Quality Issues"
+    ],
+    "last_updated": "2024-07-03"
+  },
+  {
+    "country": "Italy",
+    "overall_risk_score": 4.28,
+    "political_stability": 2.89,
+    "economic_stability": 3.26,
+    "natural_disaster_risk": 6.55,
+    "infrastructure_quality": 9.01,
+    "regulatory_complexity": 5.08,
+    "corruption_index": 1.94,
+    "trade_freedom": 1.47,
+    "common_risks": [
+      "Labor Strike",
+      "Currency Fluctuation",
+      "Natural Disaster"
+    ],
+    "last_updated": "2024-12-09"
+  },
+  {
+    "country": "Switzerland",
+    "overall_risk_score": 5.37,
+    "political_stability": 2.04,
+    "economic_stability": 9.06,
+    "natural_disaster_risk": 7.49,
+    "infrastructure_quality": 6.33,
+    "regulatory_complexity": 3.93,
+    "corruption_index": 2.79,
+    "trade_freedom": 7.09,
+    "common_risks": [
+      "Pandemic",
+      "Currency Fluctuation",
+      "Political Instability",
+      "Trade War"
+    ],
+    "last_updated": "2025-01-31"
+  },
+  {
+    "country": "Ireland",
+    "overall_risk_score": 3.05,
+    "political_stability": 3.13,
+    "economic_stability": 4.71,
+    "natural_disaster_risk": 2.8,
+    "infrastructure_quality": 9.02,
+    "regulatory_complexity": 1.66,
+    "corruption_index": 6.27,
+    "trade_freedom": 1.49,
+    "common_risks": [
+      "Labor Strike",
+      "Pandemic",
+      "Supplier Bankruptcy",
+      "Power Outage",
+      "Port Closure"
+    ],
+    "last_updated": "2024-08-01"
+  },
+  {
+    "country": "Belgium",
+    "overall_risk_score": 4.49,
+    "political_stability": 2.23,
+    "economic_stability": 7.48,
+    "natural_disaster_risk": 6.69,
+    "infrastructure_quality": 9.78,
+    "regulatory_complexity": 2.82,
+    "corruption_index": 2.14,
+    "trade_freedom": 7.23,
+    "common_risks": [
+      "Cyber Attack",
+      "Labor Strike"
+    ],
+    "last_updated": "2025-01-12"
+  },
+  {
+    "country": "Netherlands",
+    "overall_risk_score": 2.0,
+    "political_stability": 5.19,
+    "economic_stability": 4.76,
+    "natural_disaster_risk": 7.84,
+    "infrastructure_quality": 2.98,
+    "regulatory_complexity": 3.66,
+    "corruption_index": 2.41,
+    "trade_freedom": 8.15,
+    "common_risks": [
+      "Supplier Bankruptcy",
+      "Transportation Disruption",
+      "Pandemic"
+    ],
+    "last_updated": "2025-05-28"
+  },
+  {
+    "country": "France",
+    "overall_risk_score": 1.78,
+    "political_stability": 8.71,
+    "economic_stability": 5.4,
+    "natural_disaster_risk": 9.96,
+    "infrastructure_quality": 6.32,
+    "regulatory_complexity": 8.53,
+    "corruption_index": 3.51,
+    "trade_freedom": 7.57,
+    "common_risks": [
+      "Pandemic",
+      "Trade War",
+      "Economic Recession"
+    ],
+    "last_updated": "2025-01-08"
+  },
+  {
+    "country": "United Kingdom",
+    "overall_risk_score": 6.22,
+    "political_stability": 9.03,
+    "economic_stability": 6.33,
+    "natural_disaster_risk": 2.34,
+    "infrastructure_quality": 6.16,
+    "regulatory_complexity": 1.05,
+    "corruption_index": 9.82,
+    "trade_freedom": 1.36,
+    "common_risks": [
+      "Regulatory Changes",
+      "Currency Fluctuation",
+      "Transportation Disruption",
+      "Natural Disaster",
+      "Economic Recession"
+    ],
+    "last_updated": "2024-07-26"
+  },
+  {
+    "country": "Canada",
+    "overall_risk_score": 5.78,
+    "political_stability": 5.31,
+    "economic_stability": 8.18,
+    "natural_disaster_risk": 8.39,
+    "infrastructure_quality": 5.07,
+    "regulatory_complexity": 3.16,
+    "corruption_index": 6.03,
+    "trade_freedom": 1.11,
+    "common_risks": [
+      "Pandemic",
+      "Labor Strike",
+      "Trade War",
+      "Cyber Attack",
+      "Port Closure"
+    ],
+    "last_updated": "2024-08-02"
+  },
+  {
+    "country": "Mexico",
+    "overall_risk_score": 6.83,
+    "political_stability": 1.82,
+    "economic_stability": 5.32,
+    "natural_disaster_risk": 3.74,
+    "infrastructure_quality": 7.33,
+    "regulatory_complexity": 8.72,
+    "corruption_index": 7.73,
+    "trade_freedom": 1.22,
+    "common_risks": [
+      "Power Outage",
+      "Currency Fluctuation",
+      "Labor Strike",
+      "Economic Recession",
+      "Regulatory Changes"
+    ],
+    "last_updated": "2025-02-07"
+  },
+  {
+    "country": "Brazil",
+    "overall_risk_score": 8.11,
+    "political_stability": 4.33,
+    "economic_stability": 5.18,
+    "natural_disaster_risk": 6.7,
+    "infrastructure_quality": 8.74,
+    "regulatory_complexity": 1.64,
+    "corruption_index": 9.04,
+    "trade_freedom": 4.0,
+    "common_risks": [
+      "Cyber Attack",
+      "Economic Recession"
+    ],
+    "last_updated": "2025-01-25"
+  },
+  {
+    "country": "Indonesia",
+    "overall_risk_score": 7.78,
+    "political_stability": 7.28,
+    "economic_stability": 6.51,
+    "natural_disaster_risk": 6.18,
+    "infrastructure_quality": 2.86,
+    "regulatory_complexity": 7.16,
+    "corruption_index": 6.58,
+    "trade_freedom": 4.02,
+    "common_risks": [
+      "Transportation Disruption",
+      "Quality Issues"
+    ],
+    "last_updated": "2025-03-03"
+  },
+  {
+    "country": "Philippines",
+    "overall_risk_score": 4.28,
+    "political_stability": 1.46,
+    "economic_stability": 4.45,
+    "natural_disaster_risk": 5.19,
+    "infrastructure_quality": 1.37,
+    "regulatory_complexity": 4.3,
+    "corruption_index": 6.83,
+    "trade_freedom": 7.34,
+    "common_risks": [
+      "Labor Strike",
+      "Trade War",
+      "Pandemic"
+    ],
+    "last_updated": "2025-05-13"
+  },
+  {
+    "country": "Taiwan",
+    "overall_risk_score": 5.86,
+    "political_stability": 6.84,
+    "economic_stability": 7.64,
+    "natural_disaster_risk": 7.77,
+    "infrastructure_quality": 8.84,
+    "regulatory_complexity": 7.33,
+    "corruption_index": 7.78,
+    "trade_freedom": 7.85,
+    "common_risks": [
+      "Trade War",
+      "Cyber Attack",
+      "Transportation Disruption",
+      "Quality Issues"
+    ],
+    "last_updated": "2025-01-18"
+  },
+  {
+    "country": "Israel",
+    "overall_risk_score": 4.81,
+    "political_stability": 1.49,
+    "economic_stability": 4.36,
+    "natural_disaster_risk": 5.07,
+    "infrastructure_quality": 5.51,
+    "regulatory_complexity": 8.47,
+    "corruption_index": 5.23,
+    "trade_freedom": 5.79,
+    "common_risks": [
+      "Power Outage",
+      "Supplier Bankruptcy",
+      "Trade War",
+      "Quality Issues"
+    ],
+    "last_updated": "2024-10-06"
+  }
+]

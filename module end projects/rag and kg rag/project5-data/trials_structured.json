@@ -1,0 +1,1202 @@
+[
+  {
+    "trial_id": "NCT11858627",
+    "title": "A Phase II Study of Left in Prostate Cancer",
+    "phase": "Phase III",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Novartis",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Drug",
+    "enrollment_target": 142,
+    "age_min": 21,
+    "age_max": 85,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Phillips-Williams Medical Center",
+        "city": "Port Shanefurt",
+        "state": "NH",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-05-01",
+    "completion_date": "2028-01-05"
+  },
+  {
+    "trial_id": "NCT35896016",
+    "title": "A Phase IV Study of Able in Multiple Sclerosis",
+    "phase": "Phase IV",
+    "condition": "Multiple Sclerosis",
+    "status": "Suspended",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Procedure",
+    "enrollment_target": 197,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Franco-Fox Medical Center",
+        "city": "North Colleen",
+        "state": "AS",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-06-02",
+    "completion_date": "2027-03-01"
+  },
+  {
+    "trial_id": "NCT10485946",
+    "title": "A Phase I Study of Force in Lung Cancer",
+    "phase": "Phase I",
+    "condition": "Lung Cancer",
+    "status": "Recruiting",
+    "sponsor": "Merck",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Drug",
+    "enrollment_target": 145,
+    "age_min": 21,
+    "age_max": 65,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Reese, Daugherty and Ho Medical Center",
+        "city": "West Lisa",
+        "state": "DE",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-04-27",
+    "completion_date": "2027-05-31"
+  },
+  {
+    "trial_id": "NCT97740186",
+    "title": "A Phase II Study of Century in Chronic Kidney Disease",
+    "phase": "Phase II",
+    "condition": "Chronic Kidney Disease",
+    "status": "Completed",
+    "sponsor": "Merck",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Drug",
+    "enrollment_target": 144,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Carlson, Winters and Lopez Medical Center",
+        "city": "South Tinaton",
+        "state": "OH",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-05-30",
+    "completion_date": "2027-12-24"
+  },
+  {
+    "trial_id": "NCT45433613",
+    "title": "A Phase I Study of Old in Parkinson's Disease",
+    "phase": "Phase II",
+    "condition": "Parkinson's Disease",
+    "status": "Suspended",
+    "sponsor": "Roche",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Device",
+    "enrollment_target": 340,
+    "age_min": 21,
+    "age_max": 75,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Ball-Ramirez Medical Center",
+        "city": "Lake Shawn",
+        "state": "GA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-02-25",
+    "completion_date": "2028-01-29"
+  },
+  {
+    "trial_id": "NCT89525289",
+    "title": "A Phase III Study of Technology in Depression",
+    "phase": "Phase III",
+    "condition": "Depression",
+    "status": "Suspended",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Biological",
+    "enrollment_target": 278,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Wilson-Cook Medical Center",
+        "city": "East Angelabury",
+        "state": "HI",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-07-07",
+    "completion_date": "2027-06-13"
+  },
+  {
+    "trial_id": "NCT43320936",
+    "title": "A Phase II Study of Notice in Rheumatoid Arthritis",
+    "phase": "Phase II",
+    "condition": "Rheumatoid Arthritis",
+    "status": "Completed",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Device",
+    "enrollment_target": 201,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Griffin, Rice and Thompson Medical Center",
+        "city": "South Ryan",
+        "state": "NV",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-10-07",
+    "completion_date": "2027-08-17"
+  },
+  {
+    "trial_id": "NCT85399941",
+    "title": "A Phase I Study of Least in Prostate Cancer",
+    "phase": "Phase III",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Device",
+    "enrollment_target": 127,
+    "age_min": 18,
+    "age_max": null,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Hardy, Merritt and Cantu Medical Center",
+        "city": "Lake Betty",
+        "state": "OH",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-12-15",
+    "completion_date": "2028-05-06"
+  },
+  {
+    "trial_id": "NCT41932404",
+    "title": "A Phase I Study of Notice in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Suspended",
+    "sponsor": "Novartis",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Biological",
+    "enrollment_target": 220,
+    "age_min": 21,
+    "age_max": 75,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Campbell PLC Medical Center",
+        "city": "Smithside",
+        "state": "IL",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-05-02",
+    "completion_date": "2028-02-05"
+  },
+  {
+    "trial_id": "NCT18213711",
+    "title": "A Phase I Study of Final in Multiple Sclerosis",
+    "phase": "Phase IV",
+    "condition": "Multiple Sclerosis",
+    "status": "Suspended",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Drug",
+    "enrollment_target": 119,
+    "age_min": 65,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Walker, Willis and Berg Medical Center",
+        "city": "Davidmouth",
+        "state": "PA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-11-06",
+    "completion_date": "2027-02-18"
+  },
+  {
+    "trial_id": "NCT16900658",
+    "title": "A Phase III Study of Form in Type 2 Diabetes",
+    "phase": "Phase I",
+    "condition": "Type 2 Diabetes",
+    "status": "Completed",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Drug",
+    "enrollment_target": 170,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Hunter Ltd Medical Center",
+        "city": "Port Tracie",
+        "state": "CA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-04-02",
+    "completion_date": "2027-05-02"
+  },
+  {
+    "trial_id": "NCT72948655",
+    "title": "A Phase III Study of Of in Heart Failure",
+    "phase": "Phase IV",
+    "condition": "Heart Failure",
+    "status": "Active",
+    "sponsor": "Roche",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 301,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Lopez-Jackson Medical Center",
+        "city": "New Matthew",
+        "state": "VT",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-11-02",
+    "completion_date": "2026-11-23"
+  },
+  {
+    "trial_id": "NCT53735312",
+    "title": "A Phase II Study of Group in Heart Failure",
+    "phase": "Phase III",
+    "condition": "Heart Failure",
+    "status": "Recruiting",
+    "sponsor": "Roche",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Device",
+    "enrollment_target": 396,
+    "age_min": 21,
+    "age_max": 75,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Brooks, Wilkerson and Perry Medical Center",
+        "city": "Kimburgh",
+        "state": "PA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-03-17",
+    "completion_date": "2028-02-23"
+  },
+  {
+    "trial_id": "NCT77665824",
+    "title": "A Phase III Study of Use in Parkinson's Disease",
+    "phase": "Phase IV",
+    "condition": "Parkinson's Disease",
+    "status": "Active",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Procedure",
+    "enrollment_target": 214,
+    "age_min": 65,
+    "age_max": 65,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "West, White and Guerrero Medical Center",
+        "city": "Brianamouth",
+        "state": "MP",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-04-17",
+    "completion_date": "2028-04-30"
+  },
+  {
+    "trial_id": "NCT53789641",
+    "title": "A Phase I Study of At in Lung Cancer",
+    "phase": "Phase IV",
+    "condition": "Lung Cancer",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Drug",
+    "enrollment_target": 341,
+    "age_min": 18,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Robertson, Molina and Baker Medical Center",
+        "city": "Jamesside",
+        "state": "MD",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-02-08",
+    "completion_date": "2027-08-27"
+  },
+  {
+    "trial_id": "NCT31920599",
+    "title": "A Phase II Study of Under in Multiple Sclerosis",
+    "phase": "Phase II",
+    "condition": "Multiple Sclerosis",
+    "status": "Completed",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Biological",
+    "enrollment_target": 239,
+    "age_min": 18,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Valdez-Jenkins Medical Center",
+        "city": "New Richardberg",
+        "state": "MN",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-12-04",
+    "completion_date": "2028-03-03"
+  },
+  {
+    "trial_id": "NCT42588748",
+    "title": "A Phase IV Study of Soldier in Rheumatoid Arthritis",
+    "phase": "Phase IV",
+    "condition": "Rheumatoid Arthritis",
+    "status": "Completed",
+    "sponsor": "Merck",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Procedure",
+    "enrollment_target": 495,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Tyler-Knight Medical Center",
+        "city": "Port Bruceside",
+        "state": "VT",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-04-21",
+    "completion_date": "2026-06-02"
+  },
+  {
+    "trial_id": "NCT83877633",
+    "title": "A Phase I Study of Experience in Prostate Cancer",
+    "phase": "Phase IV",
+    "condition": "Prostate Cancer",
+    "status": "Suspended",
+    "sponsor": "Novartis",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Procedure",
+    "enrollment_target": 170,
+    "age_min": 21,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Morgan, Cole and Green Medical Center",
+        "city": "Port Annaside",
+        "state": "WY",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-09-09",
+    "completion_date": "2026-11-14"
+  },
+  {
+    "trial_id": "NCT94989116",
+    "title": "A Phase II Study of Former in Heart Failure",
+    "phase": "Phase I",
+    "condition": "Heart Failure",
+    "status": "Completed",
+    "sponsor": "Roche",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Procedure",
+    "enrollment_target": 268,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Charles-Rodriguez Medical Center",
+        "city": "Lake Andrewtown",
+        "state": "GA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-11-29",
+    "completion_date": "2026-08-19"
+  },
+  {
+    "trial_id": "NCT96411859",
+    "title": "A Phase II Study of Laugh in Type 2 Diabetes",
+    "phase": "Phase III",
+    "condition": "Type 2 Diabetes",
+    "status": "Active",
+    "sponsor": "Roche",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Biological",
+    "enrollment_target": 304,
+    "age_min": 21,
+    "age_max": 75,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Young, Wright and Alvarez Medical Center",
+        "city": "Lake Shawn",
+        "state": "FM",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-08-13",
+    "completion_date": "2026-08-01"
+  },
+  {
+    "trial_id": "NCT11349332",
+    "title": "A Phase II Study of Interview in Heart Failure",
+    "phase": "Phase II",
+    "condition": "Heart Failure",
+    "status": "Suspended",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Procedure",
+    "enrollment_target": 281,
+    "age_min": 18,
+    "age_max": 75,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Stokes PLC Medical Center",
+        "city": "West Scott",
+        "state": "TN",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-02-28",
+    "completion_date": "2026-07-26"
+  },
+  {
+    "trial_id": "NCT82842503",
+    "title": "A Phase II Study of Force in Depression",
+    "phase": "Phase I",
+    "condition": "Depression",
+    "status": "Recruiting",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Device",
+    "enrollment_target": 410,
+    "age_min": 65,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Buchanan-Maldonado Medical Center",
+        "city": "Christopherville",
+        "state": "WY",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-01-17",
+    "completion_date": "2027-06-04"
+  },
+  {
+    "trial_id": "NCT65527931",
+    "title": "A Phase III Study of Young in Lung Cancer",
+    "phase": "Phase IV",
+    "condition": "Lung Cancer",
+    "status": "Active",
+    "sponsor": "Novartis",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Procedure",
+    "enrollment_target": 339,
+    "age_min": 18,
+    "age_max": 75,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Rush, Gonzales and Harrell Medical Center",
+        "city": "Jamestown",
+        "state": "ME",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-10-22",
+    "completion_date": "2027-08-29"
+  },
+  {
+    "trial_id": "NCT90481523",
+    "title": "A Phase I Study of Father in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Roche",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Procedure",
+    "enrollment_target": 122,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Thomas, Harvey and Sanders Medical Center",
+        "city": "West Scott",
+        "state": "MT",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-01-18",
+    "completion_date": "2028-05-06"
+  },
+  {
+    "trial_id": "NCT39373224",
+    "title": "A Phase I Study of Sing in Rheumatoid Arthritis",
+    "phase": "Phase I",
+    "condition": "Rheumatoid Arthritis",
+    "status": "Completed",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Biological",
+    "enrollment_target": 336,
+    "age_min": 21,
+    "age_max": 75,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Craig, Lee and Ross Medical Center",
+        "city": "New Deborahmouth",
+        "state": "ID",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-10-01",
+    "completion_date": "2026-12-28"
+  },
+  {
+    "trial_id": "NCT55308083",
+    "title": "A Phase IV Study of Population in Breast Cancer",
+    "phase": "Phase I",
+    "condition": "Breast Cancer",
+    "status": "Recruiting",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Procedure",
+    "enrollment_target": 122,
+    "age_min": 18,
+    "age_max": null,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "May Group Medical Center",
+        "city": "Tracyberg",
+        "state": "TN",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-10-20",
+    "completion_date": "2026-09-22"
+  },
+  {
+    "trial_id": "NCT71248850",
+    "title": "A Phase IV Study of Citizen in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Novartis",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 419,
+    "age_min": 21,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Fernandez, Zamora and Dodson Medical Center",
+        "city": "New Julie",
+        "state": "OK",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-04-26",
+    "completion_date": "2028-03-11"
+  },
+  {
+    "trial_id": "NCT11490897",
+    "title": "A Phase III Study of Choice in Chronic Kidney Disease",
+    "phase": "Phase I",
+    "condition": "Chronic Kidney Disease",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Biological",
+    "enrollment_target": 283,
+    "age_min": 65,
+    "age_max": null,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Briggs Inc Medical Center",
+        "city": "West Jennifershire",
+        "state": "CO",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-10-05",
+    "completion_date": "2026-10-05"
+  },
+  {
+    "trial_id": "NCT57905954",
+    "title": "A Phase IV Study of Whose in Prostate Cancer",
+    "phase": "Phase II",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Biological",
+    "enrollment_target": 410,
+    "age_min": 21,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Mitchell, Weiss and Ellis Medical Center",
+        "city": "Michaelside",
+        "state": "PR",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-11-14",
+    "completion_date": "2028-03-30"
+  },
+  {
+    "trial_id": "NCT68527315",
+    "title": "A Phase I Study of Simple in Breast Cancer",
+    "phase": "Phase III",
+    "condition": "Breast Cancer",
+    "status": "Suspended",
+    "sponsor": "Roche",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Drug",
+    "enrollment_target": 496,
+    "age_min": 65,
+    "age_max": 75,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Bautista-Cox Medical Center",
+        "city": "Lake Josephside",
+        "state": "MS",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-09-04",
+    "completion_date": "2027-07-10"
+  },
+  {
+    "trial_id": "NCT66128307",
+    "title": "A Phase II Study of Hear in Type 2 Diabetes",
+    "phase": "Phase III",
+    "condition": "Type 2 Diabetes",
+    "status": "Recruiting",
+    "sponsor": "Novartis",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Device",
+    "enrollment_target": 319,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Morales Ltd Medical Center",
+        "city": "Lewisside",
+        "state": "PR",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-06-25",
+    "completion_date": "2026-08-13"
+  },
+  {
+    "trial_id": "NCT73687623",
+    "title": "A Phase IV Study of Feel in Hypertension",
+    "phase": "Phase II",
+    "condition": "Hypertension",
+    "status": "Suspended",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Device",
+    "enrollment_target": 435,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Cochran PLC Medical Center",
+        "city": "North Aaronland",
+        "state": "NJ",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-10-02",
+    "completion_date": "2028-03-13"
+  },
+  {
+    "trial_id": "NCT28980320",
+    "title": "A Phase IV Study of Not in Heart Failure",
+    "phase": "Phase IV",
+    "condition": "Heart Failure",
+    "status": "Suspended",
+    "sponsor": "Novartis",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Drug",
+    "enrollment_target": 274,
+    "age_min": 18,
+    "age_max": null,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Hall Ltd Medical Center",
+        "city": "Robertsfort",
+        "state": "WI",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-02-05",
+    "completion_date": "2027-07-27"
+  },
+  {
+    "trial_id": "NCT38106704",
+    "title": "A Phase II Study of Others in Parkinson's Disease",
+    "phase": "Phase I",
+    "condition": "Parkinson's Disease",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 141,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Jennings Inc Medical Center",
+        "city": "Davidshire",
+        "state": "TN",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-04-02",
+    "completion_date": "2026-06-24"
+  },
+  {
+    "trial_id": "NCT19668945",
+    "title": "A Phase III Study of Be in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Suspended",
+    "sponsor": "Novartis",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Biological",
+    "enrollment_target": 455,
+    "age_min": 18,
+    "age_max": 65,
+    "gender": "Female",
+    "locations": [
+      {
+        "facility": "Delgado and Sons Medical Center",
+        "city": "East Corey",
+        "state": "FL",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-10-07",
+    "completion_date": "2028-05-02"
+  },
+  {
+    "trial_id": "NCT51237030",
+    "title": "A Phase III Study of Explain in Breast Cancer",
+    "phase": "Phase II",
+    "condition": "Breast Cancer",
+    "status": "Active",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Procedure",
+    "enrollment_target": 345,
+    "age_min": 18,
+    "age_max": 65,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Wilkins, Trevino and Osborn Medical Center",
+        "city": "Elizabethbury",
+        "state": "MI",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-08-11",
+    "completion_date": "2027-03-27"
+  },
+  {
+    "trial_id": "NCT81610042",
+    "title": "A Phase III Study of Last in Hypertension",
+    "phase": "Phase IV",
+    "condition": "Hypertension",
+    "status": "Completed",
+    "sponsor": "Roche",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Biological",
+    "enrollment_target": 497,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Avery-Hale Medical Center",
+        "city": "South Kimberly",
+        "state": "OR",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-10-02",
+    "completion_date": "2027-12-11"
+  },
+  {
+    "trial_id": "NCT21815016",
+    "title": "A Phase II Study of Quality in Heart Failure",
+    "phase": "Phase IV",
+    "condition": "Heart Failure",
+    "status": "Active",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Biological",
+    "enrollment_target": 190,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Carter-Jimenez Medical Center",
+        "city": "North Cheryl",
+        "state": "MP",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-09-25",
+    "completion_date": "2028-03-01"
+  },
+  {
+    "trial_id": "NCT69993040",
+    "title": "A Phase II Study of Will in Multiple Sclerosis",
+    "phase": "Phase II",
+    "condition": "Multiple Sclerosis",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Device",
+    "enrollment_target": 500,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Garcia Inc Medical Center",
+        "city": "Port Laurie",
+        "state": "SC",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-09-28",
+    "completion_date": "2026-07-26"
+  },
+  {
+    "trial_id": "NCT16973090",
+    "title": "A Phase IV Study of Continue in Breast Cancer",
+    "phase": "Phase IV",
+    "condition": "Breast Cancer",
+    "status": "Active",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 464,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Beard, Kent and Petersen Medical Center",
+        "city": "Kristymouth",
+        "state": "IL",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-07-10",
+    "completion_date": "2026-08-20"
+  },
+  {
+    "trial_id": "NCT35523492",
+    "title": "A Phase IV Study of After in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Recruiting",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Procedure",
+    "enrollment_target": 193,
+    "age_min": 18,
+    "age_max": null,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Morgan-Brown Medical Center",
+        "city": "Port Alan",
+        "state": "WY",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-12-01",
+    "completion_date": "2027-12-27"
+  },
+  {
+    "trial_id": "NCT19251734",
+    "title": "A Phase II Study of Born in Hypertension",
+    "phase": "Phase II",
+    "condition": "Hypertension",
+    "status": "Completed",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 291,
+    "age_min": 65,
+    "age_max": 65,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Brooks-Davis Medical Center",
+        "city": "New Lisashire",
+        "state": "NH",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-03-16",
+    "completion_date": "2028-03-31"
+  },
+  {
+    "trial_id": "NCT94478768",
+    "title": "A Phase III Study of Poor in Parkinson's Disease",
+    "phase": "Phase I",
+    "condition": "Parkinson's Disease",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Device",
+    "enrollment_target": 441,
+    "age_min": 65,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Yang-Jenkins Medical Center",
+        "city": "Port Dalechester",
+        "state": "DE",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2023-08-15",
+    "completion_date": "2027-09-27"
+  },
+  {
+    "trial_id": "NCT14111654",
+    "title": "A Phase IV Study of Soldier in Heart Failure",
+    "phase": "Phase IV",
+    "condition": "Heart Failure",
+    "status": "Recruiting",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Prevention",
+    "intervention_type": "Procedure",
+    "enrollment_target": 491,
+    "age_min": 21,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Valenzuela Inc Medical Center",
+        "city": "Gregoryberg",
+        "state": "WI",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-07-10",
+    "completion_date": "2026-07-03"
+  },
+  {
+    "trial_id": "NCT83546089",
+    "title": "A Phase III Study of Not in Depression",
+    "phase": "Phase IV",
+    "condition": "Depression",
+    "status": "Recruiting",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Diagnostic",
+    "intervention_type": "Drug",
+    "enrollment_target": 441,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Griffith-Holden Medical Center",
+        "city": "Port Vickiechester",
+        "state": "RI",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-01-13",
+    "completion_date": "2027-09-07"
+  },
+  {
+    "trial_id": "NCT16146624",
+    "title": "A Phase II Study of We in Hypertension",
+    "phase": "Phase III",
+    "condition": "Hypertension",
+    "status": "Completed",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Biological",
+    "enrollment_target": 113,
+    "age_min": 18,
+    "age_max": 85,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Clay, Solomon and Jensen Medical Center",
+        "city": "Lake James",
+        "state": "ME",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-02-16",
+    "completion_date": "2027-06-14"
+  },
+  {
+    "trial_id": "NCT62780164",
+    "title": "A Phase IV Study of I in Rheumatoid Arthritis",
+    "phase": "Phase III",
+    "condition": "Rheumatoid Arthritis",
+    "status": "Suspended",
+    "sponsor": "Bristol Myers Squibb",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Drug",
+    "enrollment_target": 400,
+    "age_min": 21,
+    "age_max": 85,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Bell-Davis Medical Center",
+        "city": "North Paulside",
+        "state": "LA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-05-06",
+    "completion_date": "2028-02-17"
+  },
+  {
+    "trial_id": "NCT89542370",
+    "title": "A Phase IV Study of Away in Breast Cancer",
+    "phase": "Phase I",
+    "condition": "Breast Cancer",
+    "status": "Recruiting",
+    "sponsor": "Pfizer",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Biological",
+    "enrollment_target": 451,
+    "age_min": 18,
+    "age_max": null,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Miller Ltd Medical Center",
+        "city": "Port Michaelborough",
+        "state": "GA",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2025-10-17",
+    "completion_date": "2026-09-07"
+  },
+  {
+    "trial_id": "NCT25597911",
+    "title": "A Phase I Study of Accept in Prostate Cancer",
+    "phase": "Phase I",
+    "condition": "Prostate Cancer",
+    "status": "Active",
+    "sponsor": "Merck",
+    "primary_purpose": "Treatment",
+    "intervention_type": "Procedure",
+    "enrollment_target": 500,
+    "age_min": 18,
+    "age_max": 75,
+    "gender": "Male",
+    "locations": [
+      {
+        "facility": "Phillips, Butler and Parker Medical Center",
+        "city": "East Adamton",
+        "state": "TN",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2026-01-06",
+    "completion_date": "2026-12-06"
+  },
+  {
+    "trial_id": "NCT67753444",
+    "title": "A Phase II Study of Policy in Hypertension",
+    "phase": "Phase I",
+    "condition": "Hypertension",
+    "status": "Completed",
+    "sponsor": "Roche",
+    "primary_purpose": "Supportive Care",
+    "intervention_type": "Procedure",
+    "enrollment_target": 412,
+    "age_min": 21,
+    "age_max": null,
+    "gender": "All",
+    "locations": [
+      {
+        "facility": "Sanchez-Skinner Medical Center",
+        "city": "Deborahton",
+        "state": "VT",
+        "country": "United States"
+      }
+    ],
+    "start_date": "2024-11-04",
+    "completion_date": "2027-05-18"
+  }
+]
